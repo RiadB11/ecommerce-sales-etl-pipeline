@@ -3,7 +3,7 @@ import os
 from dotenv import load_dotenv
 from sqlalchemy import create_engine
 
-# Load environment variables from .env
+
 load_dotenv()
 
 def get_database_connection():
