@@ -1,0 +1,1001 @@
+order_id,order_date,ship_date,ship_mode,customer_id,customer_name,segment,region,state,city,category,sub_category,product_name,quantity,unit_price,discount,sales,cost,profit
+SO-100001,2023-03-22,2023-03-25,Second Class,C0266,Patricia Murphy,Consumer,Northeast,NY,New York,Furniture,Furnishings,Desk Lamp,9,87.18,0,784.62,576.27,208.35
+SO-100002,2024-06-15,2024-06-21,Standard,C0386,Susan Hill,Consumer,West,CA,Sacramento,Technology,Accessories,USB-C Hub,2,126.39,0,252.78,154.68,98.1
+SO-100003,2024-01-19,2024-01-25,Standard,C0003,Stephanie Davis,Consumer,Midwest,MN,Minneapolis,Furniture,Tables,Folding Training Table,1,326.87,0,326.87,238.77,88.1
+SO-100004,2023-12-05,2023-12-09,Second Class,C0481,Donna Jackson,Corporate,South,TX,Dallas,Office Supplies,Appliances,Desk Fan,1,35.16,0,35.16,23.05,12.11
+SO-100005,2023-07-31,2023-08-03,Second Class,C0654,Diego Hall,Consumer,Midwest,MO,Kansas City,Technology,Machines,Laser Printer,3,473.83,0.1,1279.34,1041.54,237.8
+SO-100006,2024-01-06,2024-01-09,Second Class,C0204,Charles Robinson,Consumer,Northeast,NY,Buffalo,Office Supplies,Paper,Cardstock 100 Sheets,9,10.7,0,96.3,58.95,37.35
+SO-100007,2024-08-26,2024-08-28,Second Class,C0212,Ashley Nguyen,Consumer,West,CA,Los Angeles,Furniture,Chairs,Mesh Office Chair,1,288.97,0,288.97,222.81,66.16
+SO-100008,2024-06-02,2024-06-06,Standard,C0724,Mei Hall,Consumer,Northeast,NY,New York,Technology,Accessories,Noise-Canceling Headset,5,31.86,0,159.3,108,51.3
+SO-100009,2024-08-14,2024-08-17,Second Class,C0198,Eric Carter,Consumer,Northeast,NJ,Newark,Office Supplies,Paper,Cardstock 100 Sheets,3,10.7,0,32.1,19.65,12.45
+SO-100010,2024-11-21,2024-11-21,Same Day,C0325,Sandra Gonzalez,Consumer,West,CA,San Francisco,Office Supplies,Art,Dry Erase Markers,3,13.77,0,41.31,23.58,17.73
+SO-100011,2023-06-08,2023-06-12,Second Class,C0765,John Adams,Consumer,Midwest,IL,Chicago,Furniture,Furnishings,Desk Lamp,13,87.18,0.3,793.34,832.39,-39.05
+SO-100012,2023-01-11,2023-01-16,Standard,C0609,Joseph Lee,Consumer,West,CA,Los Angeles,Office Supplies,Paper,Cardstock 100 Sheets,3,10.7,0,32.1,19.65,12.45
+SO-100013,2024-12-03,2024-12-07,Standard,C0117,Jennifer Johnson,Corporate,Northeast,PA,Pittsburgh,Technology,Accessories,USB-C Hub,5,126.39,0.15,537.16,386.7,150.46
+SO-100014,2024-10-28,2024-10-30,First Class,C0685,Charles Hall,Home Office,Midwest,MI,Detroit,Technology,Accessories,Webcam 1080p,4,139.68,0.1,502.85,388.88,113.97
+SO-100015,2023-06-08,2023-06-14,Standard,C0290,Jacob Rivera,Consumer,West,CA,Los Angeles,Furniture,Furnishings,Floor Mat,1,12.58,0,12.58,8.18,4.4
+SO-100016,2023-07-18,2023-07-22,Standard,C0690,Richard Robinson,Corporate,South,TX,Dallas,Furniture,Bookcases,5-Shelf Bookcase,3,102.42,0.1,276.53,229.59,46.94
+SO-100017,2024-02-04,2024-02-08,Second Class,C0599,Barbara Gonzalez,Corporate,Midwest,MO,Kansas City,Furniture,Furnishings,Desk Lamp,8,87.18,0.1,627.7,512.24,115.46
+SO-100018,2023-12-23,2023-12-27,Standard,C0722,Mary Baker,Consumer,West,WA,Seattle,Technology,Machines,Laser Printer,2,473.83,0,947.66,694.36,253.3
+SO-100019,2024-12-24,2024-12-24,Same Day,C0371,Mei Carter,Consumer,Northeast,CT,Hartford,Office Supplies,Appliances,Desk Fan,4,35.16,0.1,126.58,92.2,34.38
+SO-100020,2024-01-31,2024-02-01,First Class,C0196,Olivia Carter,Consumer,West,CA,San Francisco,Technology,Phones,Conference Speakerphone,2,54.64,0,109.28,79.1,30.18
+SO-100021,2023-08-20,2023-08-25,Standard,C0286,Aisha King,Home Office,West,AZ,Phoenix,Technology,Accessories,External SSD 1TB,7,25.67,0,179.69,111.3,68.39
+SO-100022,2023-11-01,2023-11-04,Second Class,C0739,Elizabeth Thomas,Corporate,Northeast,PA,Philadelphia,Technology,Machines,Label Printer,2,989.61,0,1979.22,1453.38,525.84
+SO-100023,2024-09-23,2024-09-28,Standard,C0471,Matthew Young,Consumer,South,GA,Atlanta,Technology,Phones,Conference Speakerphone,4,54.64,0.2,174.85,158.2,16.65
+SO-100024,2024-01-21,2024-01-26,Standard,C0150,Brian Anderson,Consumer,West,NV,Las Vegas,Technology,Machines,Inkjet All-in-One,1,328.85,0,328.85,183.74,145.11
+SO-100025,2024-10-20,2024-10-25,Standard,C0414,Barbara Chen,Consumer,South,FL,Miami,Technology,Machines,Inkjet All-in-One,4,328.85,0,1315.4,734.96,580.44
+SO-100026,2024-05-30,2024-06-03,Standard,C0486,Joseph Lewis,Consumer,South,KY,Louisville,Furniture,Chairs,Mesh Office Chair,4,288.97,0,1155.88,891.24,264.64
+SO-100027,2024-06-23,2024-06-27,Second Class,C0302,Mei Baker,Consumer,Northeast,CT,Hartford,Technology,Accessories,External SSD 1TB,4,25.67,0,102.68,63.6,39.08
+SO-100028,2024-03-03,2024-03-07,Standard,C0546,Mei Murphy,Consumer,South,TX,Dallas,Technology,Copiers,Workgroup Copier,1,2065.49,0.15,1755.67,1455.44,300.23
+SO-100029,2023-05-28,2023-06-02,Standard,C0157,Barbara Harris,Consumer,South,TN,Nashville,Office Supplies,Binders,Presentation Binder,3,28.2,0,84.6,46.89,37.71
+SO-100030,2023-08-09,2023-08-12,Second Class,C0349,Elizabeth Carter,Home Office,South,GA,Atlanta,Technology,Phones,Cordless Phone Set,12,825.69,0,9908.28,5686.56,4221.72
+SO-100031,2023-01-13,2023-01-19,Standard,C0698,Luis Harris,Corporate,Midwest,WI,Milwaukee,Furniture,Chairs,Leather Executive Chair,4,69.19,0.1,249.08,146.64,102.44
+SO-100032,2023-03-22,2023-03-25,Second Class,C0768,William Campbell,Corporate,Northeast,PA,Pittsburgh,Technology,Phones,Conference Speakerphone,2,54.64,0,109.28,79.1,30.18
+SO-100033,2023-09-15,2023-09-19,Standard,C0792,Andrew Rodriguez,Consumer,Midwest,OH,Columbus,Office Supplies,Envelopes,Large Kraft Envelopes,2,17.68,0,35.36,23.2,12.16
+SO-100034,2024-01-12,2024-01-17,Standard,C0083,Joseph King,Home Office,South,NC,Charlotte,Office Supplies,Paper,Ruled Notepads 12-Pack,6,25.19,0,151.14,113.4,37.74
+SO-100035,2024-09-01,2024-09-06,Standard,C0117,Jennifer Johnson,Corporate,Northeast,NY,New York,Furniture,Chairs,Mesh Office Chair,2,288.97,0,577.94,445.62,132.32
+SO-100036,2023-04-05,2023-04-10,Standard,C0794,William Martinez,Consumer,Northeast,NY,Buffalo,Furniture,Tables,Rectangular Meeting Table,2,208.01,0,416.02,318.66,97.36
+SO-100037,2023-11-03,2023-11-07,Standard,C0314,Emma Nguyen,Home Office,West,NV,Las Vegas,Furniture,Tables,Round Cafe Table,5,216.46,0.2,865.84,824.2,41.64
+SO-100038,2023-01-21,2023-01-26,Standard,C0367,Robert Lee,Consumer,South,LA,New Orleans,Technology,Phones,Cordless Phone Set,4,825.69,0,3302.76,1895.52,1407.24
+SO-100039,2023-11-10,2023-11-15,Standard,C0429,Sandra Murphy,Consumer,South,FL,Orlando,Furniture,Chairs,Leather Executive Chair,1,69.19,0,69.19,36.66,32.53
+SO-100040,2023-02-05,2023-02-10,Standard,C0565,Rebecca Harris,Corporate,Northeast,NY,New York,Office Supplies,Appliances,Space Heater,3,190.41,0,571.23,430.53,140.7
+SO-100041,2023-01-12,2023-01-14,Second Class,C0546,Mei Murphy,Consumer,West,CO,Denver,Office Supplies,Art,Gel Pens 12-Pack,14,8.3,0,116.2,61.46,54.74
+SO-100042,2023-04-09,2023-04-15,Standard,C0582,Priya Chen,Consumer,West,CA,San Diego,Office Supplies,Paper,Sticky Notes Bulk,2,7.26,0.15,12.34,9.54,2.8
+SO-100043,2024-01-17,2024-01-20,Second Class,C0398,Brian Thompson,Home Office,Northeast,NY,New York,Furniture,Bookcases,Corner Bookcase,4,188.81,0.2,604.19,570.4,33.79
+SO-100044,2024-10-07,2024-10-12,Standard,C0331,Sarah Clark,Consumer,Northeast,CT,Hartford,Technology,Accessories,Wireless Mouse,10,61.58,0.3,431.06,409.3,21.76
+SO-100045,2023-10-17,2023-10-23,Standard,C0679,Olivia Martin,Consumer,West,AZ,Phoenix,Office Supplies,Storage,Archive Boxes 10-Pack,2,69.61,0,139.22,83.28,55.94
+SO-100046,2023-05-12,2023-05-16,Standard,C0689,Sofia White,Consumer,Northeast,NJ,Newark,Furniture,Bookcases,Corner Bookcase,6,188.81,0,1132.86,855.6,277.26
+SO-100047,2024-07-16,2024-07-18,First Class,C0295,James Hall,Consumer,Midwest,IN,Indianapolis,Office Supplies,Envelopes,Padded Mailers 25,4,32.68,0,130.72,80.28,50.44
+SO-100048,2024-09-12,2024-09-16,Standard,C0070,Robert Miller,Consumer,South,TX,Austin,Furniture,Bookcases,Corner Bookcase,8,188.81,0.2,1208.38,1140.8,67.58
+SO-100049,2024-09-06,2024-09-11,Standard,C0356,Sandra Sanchez,Home Office,South,FL,Miami,Furniture,Chairs,Drafting Stool,3,210.14,0.1,567.38,487.05,80.33
+SO-100050,2024-09-11,2024-09-15,Second Class,C0773,Omar Hill,Consumer,West,CA,San Francisco,Furniture,Furnishings,Wall Clock,2,38.67,0.15,65.74,42.88,22.86
+SO-100051,2023-04-14,2023-04-20,Standard,C0733,Joshua Moore,Corporate,Northeast,MA,Boston,Technology,Phones,Smartphone 128GB,5,639.48,0.2,2557.92,2472.95,84.97
+SO-100052,2023-09-13,2023-09-18,Standard,C0715,Elizabeth Rogers,Consumer,South,TX,Houston,Office Supplies,Storage,File Cabinet 2-Drawer,3,12.16,0,36.48,24.51,11.97
+SO-100053,2024-05-30,2024-06-01,First Class,C0085,Samuel Flores,Consumer,Northeast,PA,Philadelphia,Technology,Accessories,USB-C Hub,4,126.39,0,505.56,309.36,196.2
+SO-100054,2024-05-12,2024-05-14,First Class,C0283,Carol Young,Consumer,Northeast,NY,New York,Office Supplies,Binders,Sheet Protectors 100,3,3.15,0,9.45,6.54,2.91
+SO-100055,2024-08-15,2024-08-21,Standard,C0086,Stephanie Lewis,Consumer,Midwest,MN,Minneapolis,Furniture,Furnishings,Desk Lamp,12,87.18,0.2,836.93,768.36,68.57
+SO-100056,2023-12-15,2023-12-17,Second Class,C0303,Patricia Gonzalez,Consumer,South,FL,Tampa,Technology,Accessories,Noise-Canceling Headset,3,31.86,0.3,66.91,64.8,2.11
+SO-100057,2024-01-04,2024-01-09,Standard,C0381,Stephanie Robinson,Consumer,West,AZ,Phoenix,Furniture,Tables,Folding Training Table,1,326.87,0,326.87,238.77,88.1
+SO-100058,2023-09-09,2023-09-13,Standard,C0400,Sofia Rodriguez,Consumer,West,CA,Los Angeles,Office Supplies,Paper,Copy Paper Ream,6,21.75,0,130.5,94.38,36.12
+SO-100059,2023-06-13,2023-06-19,Standard,C0033,William Green,Corporate,West,CA,Los Angeles,Office Supplies,Appliances,Paper Shredder,3,169.63,0.2,407.11,278.43,128.68
+SO-100060,2023-04-24,2023-04-27,Second Class,C0679,Olivia Martin,Consumer,South,LA,New Orleans,Technology,Accessories,Noise-Canceling Headset,4,31.86,0,127.44,86.4,41.04
+SO-100061,2023-08-06,2023-08-11,Standard,C0512,Aaron Harris,Consumer,Northeast,NY,New York,Furniture,Furnishings,Floor Mat,3,12.58,0.2,30.19,24.54,5.65
+SO-100062,2024-07-06,2024-07-08,Second Class,C0186,Linda Sanchez,Corporate,South,NC,Charlotte,Furniture,Bookcases,5-Shelf Bookcase,8,102.42,0,819.36,612.24,207.12
+SO-100063,2024-09-03,2024-09-06,Second Class,C0581,Barbara Clark,Consumer,West,UT,Salt Lake City,Technology,Accessories,USB-C Hub,3,126.39,0.15,322.29,232.02,90.27
+SO-100064,2023-07-28,2023-07-31,Second Class,C0362,Sarah Torres,Corporate,South,TX,Dallas,Office Supplies,Binders,Presentation Binder,5,28.2,0,141,78.15,62.85
+SO-100065,2023-06-09,2023-06-14,Standard,C0393,Mary Anderson,Consumer,South,FL,Miami,Furniture,Furnishings,Wall Clock,9,38.67,0.3,243.62,192.96,50.66
+SO-100066,2023-11-10,2023-11-11,First Class,C0363,Laura Thompson,Home Office,Northeast,NY,New York,Furniture,Furnishings,Floor Mat,1,12.58,0.15,10.69,8.18,2.51
+SO-100067,2024-01-08,2024-01-10,Second Class,C0604,Carol Allen,Consumer,South,LA,New Orleans,Technology,Machines,Label Printer,2,989.61,0,1979.22,1453.38,525.84
+SO-100068,2024-07-30,2024-07-31,First Class,C0638,Anthony Shah,Consumer,South,FL,Tampa,Office Supplies,Binders,3-Ring Binder 2 inch,1,7.66,0,7.66,4.11,3.55
+SO-100069,2023-09-02,2023-09-08,Standard,C0173,Mary Anderson,Corporate,Northeast,NY,New York,Office Supplies,Paper,Ruled Notepads 12-Pack,5,25.19,0,125.95,94.5,31.45
+SO-100070,2024-09-07,2024-09-12,Standard,C0049,Robert Gonzalez,Consumer,West,NV,Las Vegas,Furniture,Chairs,Ergonomic Task Chair,2,204.73,0,409.46,256.86,152.6
+SO-100071,2023-05-26,2023-05-28,Second Class,C0655,Rebecca Robinson,Corporate,West,WA,Seattle,Office Supplies,Storage,Archive Boxes 10-Pack,1,69.61,0.2,55.69,41.64,14.05
+SO-100072,2023-09-27,2023-10-01,Standard,C0778,Karen Bell,Consumer,West,AZ,Phoenix,Technology,Accessories,USB-C Hub,3,126.39,0.2,303.34,232.02,71.32
+SO-100073,2024-05-11,2024-05-15,Standard,C0457,Mark Thompson,Consumer,South,FL,Orlando,Office Supplies,Paper,Ruled Notepads 12-Pack,3,25.19,0,75.57,56.7,18.87
+SO-100074,2024-09-10,2024-09-16,Standard,C0038,Luis Thompson,Consumer,Midwest,OH,Columbus,Office Supplies,Storage,Rolling Cart,10,111.41,0.15,946.98,636.3,310.68
+SO-100075,2023-03-10,2023-03-12,First Class,C0066,Omar Brown,Consumer,West,CA,Los Angeles,Technology,Copiers,Workgroup Copier,2,2065.49,0.15,3511.33,2910.88,600.45
+SO-100076,2024-02-10,2024-02-16,Standard,C0001,Steven Nelson,Consumer,Northeast,NY,Buffalo,Office Supplies,Binders,3-Ring Binder 2 inch,2,7.66,0,15.32,8.22,7.1
+SO-100077,2024-06-01,2024-06-02,First Class,C0033,William Green,Corporate,Northeast,NY,Buffalo,Furniture,Furnishings,Wall Clock,2,38.67,0,77.34,42.88,34.46
+SO-100078,2024-07-27,2024-07-31,Second Class,C0214,Mei Jackson,Corporate,Midwest,WI,Milwaukee,Furniture,Furnishings,Desk Organizer,2,56.21,0,112.42,82.3,30.12
+SO-100079,2023-07-12,2023-07-17,Standard,C0288,Sandra Jones,Consumer,Northeast,RI,Providence,Technology,Machines,Laser Printer,2,473.83,0,947.66,694.36,253.3
+SO-100080,2024-01-17,2024-01-21,Second Class,C0693,David Clark,Consumer,Midwest,WI,Milwaukee,Furniture,Bookcases,Low Storage Bookcase,6,336.42,0.1,1816.67,1290.78,525.89
+SO-100081,2024-12-31,2024-12-31,Same Day,C0549,Emily King,Consumer,West,CO,Denver,Furniture,Chairs,Stacking Guest Chair,3,201.37,0.3,422.88,360.45,62.43
+SO-100082,2024-11-29,2024-12-04,Standard,C0536,Diego Smith,Corporate,Midwest,IL,Chicago,Office Supplies,Art,Dry Erase Markers,1,13.77,0.2,11.02,7.86,3.16
+SO-100083,2024-05-09,2024-05-14,Standard,C0267,Olivia Robinson,Consumer,Midwest,IL,Chicago,Office Supplies,Art,Gel Pens 12-Pack,3,8.3,0,24.9,13.17,11.73
+SO-100084,2024-10-16,2024-10-18,Second Class,C0135,Olivia Murphy,Consumer,South,FL,Tampa,Office Supplies,Envelopes,Large Kraft Envelopes,1,17.68,0.15,15.03,11.6,3.43
+SO-100085,2024-03-21,2024-03-24,Second Class,C0010,Charles Flores,Consumer,Northeast,NY,Buffalo,Technology,Machines,Laser Printer,13,473.83,0.1,5543.81,4513.34,1030.47
+SO-100086,2024-06-21,2024-06-26,Standard,C0083,Joseph King,Home Office,South,TX,Dallas,Office Supplies,Envelopes,Large Kraft Envelopes,3,17.68,0,53.04,34.8,18.24
+SO-100087,2024-07-01,2024-07-06,Standard,C0424,Nicholas Robinson,Corporate,South,LA,New Orleans,Furniture,Chairs,Ergonomic Task Chair,4,204.73,0,818.92,513.72,305.2
+SO-100088,2024-04-06,2024-04-09,Second Class,C0554,Stephanie White,Consumer,West,CA,Los Angeles,Office Supplies,Paper,Ruled Notepads 12-Pack,2,25.19,0.4,30.23,37.8,-7.57
+SO-100089,2024-07-08,2024-07-11,Second Class,C0693,David Clark,Consumer,Northeast,PA,Pittsburgh,Furniture,Furnishings,Wall Clock,7,38.67,0.3,189.48,150.08,39.4
+SO-100090,2023-11-07,2023-11-11,Standard,C0354,Nicholas Shah,Corporate,Midwest,OH,Columbus,Office Supplies,Paper,Cardstock 100 Sheets,1,10.7,0.2,8.56,6.55,2.01
+SO-100091,2024-08-15,2024-08-21,Standard,C0217,William White,Consumer,Northeast,MA,Boston,Office Supplies,Appliances,Space Heater,9,190.41,0,1713.69,1291.59,422.1
+SO-100092,2024-01-06,2024-01-12,Standard,C0359,Rebecca Morgan,Consumer,South,TX,San Antonio,Furniture,Chairs,Ergonomic Task Chair,6,204.73,0,1228.38,770.58,457.8
+SO-100093,2024-07-18,2024-07-22,Standard,C0268,Barbara White,Consumer,Midwest,MI,Detroit,Office Supplies,Storage,File Cabinet 2-Drawer,11,12.16,0.15,113.7,89.87,23.83
+SO-100094,2024-07-31,2024-08-04,Second Class,C0635,Sarah Taylor,Corporate,West,AZ,Phoenix,Office Supplies,Envelopes,Padded Mailers 25,5,32.68,0,163.4,100.35,63.05
+SO-100095,2023-01-10,2023-01-10,Same Day,C0320,Stephanie Cook,Corporate,Midwest,MO,Kansas City,Office Supplies,Appliances,Paper Shredder,11,169.63,0,1865.93,1020.91,845.02
+SO-100096,2023-09-12,2023-09-16,Standard,C0335,Andrew Williams,Home Office,West,UT,Salt Lake City,Furniture,Tables,Folding Training Table,1,326.87,0,326.87,238.77,88.1
+SO-100097,2024-11-07,2024-11-11,Second Class,C0127,Jacob Smith,Consumer,West,CA,Sacramento,Technology,Accessories,USB-C Hub,2,126.39,0.2,202.22,154.68,47.54
+SO-100098,2023-12-02,2023-12-04,Second Class,C0048,Aisha Scott,Home Office,Midwest,IL,Chicago,Technology,Phones,Smartphone 128GB,12,639.48,0,7673.76,5935.08,1738.68
+SO-100099,2024-06-21,2024-06-25,Standard,C0429,Sandra Murphy,Consumer,Northeast,RI,Providence,Office Supplies,Appliances,Space Heater,3,190.41,0,571.23,430.53,140.7
+SO-100100,2023-03-22,2023-03-26,Standard,C0251,Brian Mitchell,Home Office,Northeast,NY,New York,Technology,Accessories,External SSD 1TB,4,25.67,0,102.68,63.6,39.08
+SO-100101,2024-10-07,2024-10-07,Same Day,C0476,Eric Martinez,Consumer,West,CA,Los Angeles,Technology,Accessories,Mechanical Keyboard,8,32.85,0,262.8,157.04,105.76
+SO-100102,2023-10-12,2023-10-16,Standard,C0216,Omar Hernandez,Home Office,West,CA,San Diego,Technology,Accessories,Noise-Canceling Headset,3,31.86,0,95.58,64.8,30.78
+SO-100103,2024-09-25,2024-10-01,Standard,C0474,Robert Rivera,Corporate,West,CA,Los Angeles,Office Supplies,Binders,3-Ring Binder 2 inch,7,7.66,0.2,42.9,28.77,14.13
+SO-100104,2023-02-02,2023-02-07,Standard,C0520,Diego Hill,Consumer,South,TX,San Antonio,Technology,Phones,Smartphone 128GB,1,639.48,0,639.48,494.59,144.89
+SO-100105,2024-09-18,2024-09-22,Standard,C0794,William Martinez,Consumer,West,CO,Denver,Technology,Machines,Laser Printer,4,473.83,0,1895.32,1388.72,506.6
+SO-100106,2023-03-12,2023-03-18,Standard,C0304,Carol Jackson,Consumer,Northeast,NY,New York,Furniture,Tables,Folding Training Table,14,326.87,0,4576.18,3342.78,1233.4
+SO-100107,2024-02-22,2024-02-25,Second Class,C0669,Patricia Hall,Corporate,Midwest,MO,Kansas City,Furniture,Tables,Rectangular Meeting Table,7,208.01,0.1,1310.46,1115.31,195.15
+SO-100108,2024-10-12,2024-10-17,Standard,C0794,William Martinez,Consumer,Midwest,NE,Omaha,Office Supplies,Storage,Rolling Cart,2,111.41,0.4,133.69,127.26,6.43
+SO-100109,2023-12-17,2023-12-21,Standard,C0010,Charles Flores,Consumer,South,FL,Miami,Technology,Machines,Inkjet All-in-One,3,328.85,0,986.55,551.22,435.33
+SO-100110,2024-12-25,2024-12-31,Standard,C0350,Mark Moore,Consumer,Midwest,WI,Milwaukee,Furniture,Furnishings,Desk Organizer,4,56.21,0,224.84,164.6,60.24
+SO-100111,2023-01-22,2023-01-26,Standard,C0785,James Rivera,Consumer,Midwest,OH,Columbus,Furniture,Tables,Rectangular Meeting Table,4,208.01,0,832.04,637.32,194.72
+SO-100112,2023-03-22,2023-03-27,Standard,C0494,David Martinez,Corporate,Midwest,IL,Chicago,Technology,Copiers,Workgroup Copier,2,2065.49,0.1,3717.88,2910.88,807
+SO-100113,2023-11-30,2023-12-04,Standard,C0533,Ryan Anderson,Consumer,Midwest,MN,Minneapolis,Office Supplies,Storage,Plastic Storage Bin,13,34.42,0,447.46,345.93,101.53
+SO-100114,2024-03-05,2024-03-08,Second Class,C0270,Aaron Robinson,Corporate,Northeast,NY,New York,Office Supplies,Art,Colored Pencils 24,14,3.01,0,42.14,28.28,13.86
+SO-100115,2023-08-29,2023-09-03,Standard,C0032,Mei Shah,Corporate,Northeast,CT,Hartford,Office Supplies,Binders,Binder Clips Box,4,8.45,0,33.8,22.04,11.76
+SO-100116,2024-12-22,2024-12-22,Same Day,C0433,Jonathan Ramirez,Home Office,Midwest,NE,Omaha,Furniture,Bookcases,Corner Bookcase,8,188.81,0,1510.48,1140.8,369.68
+SO-100117,2024-11-13,2024-11-17,Standard,C0628,Aisha Khan,Corporate,South,TX,San Antonio,Technology,Machines,Label Printer,3,989.61,0.2,2375.06,2180.07,194.99
+SO-100118,2023-07-27,2023-07-31,Second Class,C0165,Joshua Thompson,Corporate,West,AZ,Phoenix,Office Supplies,Art,Colored Pencils 24,2,3.01,0,6.02,4.04,1.98
+SO-100119,2024-11-25,2024-12-01,Standard,C0638,Anthony Shah,Consumer,Midwest,OH,Columbus,Furniture,Bookcases,Low Storage Bookcase,8,336.42,0,2691.36,1721.04,970.32
+SO-100120,2024-10-30,2024-10-31,First Class,C0411,Michael Shah,Corporate,Midwest,MO,Kansas City,Furniture,Chairs,Leather Executive Chair,2,69.19,0,138.38,73.32,65.06
+SO-100121,2023-02-25,2023-02-27,Second Class,C0394,Susan Hernandez,Consumer,South,TX,Houston,Technology,Copiers,Desktop Copier,8,2105.87,0.2,13477.57,12777.12,700.45
+SO-100122,2024-02-13,2024-02-15,First Class,C0081,Luis Gonzalez,Corporate,Northeast,RI,Providence,Furniture,Chairs,Mesh Office Chair,4,288.97,0,1155.88,891.24,264.64
+SO-100123,2023-01-09,2023-01-10,First Class,C0454,John Young,Home Office,Midwest,MI,Detroit,Technology,Phones,Smartphone 128GB,11,639.48,0.4,4220.57,5440.49,-1219.92
+SO-100124,2024-05-30,2024-06-05,Standard,C0586,Aaron Johnson,Corporate,South,FL,Orlando,Office Supplies,Paper,Cardstock 100 Sheets,14,10.7,0,149.8,91.7,58.1
+SO-100125,2023-04-21,2023-04-25,Standard,C0344,Jacob Hall,Consumer,Midwest,IL,Chicago,Office Supplies,Storage,File Cabinet 2-Drawer,8,12.16,0,97.28,65.36,31.92
+SO-100126,2024-10-24,2024-10-30,Standard,C0238,Amanda Campbell,Consumer,South,FL,Tampa,Office Supplies,Envelopes,Security Envelopes 500,3,24.01,0,72.03,41.97,30.06
+SO-100127,2024-09-21,2024-09-24,Second Class,C0223,Jacob Hill,Home Office,Northeast,CT,Hartford,Office Supplies,Storage,Plastic Storage Bin,3,34.42,0.1,92.93,79.83,13.1
+SO-100128,2023-10-25,2023-10-31,Standard,C0070,Robert Miller,Consumer,West,CA,Los Angeles,Technology,Machines,Laser Printer,3,473.83,0.1,1279.34,1041.54,237.8
+SO-100129,2023-10-16,2023-10-20,Standard,C0693,David Clark,Consumer,West,CA,Los Angeles,Office Supplies,Paper,Copy Paper Ream,4,21.75,0,87,62.92,24.08
+SO-100130,2023-05-02,2023-05-03,First Class,C0599,Barbara Gonzalez,Corporate,South,TX,Houston,Furniture,Furnishings,Wall Clock,5,38.67,0,193.35,107.2,86.15
+SO-100131,2023-10-09,2023-10-11,Second Class,C0661,Jacob Lewis,Consumer,Midwest,OH,Columbus,Office Supplies,Storage,Archive Boxes 10-Pack,1,69.61,0.1,62.65,41.64,21.01
+SO-100132,2023-03-06,2023-03-11,Standard,C0695,Daniel Robinson,Consumer,West,CA,San Francisco,Technology,Machines,Label Printer,3,989.61,0.2,2375.06,2180.07,194.99
+SO-100133,2023-08-10,2023-08-14,Second Class,C0021,Patricia Robinson,Consumer,West,CA,Los Angeles,Technology,Phones,Conference Speakerphone,3,54.64,0,163.92,118.65,45.27
+SO-100134,2024-12-04,2024-12-09,Standard,C0502,Mei Hill,Corporate,South,FL,Orlando,Office Supplies,Art,Highlighters 6-Pack,2,22.69,0.1,40.84,30.34,10.5
+SO-100135,2023-05-06,2023-05-11,Standard,C0332,Jessica Scott,Consumer,West,WA,Seattle,Technology,Accessories,Noise-Canceling Headset,2,31.86,0.1,57.35,43.2,14.15
+SO-100136,2023-07-06,2023-07-10,Standard,C0305,Susan Mitchell,Corporate,West,CO,Denver,Office Supplies,Paper,Ruled Notepads 12-Pack,3,25.19,0.5,37.79,56.7,-18.91
+SO-100137,2024-12-25,2024-12-26,First Class,C0742,Thomas Morgan,Consumer,Northeast,NY,New York,Office Supplies,Storage,File Cabinet 2-Drawer,6,12.16,0.2,58.37,49.02,9.35
+SO-100138,2024-07-08,2024-07-12,Standard,C0643,Michelle Robinson,Home Office,South,NC,Charlotte,Office Supplies,Binders,Presentation Binder,2,28.2,0.2,45.12,31.26,13.86
+SO-100139,2023-04-22,2023-04-28,Standard,C0413,Mark Williams,Consumer,Midwest,MO,Kansas City,Office Supplies,Art,Gel Pens 12-Pack,7,8.3,0,58.1,30.73,27.37
+SO-100140,2024-07-06,2024-07-10,Standard,C0478,Amanda Rodriguez,Consumer,South,FL,Miami,Office Supplies,Paper,Sticky Notes Bulk,9,7.26,0,65.34,42.93,22.41
+SO-100141,2023-04-15,2023-04-15,Same Day,C0244,Ryan Smith,Home Office,South,FL,Miami,Office Supplies,Art,Dry Erase Markers,7,13.77,0,96.39,55.02,41.37
+SO-100142,2024-07-22,2024-07-22,Same Day,C0680,Luis Sanchez,Consumer,West,UT,Salt Lake City,Furniture,Chairs,Stacking Guest Chair,2,201.37,0,402.74,240.3,162.44
+SO-100143,2024-12-31,2025-01-04,Second Class,C0367,Robert Lee,Consumer,Midwest,IL,Chicago,Office Supplies,Storage,File Cabinet 2-Drawer,1,12.16,0.3,8.51,8.17,0.34
+SO-100144,2024-11-10,2024-11-10,Same Day,C0510,Mei Cook,Home Office,South,TN,Nashville,Office Supplies,Binders,3-Ring Binder 2 inch,2,7.66,0.15,13.02,8.22,4.8
+SO-100145,2024-05-03,2024-05-08,Standard,C0752,Nicholas Ramirez,Consumer,South,LA,New Orleans,Technology,Phones,Smartphone 128GB,3,639.48,0.2,1534.75,1483.77,50.98
+SO-100146,2023-04-14,2023-04-16,First Class,C0359,Rebecca Morgan,Consumer,West,CA,Sacramento,Office Supplies,Appliances,Desk Fan,2,35.16,0,70.32,46.1,24.22
+SO-100147,2024-03-06,2024-03-08,First Class,C0234,Luis Garcia,Consumer,South,FL,Tampa,Technology,Accessories,External SSD 1TB,1,25.67,0.4,15.4,15.9,-0.5
+SO-100148,2023-04-26,2023-04-27,First Class,C0455,Jennifer Lee,Consumer,Northeast,CT,Hartford,Furniture,Chairs,Leather Executive Chair,3,69.19,0,207.57,109.98,97.59
+SO-100149,2023-12-09,2023-12-15,Standard,C0145,Patricia Cook,Corporate,Midwest,NE,Omaha,Technology,Accessories,USB-C Hub,2,126.39,0.15,214.86,154.68,60.18
+SO-100150,2023-06-01,2023-06-06,Standard,C0288,Sandra Jones,Consumer,Midwest,MN,Minneapolis,Furniture,Tables,Folding Training Table,1,326.87,0,326.87,238.77,88.1
+SO-100151,2024-05-18,2024-05-22,Standard,C0432,Kimberly Allen,Corporate,Midwest,OH,Columbus,Office Supplies,Binders,Sheet Protectors 100,4,3.15,0,12.6,8.72,3.88
+SO-100152,2023-02-21,2023-02-24,Second Class,C0453,Olivia Chen,Corporate,Northeast,NY,Buffalo,Furniture,Furnishings,Desk Lamp,1,87.18,0,87.18,64.03,23.15
+SO-100153,2024-04-23,2024-04-27,Standard,C0329,Andrew Nguyen,Consumer,South,TX,Dallas,Office Supplies,Storage,Plastic Storage Bin,1,34.42,0.15,29.26,26.61,2.65
+SO-100154,2024-11-27,2024-12-01,Standard,C0425,Kimberly Walker,Corporate,South,TX,Houston,Office Supplies,Art,Highlighters 6-Pack,4,22.69,0,90.76,60.68,30.08
+SO-100155,2023-11-15,2023-11-18,Second Class,C0146,Thomas Torres,Home Office,Northeast,NY,Buffalo,Office Supplies,Paper,Sticky Notes Bulk,3,7.26,0.2,17.42,14.31,3.11
+SO-100156,2024-02-19,2024-02-22,Second Class,C0189,Priya Lewis,Consumer,West,CO,Denver,Furniture,Chairs,Stacking Guest Chair,3,201.37,0,604.11,360.45,243.66
+SO-100157,2023-06-11,2023-06-16,Standard,C0466,Priya Khan,Corporate,South,VA,Richmond,Furniture,Bookcases,5-Shelf Bookcase,11,102.42,0,1126.62,841.83,284.79
+SO-100158,2024-09-26,2024-09-30,Second Class,C0697,Mei Smith,Corporate,West,CA,Los Angeles,Technology,Phones,Conference Speakerphone,5,54.64,0.15,232.22,197.75,34.47
+SO-100159,2023-08-18,2023-08-22,Second Class,C0033,William Green,Corporate,Midwest,WI,Milwaukee,Furniture,Bookcases,Low Storage Bookcase,3,336.42,0,1009.26,645.39,363.87
+SO-100160,2024-06-25,2024-06-27,Second Class,C0364,William Smith,Consumer,South,FL,Miami,Technology,Machines,Label Printer,3,989.61,0,2968.83,2180.07,788.76
+SO-100161,2024-03-25,2024-03-27,Second Class,C0371,Mei Carter,Consumer,West,CA,San Diego,Office Supplies,Envelopes,Large Kraft Envelopes,10,17.68,0.15,150.28,116,34.28
+SO-100162,2024-01-01,2024-01-06,Standard,C0351,Diego Mitchell,Consumer,West,NV,Las Vegas,Furniture,Furnishings,Desk Lamp,7,87.18,0,610.26,448.21,162.05
+SO-100163,2024-04-26,2024-04-30,Standard,C0744,Carol Flores,Consumer,South,NC,Charlotte,Office Supplies,Storage,File Cabinet 2-Drawer,6,12.16,0,72.96,49.02,23.94
+SO-100164,2024-08-01,2024-08-07,Standard,C0125,Mei Lee,Home Office,Midwest,MO,Kansas City,Furniture,Furnishings,Picture Frame Set,3,9.83,0,29.49,16.47,13.02
+SO-100165,2024-03-29,2024-04-04,Standard,C0435,Wei Jackson,Consumer,Midwest,MI,Detroit,Technology,Machines,Laser Printer,6,473.83,0,2842.98,2083.08,759.9
+SO-100166,2024-07-03,2024-07-09,Standard,C0478,Amanda Rodriguez,Consumer,South,TX,Austin,Furniture,Chairs,Stacking Guest Chair,7,201.37,0.1,1268.63,841.05,427.58
+SO-100167,2024-12-23,2024-12-29,Standard,C0620,Wei Harris,Corporate,Northeast,NY,New York,Technology,Copiers,Workgroup Copier,4,2065.49,0.15,7022.67,5821.76,1200.91
+SO-100168,2023-12-30,2023-12-30,Same Day,C0272,Aisha Garcia,Home Office,Northeast,PA,Philadelphia,Office Supplies,Envelopes,Padded Mailers 25,5,32.68,0,163.4,100.35,63.05
+SO-100169,2023-03-20,2023-03-26,Standard,C0298,Mark Williams,Corporate,South,KY,Louisville,Furniture,Chairs,Drafting Stool,1,210.14,0.1,189.13,162.35,26.78
+SO-100170,2023-05-30,2023-05-30,Same Day,C0402,Amanda Bell,Consumer,Northeast,CT,Hartford,Office Supplies,Binders,Binder Clips Box,2,8.45,0,16.9,11.02,5.88
+SO-100171,2024-03-02,2024-03-06,Second Class,C0378,Wei Scott,Consumer,South,GA,Atlanta,Office Supplies,Art,Dry Erase Markers,4,13.77,0,55.08,31.44,23.64
+SO-100172,2024-04-01,2024-04-05,Standard,C0441,David Jones,Consumer,Northeast,NY,New York,Office Supplies,Paper,Cardstock 100 Sheets,3,10.7,0.1,28.89,19.65,9.24
+SO-100173,2024-06-30,2024-07-05,Standard,C0797,Jonathan Thompson,Home Office,Northeast,PA,Pittsburgh,Office Supplies,Envelopes,Padded Mailers 25,5,32.68,0,163.4,100.35,63.05
+SO-100174,2023-07-06,2023-07-08,First Class,C0786,Michael White,Consumer,Midwest,WI,Milwaukee,Technology,Machines,Document Scanner,7,676.78,0,4737.46,2651.04,2086.42
+SO-100175,2023-11-24,2023-11-28,Standard,C0766,Elizabeth Hernandez,Consumer,West,CA,San Francisco,Office Supplies,Binders,3-Ring Binder 2 inch,8,7.66,0.2,49.02,32.88,16.14
+SO-100176,2023-07-03,2023-07-08,Standard,C0144,Sofia Lewis,Corporate,West,CA,San Diego,Office Supplies,Appliances,Desk Fan,4,35.16,0.2,112.51,92.2,20.31
+SO-100177,2023-10-11,2023-10-17,Standard,C0780,Elizabeth White,Consumer,West,CA,Sacramento,Office Supplies,Appliances,Paper Shredder,2,169.63,0,339.26,185.62,153.64
+SO-100178,2024-03-23,2024-03-24,First Class,C0111,Jacob Rogers,Home Office,South,FL,Tampa,Office Supplies,Art,Colored Pencils 24,2,3.01,0,6.02,4.04,1.98
+SO-100179,2023-02-27,2023-03-01,First Class,C0339,Joseph Robinson,Consumer,Northeast,NY,New York,Furniture,Chairs,Leather Executive Chair,12,69.19,0.3,581.2,439.92,141.28
+SO-100180,2023-06-11,2023-06-17,Standard,C0031,Amanda Anderson,Consumer,West,WA,Seattle,Technology,Copiers,Workgroup Copier,5,2065.49,0.1,9294.71,7277.2,2017.51
+SO-100181,2023-06-13,2023-06-13,Same Day,C0767,Barbara Anderson,Corporate,Northeast,NY,New York,Furniture,Furnishings,Wall Clock,3,38.67,0,116.01,64.32,51.69
+SO-100182,2023-06-20,2023-06-22,First Class,C0018,Sandra Chen,Corporate,Northeast,NY,New York,Furniture,Tables,Adjustable Standing Desk,1,425.97,0.2,340.78,286.01,54.77
+SO-100183,2024-04-08,2024-04-14,Standard,C0633,Emily Young,Consumer,Midwest,IL,Chicago,Technology,Accessories,Webcam 1080p,4,139.68,0,558.72,388.88,169.84
+SO-100184,2024-01-15,2024-01-20,Standard,C0034,Jessica Gonzalez,Home Office,West,CO,Denver,Office Supplies,Envelopes,Large Kraft Envelopes,11,17.68,0,194.48,127.6,66.88
+SO-100185,2024-08-21,2024-08-23,Second Class,C0710,Samuel Carter,Consumer,West,CA,Los Angeles,Furniture,Bookcases,Low Storage Bookcase,5,336.42,0.1,1513.89,1075.65,438.24
+SO-100186,2023-07-10,2023-07-14,Standard,C0068,Luis Garcia,Corporate,South,TX,Houston,Technology,Phones,Cordless Phone Set,6,825.69,0,4954.14,2843.28,2110.86
+SO-100187,2024-09-19,2024-09-25,Standard,C0758,Thomas Wilson,Consumer,South,FL,Tampa,Technology,Phones,Conference Speakerphone,3,54.64,0.2,131.14,118.65,12.49
+SO-100188,2024-10-29,2024-11-02,Second Class,C0403,Kevin Patel,Corporate,South,TX,San Antonio,Office Supplies,Appliances,Space Heater,9,190.41,0.1,1542.32,1291.59,250.73
+SO-100189,2024-01-11,2024-01-16,Standard,C0076,Mei Torres,Home Office,Northeast,NY,New York,Technology,Accessories,External SSD 1TB,2,25.67,0,51.34,31.8,19.54
+SO-100190,2023-05-29,2023-05-30,First Class,C0669,Patricia Hall,Corporate,Northeast,NY,New York,Office Supplies,Appliances,Desk Fan,3,35.16,0,105.48,69.15,36.33
+SO-100191,2023-11-24,2023-11-29,Standard,C0649,Amanda Shah,Corporate,Northeast,NY,New York,Furniture,Tables,Round Cafe Table,12,216.46,0,2597.52,1978.08,619.44
+SO-100192,2023-05-23,2023-05-28,Standard,C0399,Olivia Adams,Consumer,Midwest,IN,Indianapolis,Furniture,Furnishings,Picture Frame Set,1,9.83,0.2,7.86,5.49,2.37
+SO-100193,2024-03-14,2024-03-15,First Class,C0175,Joseph Miller,Consumer,Midwest,IL,Chicago,Furniture,Furnishings,Floor Mat,3,12.58,0,37.74,24.54,13.2
+SO-100194,2023-11-11,2023-11-13,Second Class,C0405,Donna Harris,Home Office,Midwest,IL,Chicago,Furniture,Chairs,Drafting Stool,2,210.14,0.3,294.2,324.7,-30.5
+SO-100195,2024-02-23,2024-02-27,Second Class,C0420,Wei Chen,Consumer,West,AZ,Phoenix,Furniture,Furnishings,Floor Mat,10,12.58,0,125.8,81.8,44
+SO-100196,2024-06-28,2024-07-04,Standard,C0579,Robert Smith,Corporate,Midwest,MI,Detroit,Furniture,Furnishings,Floor Mat,5,12.58,0.1,56.61,40.9,15.71
+SO-100197,2023-03-24,2023-03-27,Second Class,C0737,Elizabeth Hall,Consumer,Northeast,NY,New York,Office Supplies,Appliances,Paper Shredder,14,169.63,0.2,1899.86,1299.34,600.52
+SO-100198,2023-03-08,2023-03-13,Standard,C0509,Eric Lee,Corporate,West,CA,Los Angeles,Furniture,Furnishings,Desk Lamp,3,87.18,0.2,209.23,192.09,17.14
+SO-100199,2023-07-03,2023-07-04,First Class,C0125,Mei Lee,Home Office,West,CA,Los Angeles,Office Supplies,Storage,Rolling Cart,1,111.41,0,111.41,63.63,47.78
+SO-100200,2023-02-11,2023-02-17,Standard,C0373,Jonathan Wilson,Consumer,West,CA,Los Angeles,Technology,Accessories,Noise-Canceling Headset,6,31.86,0,191.16,129.6,61.56
+SO-100201,2023-12-02,2023-12-03,First Class,C0728,Carol Roberts,Consumer,South,TX,Houston,Technology,Accessories,Webcam 1080p,4,139.68,0,558.72,388.88,169.84
+SO-100202,2024-06-29,2024-07-05,Standard,C0166,Elizabeth Scott,Corporate,South,FL,Tampa,Furniture,Chairs,Mesh Office Chair,3,288.97,0.3,606.84,668.43,-61.59
+SO-100203,2023-05-02,2023-05-02,Same Day,C0485,Andrew Brown,Consumer,Northeast,RI,Providence,Furniture,Chairs,Drafting Stool,7,210.14,0,1470.98,1136.45,334.53
+SO-100204,2023-06-15,2023-06-15,Same Day,C0662,Nancy Martin,Corporate,Northeast,NY,New York,Office Supplies,Appliances,Space Heater,11,190.41,0,2094.51,1578.61,515.9
+SO-100205,2024-10-09,2024-10-11,First Class,C0528,Nicholas Robinson,Consumer,South,FL,Orlando,Furniture,Bookcases,Low Storage Bookcase,10,336.42,0,3364.2,2151.3,1212.9
+SO-100206,2024-02-08,2024-02-10,Second Class,C0616,Joshua Torres,Consumer,West,CA,Los Angeles,Office Supplies,Art,Highlighters 6-Pack,4,22.69,0.3,63.53,60.68,2.85
+SO-100207,2023-04-19,2023-04-25,Standard,C0292,Ashley Bell,Corporate,Midwest,MI,Detroit,Technology,Accessories,USB-C Hub,3,126.39,0,379.17,232.02,147.15
+SO-100208,2023-07-29,2023-08-02,Standard,C0319,Mark Sanchez,Corporate,Midwest,MI,Detroit,Office Supplies,Art,Colored Pencils 24,2,3.01,0,6.02,4.04,1.98
+SO-100209,2023-03-09,2023-03-15,Standard,C0150,Brian Anderson,Consumer,Northeast,PA,Pittsburgh,Office Supplies,Paper,Sticky Notes Bulk,5,7.26,0.15,30.85,23.85,7
+SO-100210,2023-12-18,2023-12-22,Standard,C0184,Susan Williams,Consumer,South,FL,Miami,Office Supplies,Paper,Sticky Notes Bulk,10,7.26,0,72.6,47.7,24.9
+SO-100211,2023-06-07,2023-06-10,Second Class,C0651,Jessica Shah,Consumer,West,CA,San Diego,Office Supplies,Binders,Presentation Binder,9,28.2,0.3,177.66,140.67,36.99
+SO-100212,2024-11-09,2024-11-14,Standard,C0469,Melissa White,Consumer,Midwest,IN,Indianapolis,Office Supplies,Envelopes,Padded Mailers 25,1,32.68,0,32.68,20.07,12.61
+SO-100213,2023-02-20,2023-02-25,Standard,C0060,Linda Baker,Corporate,Northeast,NY,New York,Furniture,Bookcases,Low Storage Bookcase,2,336.42,0.2,538.27,430.26,108.01
+SO-100214,2023-06-04,2023-06-09,Standard,C0522,Karen Jackson,Corporate,Northeast,NY,New York,Furniture,Chairs,Leather Executive Chair,2,69.19,0,138.38,73.32,65.06
+SO-100215,2024-11-01,2024-11-06,Standard,C0296,Robert Nelson,Consumer,West,CA,Sacramento,Office Supplies,Paper,Cardstock 100 Sheets,2,10.7,0,21.4,13.1,8.3
+SO-100216,2024-01-14,2024-01-15,First Class,C0531,Jennifer Allen,Home Office,South,KY,Louisville,Office Supplies,Art,Colored Pencils 24,4,3.01,0,12.04,8.08,3.96
+SO-100217,2024-08-21,2024-08-22,First Class,C0636,Emma Carter,Home Office,Midwest,WI,Milwaukee,Technology,Accessories,Mechanical Keyboard,4,32.85,0,131.4,78.52,52.88
+SO-100218,2024-06-09,2024-06-09,Same Day,C0448,Aaron Kim,Consumer,West,UT,Salt Lake City,Office Supplies,Storage,Rolling Cart,9,111.41,0,1002.69,572.67,430.02
+SO-100219,2024-03-02,2024-03-07,Standard,C0391,Andrew Jackson,Home Office,Northeast,NY,New York,Furniture,Tables,Round Cafe Table,4,216.46,0.4,519.5,659.36,-139.86
+SO-100220,2023-07-13,2023-07-18,Standard,C0068,Luis Garcia,Corporate,Northeast,NY,New York,Technology,Accessories,Mechanical Keyboard,4,32.85,0.1,118.26,78.52,39.74
+SO-100221,2023-11-06,2023-11-06,Same Day,C0537,Kimberly Martinez,Corporate,Northeast,NY,New York,Office Supplies,Binders,3-Ring Binder 2 inch,8,7.66,0.15,52.09,32.88,19.21
+SO-100222,2024-12-21,2024-12-21,Same Day,C0769,Luis Scott,Home Office,Midwest,IL,Chicago,Furniture,Tables,Round Cafe Table,2,216.46,0,432.92,329.68,103.24
+SO-100223,2023-06-08,2023-06-12,Second Class,C0477,Susan Mitchell,Consumer,West,CA,San Diego,Technology,Accessories,External SSD 1TB,3,25.67,0.2,61.61,47.7,13.91
+SO-100224,2024-10-05,2024-10-11,Standard,C0778,Karen Bell,Consumer,South,NC,Charlotte,Furniture,Furnishings,Desk Lamp,1,87.18,0,87.18,64.03,23.15
+SO-100225,2023-12-13,2023-12-17,Standard,C0193,Brian Hall,Corporate,Northeast,NY,New York,Office Supplies,Binders,3-Ring Binder 2 inch,3,7.66,0,22.98,12.33,10.65
+SO-100226,2023-11-09,2023-11-10,First Class,C0109,Brian Adams,Corporate,West,OR,Portland,Furniture,Furnishings,Picture Frame Set,7,9.83,0,68.81,38.43,30.38
+SO-100227,2023-09-15,2023-09-17,First Class,C0282,Ryan Thompson,Consumer,Northeast,NY,Buffalo,Technology,Copiers,Desktop Copier,1,2105.87,0.2,1684.7,1597.14,87.56
+SO-100228,2023-10-24,2023-10-29,Standard,C0161,Karen Wilson,Consumer,Northeast,PA,Pittsburgh,Office Supplies,Envelopes,Security Envelopes 500,4,24.01,0,96.04,55.96,40.08
+SO-100229,2024-06-22,2024-06-28,Standard,C0726,Amanda Sanchez,Corporate,South,TX,Dallas,Office Supplies,Art,Highlighters 6-Pack,5,22.69,0.2,90.76,75.85,14.91
+SO-100230,2023-01-16,2023-01-20,Standard,C0379,Andrew Cook,Consumer,Northeast,NY,Buffalo,Technology,Accessories,USB-C Hub,5,126.39,0.2,505.56,386.7,118.86
+SO-100231,2024-08-22,2024-08-22,Same Day,C0428,Karen Johnson,Consumer,South,TX,Austin,Furniture,Furnishings,Desk Organizer,3,56.21,0.5,84.32,123.45,-39.13
+SO-100232,2023-04-03,2023-04-07,Standard,C0117,Jennifer Johnson,Corporate,Northeast,NY,New York,Furniture,Bookcases,Low Storage Bookcase,4,336.42,0,1345.68,860.52,485.16
+SO-100233,2024-11-15,2024-11-20,Standard,C0491,Olivia Chen,Consumer,Northeast,NY,New York,Furniture,Bookcases,Corner Bookcase,4,188.81,0,755.24,570.4,184.84
+SO-100234,2024-09-17,2024-09-19,First Class,C0783,Jacob Mitchell,Home Office,Northeast,MA,Boston,Furniture,Chairs,Ergonomic Task Chair,9,204.73,0.3,1289.8,1155.87,133.93
+SO-100235,2024-12-19,2024-12-24,Standard,C0194,Michelle Walker,Corporate,South,TX,Austin,Office Supplies,Storage,Plastic Storage Bin,2,34.42,0,68.84,53.22,15.62
+SO-100236,2024-03-25,2024-03-27,Second Class,C0726,Amanda Sanchez,Corporate,Midwest,IL,Chicago,Office Supplies,Paper,Copy Paper Ream,12,21.75,0.1,234.9,188.76,46.14
+SO-100237,2023-07-24,2023-07-30,Standard,C0800,Rebecca Lewis,Consumer,South,NC,Charlotte,Furniture,Bookcases,5-Shelf Bookcase,4,102.42,0,409.68,306.12,103.56
+SO-100238,2023-06-01,2023-06-07,Standard,C0105,Amanda Shah,Consumer,Midwest,IL,Chicago,Office Supplies,Appliances,Desk Fan,2,35.16,0.3,49.22,46.1,3.12
+SO-100239,2024-06-24,2024-06-27,Second Class,C0745,Richard Lee,Consumer,West,AZ,Phoenix,Furniture,Tables,Rectangular Meeting Table,1,208.01,0,208.01,159.33,48.68
+SO-100240,2023-10-20,2023-10-24,Second Class,C0204,Charles Robinson,Consumer,Midwest,OH,Cleveland,Furniture,Chairs,Drafting Stool,4,210.14,0,840.56,649.4,191.16
+SO-100241,2023-09-28,2023-10-04,Standard,C0607,Richard Harris,Corporate,Midwest,IL,Chicago,Technology,Accessories,Wireless Mouse,5,61.58,0,307.9,204.65,103.25
+SO-100242,2023-06-26,2023-07-02,Standard,C0160,Laura Jackson,Home Office,Midwest,IL,Chicago,Office Supplies,Envelopes,Security Envelopes 500,3,24.01,0,72.03,41.97,30.06
+SO-100243,2024-05-23,2024-05-25,Second Class,C0215,Michael Murphy,Corporate,South,FL,Tampa,Office Supplies,Appliances,Desk Fan,1,35.16,0,35.16,23.05,12.11
+SO-100244,2023-08-09,2023-08-13,Standard,C0355,Stephanie Moore,Corporate,Midwest,IL,Chicago,Office Supplies,Binders,3-Ring Binder 2 inch,4,7.66,0.3,21.45,16.44,5.01
+SO-100245,2024-06-23,2024-06-29,Standard,C0071,Matthew Scott,Consumer,South,VA,Richmond,Furniture,Tables,Adjustable Standing Desk,7,425.97,0,2981.79,2002.07,979.72
+SO-100246,2024-06-07,2024-06-13,Standard,C0187,Omar Morgan,Corporate,Northeast,MA,Boston,Furniture,Bookcases,Corner Bookcase,2,188.81,0.1,339.86,285.2,54.66
+SO-100247,2024-03-03,2024-03-06,Second Class,C0758,Thomas Wilson,Consumer,South,FL,Orlando,Furniture,Chairs,Mesh Office Chair,8,288.97,0,2311.76,1782.48,529.28
+SO-100248,2024-09-13,2024-09-14,First Class,C0659,Diego Kim,Consumer,South,TX,Houston,Technology,Accessories,Mechanical Keyboard,1,32.85,0,32.85,19.63,13.22
+SO-100249,2023-03-03,2023-03-07,Second Class,C0154,Aisha King,Consumer,South,TN,Nashville,Furniture,Furnishings,Wall Clock,2,38.67,0,77.34,42.88,34.46
+SO-100250,2023-03-23,2023-03-29,Standard,C0613,Ryan Mitchell,Corporate,South,TX,Dallas,Furniture,Furnishings,Desk Organizer,2,56.21,0,112.42,82.3,30.12
+SO-100251,2023-03-08,2023-03-14,Standard,C0070,Robert Miller,Consumer,Midwest,OH,Cleveland,Furniture,Furnishings,Desk Organizer,10,56.21,0.2,449.68,411.5,38.18
+SO-100252,2024-08-20,2024-08-24,Standard,C0744,Carol Flores,Consumer,Midwest,OH,Cleveland,Technology,Phones,Desk Phone,9,589.43,0.2,4243.9,3129.93,1113.97
+SO-100253,2023-09-29,2023-10-01,First Class,C0710,Samuel Carter,Consumer,West,CA,Los Angeles,Technology,Machines,Document Scanner,8,676.78,0,5414.24,3029.76,2384.48
+SO-100254,2024-02-06,2024-02-12,Standard,C0295,James Hall,Consumer,West,CA,Los Angeles,Furniture,Chairs,Stacking Guest Chair,5,201.37,0.15,855.82,600.75,255.07
+SO-100255,2023-11-17,2023-11-21,Second Class,C0652,Thomas Walker,Consumer,Northeast,NY,Buffalo,Furniture,Bookcases,Corner Bookcase,2,188.81,0.1,339.86,285.2,54.66
+SO-100256,2023-10-26,2023-10-28,First Class,C0479,William Hall,Consumer,Northeast,MA,Boston,Office Supplies,Art,Gel Pens 12-Pack,1,8.3,0,8.3,4.39,3.91
+SO-100257,2023-07-10,2023-07-16,Standard,C0020,Jessica Robinson,Home Office,Midwest,OH,Cleveland,Office Supplies,Paper,Ruled Notepads 12-Pack,3,25.19,0,75.57,56.7,18.87
+SO-100258,2023-03-22,2023-03-24,First Class,C0602,Mary Anderson,Consumer,Midwest,IN,Indianapolis,Technology,Accessories,Noise-Canceling Headset,4,31.86,0,127.44,86.4,41.04
+SO-100259,2023-06-24,2023-06-27,Second Class,C0583,Mary Kim,Consumer,Midwest,IN,Indianapolis,Technology,Copiers,Workgroup Copier,4,2065.49,0,8261.96,5821.76,2440.2
+SO-100260,2023-11-14,2023-11-20,Standard,C0378,Wei Scott,Consumer,South,TX,Dallas,Furniture,Chairs,Leather Executive Chair,3,69.19,0.1,186.81,109.98,76.83
+SO-100261,2023-11-03,2023-11-07,Standard,C0590,Steven Lee,Consumer,West,NV,Las Vegas,Furniture,Bookcases,5-Shelf Bookcase,3,102.42,0,307.26,229.59,77.67
+SO-100262,2024-01-14,2024-01-19,Standard,C0760,Donna Gonzalez,Corporate,South,FL,Tampa,Office Supplies,Appliances,Desk Fan,6,35.16,0,210.96,138.3,72.66
+SO-100263,2024-07-03,2024-07-08,Standard,C0403,Kevin Patel,Corporate,South,TN,Nashville,Furniture,Furnishings,Picture Frame Set,2,9.83,0.1,17.69,10.98,6.71
+SO-100264,2023-05-09,2023-05-15,Standard,C0048,Aisha Scott,Home Office,Northeast,RI,Providence,Furniture,Tables,Folding Training Table,2,326.87,0.4,392.24,477.54,-85.3
+SO-100265,2023-05-07,2023-05-08,First Class,C0152,Aisha Miller,Corporate,South,FL,Orlando,Office Supplies,Storage,File Cabinet 2-Drawer,2,12.16,0.1,21.89,16.34,5.55
+SO-100266,2024-11-27,2024-12-02,Standard,C0052,Richard Gonzalez,Consumer,South,NC,Charlotte,Office Supplies,Appliances,Electric Kettle,4,187.08,0,748.32,471.64,276.68
+SO-100267,2023-04-15,2023-04-17,Second Class,C0733,Joshua Moore,Corporate,South,TX,Dallas,Office Supplies,Art,Dry Erase Markers,5,13.77,0.1,61.97,39.3,22.67
+SO-100268,2023-02-05,2023-02-06,First Class,C0690,Richard Robinson,Corporate,Northeast,PA,Philadelphia,Office Supplies,Storage,Rolling Cart,3,111.41,0,334.23,190.89,143.34
+SO-100269,2023-04-23,2023-04-27,Standard,C0272,Aisha Garcia,Home Office,South,TX,Austin,Office Supplies,Appliances,Space Heater,2,190.41,0,380.82,287.02,93.8
+SO-100270,2023-09-17,2023-09-23,Standard,C0603,Priya Hill,Consumer,Midwest,IL,Chicago,Office Supplies,Appliances,Space Heater,4,190.41,0.1,685.48,574.04,111.44
+SO-100271,2023-08-29,2023-09-04,Standard,C0382,Lisa Nguyen,Corporate,West,CA,San Diego,Technology,Accessories,Webcam 1080p,1,139.68,0.3,97.78,97.22,0.56
+SO-100272,2023-01-13,2023-01-15,Second Class,C0661,Jacob Lewis,Consumer,South,TN,Nashville,Furniture,Tables,Adjustable Standing Desk,4,425.97,0.15,1448.3,1144.04,304.26
+SO-100273,2024-01-14,2024-01-19,Standard,C0491,Olivia Chen,Consumer,West,NV,Las Vegas,Furniture,Tables,Round Cafe Table,5,216.46,0,1082.3,824.2,258.1
+SO-100274,2023-08-31,2023-09-06,Standard,C0285,David Moore,Corporate,Northeast,NY,Buffalo,Furniture,Bookcases,5-Shelf Bookcase,11,102.42,0,1126.62,841.83,284.79
+SO-100275,2024-11-10,2024-11-15,Standard,C0438,William Jackson,Corporate,Midwest,OH,Cleveland,Furniture,Chairs,Drafting Stool,6,210.14,0,1260.84,974.1,286.74
+SO-100276,2023-03-22,2023-03-22,Same Day,C0217,William White,Consumer,South,TN,Nashville,Office Supplies,Storage,Plastic Storage Bin,10,34.42,0.4,206.52,266.1,-59.58
+SO-100277,2024-04-14,2024-04-18,Standard,C0739,Elizabeth Thomas,Corporate,South,LA,New Orleans,Furniture,Tables,Rectangular Meeting Table,1,208.01,0,208.01,159.33,48.68
+SO-100278,2023-10-26,2023-10-26,Same Day,C0712,Mark Lee,Corporate,Midwest,NE,Omaha,Technology,Machines,Inkjet All-in-One,2,328.85,0,657.7,367.48,290.22
+SO-100279,2023-09-06,2023-09-10,Standard,C0090,Daniel Martin,Home Office,Midwest,MO,Kansas City,Office Supplies,Binders,Binder Clips Box,2,8.45,0,16.9,11.02,5.88
+SO-100280,2024-07-18,2024-07-23,Standard,C0576,Diego Young,Consumer,South,KY,Louisville,Furniture,Tables,Round Cafe Table,1,216.46,0,216.46,164.84,51.62
+SO-100281,2023-08-05,2023-08-09,Standard,C0047,Laura Martinez,Corporate,Northeast,NY,New York,Technology,Copiers,Desktop Copier,3,2105.87,0,6317.61,4791.42,1526.19
+SO-100282,2023-05-21,2023-05-23,First Class,C0475,Amanda King,Home Office,Northeast,NJ,Newark,Furniture,Tables,Adjustable Standing Desk,7,425.97,0.1,2683.61,2002.07,681.54
+SO-100283,2024-01-11,2024-01-12,First Class,C0760,Donna Gonzalez,Corporate,South,KY,Louisville,Office Supplies,Paper,Ruled Notepads 12-Pack,1,25.19,0,25.19,18.9,6.29
+SO-100284,2024-04-19,2024-04-22,Second Class,C0013,Wei Taylor,Home Office,South,TX,Austin,Office Supplies,Binders,3-Ring Binder 2 inch,6,7.66,0.3,32.17,24.66,7.51
+SO-100285,2023-11-26,2023-11-30,Standard,C0539,Jacob Patel,Consumer,South,TX,San Antonio,Office Supplies,Paper,Ruled Notepads 12-Pack,2,25.19,0,50.38,37.8,12.58
+SO-100286,2024-04-14,2024-04-16,Second Class,C0780,Elizabeth White,Consumer,West,CA,San Diego,Office Supplies,Appliances,Paper Shredder,12,169.63,0,2035.56,1113.72,921.84
+SO-100287,2023-01-13,2023-01-17,Standard,C0481,Donna Jackson,Corporate,Northeast,NY,New York,Furniture,Chairs,Drafting Stool,3,210.14,0.2,504.34,487.05,17.29
+SO-100288,2023-05-03,2023-05-07,Second Class,C0286,Aisha King,Home Office,South,GA,Atlanta,Furniture,Bookcases,Low Storage Bookcase,1,336.42,0,336.42,215.13,121.29
+SO-100289,2023-01-17,2023-01-19,Second Class,C0140,John Jones,Consumer,South,GA,Atlanta,Furniture,Tables,Round Cafe Table,6,216.46,0,1298.76,989.04,309.72
+SO-100290,2023-02-24,2023-02-24,Same Day,C0437,Linda Taylor,Consumer,South,VA,Richmond,Office Supplies,Art,Colored Pencils 24,4,3.01,0,12.04,8.08,3.96
+SO-100291,2023-08-14,2023-08-18,Standard,C0746,Kimberly Johnson,Corporate,Northeast,PA,Pittsburgh,Office Supplies,Storage,Rolling Cart,1,111.41,0,111.41,63.63,47.78
+SO-100292,2023-11-21,2023-11-26,Standard,C0780,Elizabeth White,Consumer,West,CA,Los Angeles,Technology,Phones,Cordless Phone Set,1,825.69,0.2,660.55,473.88,186.67
+SO-100293,2023-10-28,2023-10-30,Second Class,C0225,Priya Lopez,Consumer,South,FL,Orlando,Furniture,Bookcases,Corner Bookcase,3,188.81,0,566.43,427.8,138.63
+SO-100294,2024-02-19,2024-02-22,Second Class,C0341,Patricia Rivera,Corporate,Midwest,MO,Kansas City,Technology,Accessories,External SSD 1TB,3,25.67,0,77.01,47.7,29.31
+SO-100295,2024-06-07,2024-06-11,Standard,C0260,John Gonzalez,Consumer,South,NC,Charlotte,Technology,Accessories,USB-C Hub,4,126.39,0,505.56,309.36,196.2
+SO-100296,2024-05-25,2024-05-30,Standard,C0180,Emily White,Corporate,Midwest,IL,Chicago,Furniture,Tables,Folding Training Table,5,326.87,0,1634.35,1193.85,440.5
+SO-100297,2024-04-16,2024-04-19,Second Class,C0650,Eric Wilson,Home Office,South,TX,Houston,Furniture,Bookcases,Corner Bookcase,5,188.81,0,944.05,713,231.05
+SO-100298,2024-07-05,2024-07-11,Standard,C0336,Stephanie Cook,Consumer,Northeast,NJ,Newark,Office Supplies,Binders,Presentation Binder,4,28.2,0,112.8,62.52,50.28
+SO-100299,2024-03-05,2024-03-09,Standard,C0334,Kimberly Murphy,Corporate,West,OR,Portland,Furniture,Chairs,Stacking Guest Chair,7,201.37,0,1409.59,841.05,568.54
+SO-100300,2023-11-07,2023-11-11,Standard,C0170,Emily Morgan,Consumer,Northeast,NY,Buffalo,Furniture,Bookcases,Low Storage Bookcase,4,336.42,0.1,1211.11,860.52,350.59
+SO-100301,2023-10-04,2023-10-06,First Class,C0003,Stephanie Davis,Consumer,Northeast,NY,New York,Furniture,Furnishings,Picture Frame Set,1,9.83,0.4,5.9,5.49,0.41
+SO-100302,2023-08-20,2023-08-26,Standard,C0120,Brian Campbell,Consumer,South,TN,Nashville,Technology,Copiers,Desktop Copier,6,2105.87,0,12635.22,9582.84,3052.38
+SO-100303,2023-02-14,2023-02-19,Standard,C0188,Eric Moore,Home Office,Midwest,NE,Omaha,Technology,Machines,Document Scanner,1,676.78,0,676.78,378.72,298.06
+SO-100304,2023-07-08,2023-07-12,Standard,C0124,Aaron Rogers,Corporate,South,KY,Louisville,Office Supplies,Storage,Plastic Storage Bin,3,34.42,0,103.26,79.83,23.43
+SO-100305,2024-08-16,2024-08-19,Second Class,C0301,Barbara King,Consumer,Northeast,PA,Philadelphia,Office Supplies,Appliances,Space Heater,10,190.41,0,1904.1,1435.1,469
+SO-100306,2024-06-24,2024-06-28,Second Class,C0220,Omar Lewis,Consumer,West,CA,San Diego,Office Supplies,Art,Gel Pens 12-Pack,8,8.3,0.1,59.76,35.12,24.64
+SO-100307,2023-01-28,2023-01-29,First Class,C0366,Sofia Rivera,Consumer,West,OR,Portland,Office Supplies,Storage,Archive Boxes 10-Pack,4,69.61,0.15,236.67,166.56,70.11
+SO-100308,2024-03-01,2024-03-07,Standard,C0580,Donna Patel,Home Office,Northeast,CT,Hartford,Office Supplies,Paper,Cardstock 100 Sheets,5,10.7,0.2,42.8,32.75,10.05
+SO-100309,2024-05-25,2024-05-31,Standard,C0306,Jonathan Harris,Corporate,Northeast,NJ,Newark,Office Supplies,Envelopes,Large Kraft Envelopes,8,17.68,0.2,113.15,92.8,20.35
+SO-100310,2024-12-25,2024-12-29,Standard,C0354,Nicholas Shah,Corporate,Northeast,NJ,Newark,Technology,Accessories,Mechanical Keyboard,3,32.85,0,98.55,58.89,39.66
+SO-100311,2023-03-17,2023-03-21,Standard,C0360,Kimberly Clark,Consumer,West,NV,Las Vegas,Furniture,Chairs,Drafting Stool,4,210.14,0.4,504.34,649.4,-145.06
+SO-100312,2023-02-15,2023-02-19,Standard,C0583,Mary Kim,Consumer,Midwest,MN,Minneapolis,Office Supplies,Paper,Sticky Notes Bulk,2,7.26,0,14.52,9.54,4.98
+SO-100313,2023-02-21,2023-02-26,Standard,C0266,Patricia Murphy,Consumer,Midwest,WI,Milwaukee,Furniture,Tables,Adjustable Standing Desk,11,425.97,0,4685.67,3146.11,1539.56
+SO-100314,2024-01-22,2024-01-27,Standard,C0691,Joseph Nguyen,Corporate,Northeast,NY,New York,Furniture,Tables,Adjustable Standing Desk,2,425.97,0.1,766.75,572.02,194.73
+SO-100315,2023-03-15,2023-03-21,Standard,C0688,Patricia Jackson,Consumer,West,WA,Seattle,Furniture,Furnishings,Picture Frame Set,4,9.83,0,39.32,21.96,17.36
+SO-100316,2023-10-21,2023-10-26,Standard,C0149,Jonathan Chen,Consumer,West,CA,San Diego,Technology,Accessories,Wireless Mouse,9,61.58,0,554.22,368.37,185.85
+SO-100317,2023-04-16,2023-04-16,Same Day,C0451,Aisha Green,Consumer,South,GA,Atlanta,Furniture,Chairs,Stacking Guest Chair,8,201.37,0,1610.96,961.2,649.76
+SO-100318,2023-12-09,2023-12-13,Standard,C0234,Luis Garcia,Consumer,Midwest,WI,Milwaukee,Office Supplies,Appliances,Electric Kettle,13,187.08,0.5,1216.02,1532.83,-316.81
+SO-100319,2024-05-18,2024-05-20,First Class,C0521,Aaron Hernandez,Consumer,West,CA,Los Angeles,Furniture,Tables,Round Cafe Table,3,216.46,0,649.38,494.52,154.86
+SO-100320,2023-03-14,2023-03-18,Standard,C0034,Jessica Gonzalez,Home Office,Northeast,NY,New York,Office Supplies,Binders,3-Ring Binder 2 inch,7,7.66,0,53.62,28.77,24.85
+SO-100321,2023-03-16,2023-03-22,Standard,C0602,Mary Anderson,Consumer,Midwest,MN,Minneapolis,Furniture,Bookcases,5-Shelf Bookcase,1,102.42,0,102.42,76.53,25.89
+SO-100322,2024-04-24,2024-04-29,Standard,C0582,Priya Chen,Consumer,Midwest,IN,Indianapolis,Technology,Phones,Smartphone 128GB,11,639.48,0.1,6330.85,5440.49,890.36
+SO-100323,2023-05-29,2023-06-03,Standard,C0313,Daniel Baker,Corporate,West,OR,Portland,Technology,Phones,Smartphone 128GB,9,639.48,0.4,3453.19,4451.31,-998.12
+SO-100324,2024-10-04,2024-10-09,Standard,C0195,Kimberly Hall,Home Office,West,CA,Los Angeles,Technology,Accessories,External SSD 1TB,2,25.67,0.5,25.67,31.8,-6.13
+SO-100325,2023-09-15,2023-09-15,Same Day,C0505,David Green,Consumer,Midwest,IL,Chicago,Furniture,Furnishings,Picture Frame Set,6,9.83,0.5,29.49,32.94,-3.45
+SO-100326,2023-09-29,2023-10-05,Standard,C0322,Wei Hernandez,Consumer,South,FL,Tampa,Office Supplies,Appliances,Paper Shredder,2,169.63,0,339.26,185.62,153.64
+SO-100327,2023-06-08,2023-06-13,Standard,C0004,Michael Murphy,Corporate,South,GA,Atlanta,Furniture,Tables,Folding Training Table,3,326.87,0.3,686.43,716.31,-29.88
+SO-100328,2023-05-30,2023-06-05,Standard,C0225,Priya Lopez,Consumer,Midwest,IL,Chicago,Office Supplies,Binders,Binder Clips Box,7,8.45,0.1,53.23,38.57,14.66
+SO-100329,2024-01-21,2024-01-27,Standard,C0148,Richard Rivera,Consumer,Northeast,NY,New York,Office Supplies,Storage,File Cabinet 2-Drawer,3,12.16,0.15,31.01,24.51,6.5
+SO-100330,2023-01-05,2023-01-09,Standard,C0038,Luis Thompson,Consumer,Midwest,IL,Chicago,Office Supplies,Binders,Sheet Protectors 100,4,3.15,0,12.6,8.72,3.88
+SO-100331,2024-03-31,2024-04-02,Second Class,C0747,Linda Patel,Corporate,Midwest,IN,Indianapolis,Office Supplies,Art,Gel Pens 12-Pack,9,8.3,0.2,59.76,39.51,20.25
+SO-100332,2024-03-09,2024-03-13,Standard,C0686,Anthony Jones,Consumer,South,TX,Austin,Furniture,Chairs,Drafting Stool,12,210.14,0,2521.68,1948.2,573.48
+SO-100333,2023-04-23,2023-04-28,Standard,C0552,Joshua Sanchez,Home Office,West,CO,Denver,Technology,Phones,Conference Speakerphone,14,54.64,0.5,382.48,553.7,-171.22
+SO-100334,2024-03-19,2024-03-21,First Class,C0161,Karen Wilson,Consumer,Midwest,IN,Indianapolis,Technology,Accessories,External SSD 1TB,6,25.67,0,154.02,95.4,58.62
+SO-100335,2024-05-18,2024-05-23,Standard,C0424,Nicholas Robinson,Corporate,South,TX,San Antonio,Technology,Phones,Desk Phone,1,589.43,0.2,471.54,347.77,123.77
+SO-100336,2024-10-14,2024-10-18,Standard,C0208,Mary Martinez,Corporate,West,CA,San Diego,Office Supplies,Binders,Sheet Protectors 100,4,3.15,0,12.6,8.72,3.88
+SO-100337,2023-07-28,2023-08-01,Standard,C0639,Carol Martin,Consumer,West,CA,Sacramento,Furniture,Bookcases,5-Shelf Bookcase,6,102.42,0.5,307.26,459.18,-151.92
+SO-100338,2024-08-05,2024-08-10,Standard,C0064,Sandra Nguyen,Consumer,West,AZ,Phoenix,Office Supplies,Paper,Ruled Notepads 12-Pack,1,25.19,0,25.19,18.9,6.29
+SO-100339,2023-12-29,2024-01-02,Second Class,C0779,Rebecca Torres,Consumer,Northeast,NY,New York,Furniture,Furnishings,Desk Organizer,4,56.21,0.1,202.36,164.6,37.76
+SO-100340,2023-04-24,2023-04-26,Second Class,C0728,Carol Roberts,Consumer,South,TX,San Antonio,Office Supplies,Envelopes,Security Envelopes 500,3,24.01,0,72.03,41.97,30.06
+SO-100341,2023-06-10,2023-06-15,Standard,C0419,Nancy Morgan,Home Office,Midwest,MI,Detroit,Furniture,Chairs,Drafting Stool,3,210.14,0,630.42,487.05,143.37
+SO-100342,2024-03-24,2024-03-26,First Class,C0298,Mark Williams,Corporate,South,FL,Tampa,Office Supplies,Envelopes,Security Envelopes 500,1,24.01,0.2,19.21,13.99,5.22
+SO-100343,2023-06-18,2023-06-20,Second Class,C0757,Mary Torres,Consumer,South,FL,Tampa,Office Supplies,Binders,3-Ring Binder 2 inch,3,7.66,0.5,11.49,12.33,-0.84
+SO-100344,2023-03-11,2023-03-15,Standard,C0751,Anthony Gonzalez,Consumer,Northeast,NY,New York,Office Supplies,Appliances,Electric Kettle,2,187.08,0.2,299.33,235.82,63.51
+SO-100345,2023-01-08,2023-01-12,Second Class,C0390,Samuel King,Corporate,Midwest,OH,Columbus,Furniture,Chairs,Ergonomic Task Chair,2,204.73,0,409.46,256.86,152.6
+SO-100346,2023-07-04,2023-07-06,Second Class,C0068,Luis Garcia,Corporate,West,CA,Los Angeles,Furniture,Bookcases,5-Shelf Bookcase,6,102.42,0,614.52,459.18,155.34
+SO-100347,2024-04-24,2024-04-28,Standard,C0574,Lisa White,Consumer,Midwest,MO,Kansas City,Furniture,Tables,Round Cafe Table,5,216.46,0,1082.3,824.2,258.1
+SO-100348,2023-11-09,2023-11-12,Second Class,C0149,Jonathan Chen,Consumer,Northeast,NY,New York,Furniture,Chairs,Mesh Office Chair,13,288.97,0.5,1878.31,2896.53,-1018.22
+SO-100349,2024-02-27,2024-03-02,Standard,C0535,Jonathan Wright,Consumer,Northeast,NY,Buffalo,Office Supplies,Art,Colored Pencils 24,2,3.01,0,6.02,4.04,1.98
+SO-100350,2023-02-11,2023-02-15,Standard,C0359,Rebecca Morgan,Consumer,West,AZ,Phoenix,Office Supplies,Paper,Ruled Notepads 12-Pack,3,25.19,0.1,68.01,56.7,11.31
+SO-100351,2023-01-19,2023-01-25,Standard,C0093,Lisa Wright,Consumer,West,WA,Seattle,Office Supplies,Storage,Plastic Storage Bin,3,34.42,0,103.26,79.83,23.43
+SO-100352,2023-03-09,2023-03-15,Standard,C0263,Aisha Sanchez,Corporate,South,TX,Houston,Technology,Copiers,Workgroup Copier,2,2065.49,0.15,3511.33,2910.88,600.45
+SO-100353,2024-05-27,2024-06-02,Standard,C0755,Carol Morgan,Home Office,Northeast,NY,New York,Office Supplies,Storage,Plastic Storage Bin,9,34.42,0.1,278.8,239.49,39.31
+SO-100354,2023-02-08,2023-02-14,Standard,C0300,Brian Smith,Home Office,South,TX,Houston,Furniture,Furnishings,Floor Mat,2,12.58,0,25.16,16.36,8.8
+SO-100355,2024-01-08,2024-01-12,Standard,C0775,Ryan Brown,Corporate,Northeast,RI,Providence,Office Supplies,Appliances,Paper Shredder,2,169.63,0.1,305.33,185.62,119.71
+SO-100356,2024-08-08,2024-08-13,Standard,C0545,Jacob Hill,Home Office,Northeast,MA,Boston,Technology,Accessories,Webcam 1080p,14,139.68,0.1,1759.97,1361.08,398.89
+SO-100357,2023-08-02,2023-08-04,Second Class,C0432,Kimberly Allen,Corporate,Midwest,MO,Kansas City,Office Supplies,Appliances,Paper Shredder,2,169.63,0.2,271.41,185.62,85.79
+SO-100358,2023-06-13,2023-06-17,Second Class,C0470,Aisha Green,Consumer,South,TX,San Antonio,Furniture,Furnishings,Wall Clock,2,38.67,0,77.34,42.88,34.46
+SO-100359,2023-10-24,2023-10-26,First Class,C0760,Donna Gonzalez,Corporate,South,FL,Orlando,Office Supplies,Envelopes,Padded Mailers 25,5,32.68,0.2,130.72,100.35,30.37
+SO-100360,2023-01-04,2023-01-08,Second Class,C0217,William White,Consumer,Midwest,NE,Omaha,Office Supplies,Paper,Sticky Notes Bulk,3,7.26,0,21.78,14.31,7.47
+SO-100361,2023-03-14,2023-03-14,Same Day,C0674,Diego Flores,Consumer,South,TX,Dallas,Office Supplies,Art,Colored Pencils 24,2,3.01,0,6.02,4.04,1.98
+SO-100362,2023-11-05,2023-11-09,Second Class,C0681,Melissa Martinez,Consumer,South,LA,New Orleans,Office Supplies,Envelopes,Security Envelopes 500,9,24.01,0,216.09,125.91,90.18
+SO-100363,2023-07-18,2023-07-24,Standard,C0432,Kimberly Allen,Corporate,South,KY,Louisville,Furniture,Furnishings,Floor Mat,3,12.58,0,37.74,24.54,13.2
+SO-100364,2024-06-26,2024-06-26,Same Day,C0313,Daniel Baker,Corporate,West,CA,San Diego,Office Supplies,Art,Colored Pencils 24,1,3.01,0.2,2.41,2.02,0.39
+SO-100365,2024-08-18,2024-08-18,Same Day,C0665,Olivia Gonzalez,Consumer,Northeast,PA,Pittsburgh,Office Supplies,Storage,Archive Boxes 10-Pack,13,69.61,0,904.93,541.32,363.61
+SO-100366,2024-12-04,2024-12-09,Standard,C0380,Joshua Kim,Consumer,Midwest,MI,Detroit,Office Supplies,Binders,3-Ring Binder 2 inch,12,7.66,0,91.92,49.32,42.6
+SO-100367,2023-05-11,2023-05-16,Standard,C0693,David Clark,Consumer,Midwest,NE,Omaha,Office Supplies,Binders,Sheet Protectors 100,3,3.15,0.15,8.03,6.54,1.49
+SO-100368,2024-01-13,2024-01-16,Second Class,C0740,Jennifer Clark,Corporate,West,CA,Sacramento,Office Supplies,Envelopes,Padded Mailers 25,5,32.68,0,163.4,100.35,63.05
+SO-100369,2024-11-21,2024-11-26,Standard,C0466,Priya Khan,Corporate,Midwest,IL,Chicago,Office Supplies,Appliances,Desk Fan,4,35.16,0,140.64,92.2,48.44
+SO-100370,2024-08-20,2024-08-23,Second Class,C0736,Daniel Lewis,Consumer,Northeast,NY,New York,Furniture,Bookcases,Corner Bookcase,1,188.81,0.2,151.05,142.6,8.45
+SO-100371,2023-07-19,2023-07-24,Standard,C0658,Stephanie Rivera,Consumer,West,AZ,Phoenix,Technology,Accessories,External SSD 1TB,6,25.67,0,154.02,95.4,58.62
+SO-100372,2023-03-10,2023-03-14,Standard,C0334,Kimberly Murphy,Corporate,Midwest,IL,Chicago,Office Supplies,Paper,Cardstock 100 Sheets,3,10.7,0,32.1,19.65,12.45
+SO-100373,2024-08-20,2024-08-21,First Class,C0648,Jessica King,Corporate,South,FL,Tampa,Furniture,Tables,Rectangular Meeting Table,10,208.01,0.2,1664.08,1593.3,70.78
+SO-100374,2024-04-02,2024-04-04,First Class,C0385,Melissa Chen,Consumer,West,OR,Portland,Technology,Copiers,Desktop Copier,1,2105.87,0.1,1895.28,1597.14,298.14
+SO-100375,2023-04-20,2023-04-22,Second Class,C0041,Matthew Lopez,Home Office,Midwest,MO,Kansas City,Furniture,Furnishings,Desk Organizer,5,56.21,0,281.05,205.75,75.3
+SO-100376,2023-01-12,2023-01-16,Standard,C0296,Robert Nelson,Consumer,Midwest,IN,Indianapolis,Technology,Accessories,Wireless Mouse,6,61.58,0,369.48,245.58,123.9
+SO-100377,2023-11-03,2023-11-09,Standard,C0752,Nicholas Ramirez,Consumer,South,NC,Charlotte,Furniture,Tables,Round Cafe Table,1,216.46,0.4,129.88,164.84,-34.96
+SO-100378,2024-10-29,2024-11-02,Second Class,C0094,Brian Roberts,Consumer,West,OR,Portland,Furniture,Chairs,Drafting Stool,1,210.14,0,210.14,162.35,47.79
+SO-100379,2024-11-07,2024-11-12,Standard,C0213,Joshua King,Consumer,West,CA,Sacramento,Technology,Phones,Smartphone 128GB,14,639.48,0,8952.72,6924.26,2028.46
+SO-100380,2024-02-27,2024-03-01,Second Class,C0704,Luis Green,Corporate,Midwest,MI,Detroit,Furniture,Chairs,Mesh Office Chair,1,288.97,0.1,260.07,222.81,37.26
+SO-100381,2023-08-22,2023-08-27,Standard,C0038,Luis Thompson,Consumer,Midwest,OH,Cleveland,Technology,Phones,Conference Speakerphone,1,54.64,0,54.64,39.55,15.09
+SO-100382,2024-07-27,2024-07-29,Second Class,C0786,Michael White,Consumer,Northeast,NY,New York,Office Supplies,Binders,Binder Clips Box,5,8.45,0.5,21.13,27.55,-6.42
+SO-100383,2023-03-03,2023-03-05,Second Class,C0702,Mei Wright,Consumer,Northeast,NY,New York,Technology,Accessories,USB-C Hub,3,126.39,0.2,303.34,232.02,71.32
+SO-100384,2024-02-23,2024-02-28,Standard,C0130,Jennifer Khan,Corporate,South,TX,Houston,Office Supplies,Binders,3-Ring Binder 2 inch,3,7.66,0.2,18.38,12.33,6.05
+SO-100385,2024-08-07,2024-08-13,Standard,C0621,Richard Baker,Corporate,South,TX,Dallas,Office Supplies,Art,Colored Pencils 24,5,3.01,0,15.05,10.1,4.95
+SO-100386,2024-03-15,2024-03-20,Standard,C0151,Eric Bell,Corporate,Midwest,MI,Detroit,Office Supplies,Paper,Ruled Notepads 12-Pack,5,25.19,0.4,75.57,94.5,-18.93
+SO-100387,2024-12-30,2024-12-31,First Class,C0741,Luis Thomas,Home Office,Midwest,OH,Cleveland,Office Supplies,Paper,Ruled Notepads 12-Pack,1,25.19,0,25.19,18.9,6.29
+SO-100388,2023-11-15,2023-11-19,Standard,C0358,Linda Nguyen,Consumer,Midwest,IL,Chicago,Technology,Machines,Laser Printer,10,473.83,0.2,3790.64,3471.8,318.84
+SO-100389,2024-01-23,2024-01-27,Standard,C0549,Emily King,Consumer,Northeast,NY,New York,Furniture,Furnishings,Wall Clock,2,38.67,0.2,61.87,42.88,18.99
+SO-100390,2024-02-03,2024-02-07,Second Class,C0172,Lisa Harris,Corporate,West,CA,San Francisco,Furniture,Chairs,Ergonomic Task Chair,3,204.73,0.5,307.09,385.29,-78.2
+SO-100391,2024-11-23,2024-11-24,First Class,C0014,Carol Harris,Consumer,West,CA,Los Angeles,Technology,Accessories,External SSD 1TB,9,25.67,0,231.03,143.1,87.93
+SO-100392,2023-02-15,2023-02-19,Standard,C0642,Donna Cook,Corporate,Northeast,NY,New York,Furniture,Chairs,Mesh Office Chair,6,288.97,0.2,1387.06,1336.86,50.2
+SO-100393,2024-12-23,2024-12-28,Standard,C0777,Jonathan Williams,Consumer,South,VA,Richmond,Technology,Phones,Desk Phone,6,589.43,0,3536.58,2086.62,1449.96
+SO-100394,2023-02-08,2023-02-11,Second Class,C0170,Emily Morgan,Consumer,South,VA,Richmond,Furniture,Tables,Folding Training Table,3,326.87,0.1,882.55,716.31,166.24
+SO-100395,2023-03-25,2023-03-26,First Class,C0132,Sofia Wright,Home Office,Midwest,MN,Minneapolis,Office Supplies,Paper,Sticky Notes Bulk,1,7.26,0,7.26,4.77,2.49
+SO-100396,2024-10-09,2024-10-13,Standard,C0634,Aaron Lee,Corporate,Northeast,NY,New York,Technology,Accessories,Wireless Mouse,3,61.58,0.2,147.79,122.79,25
+SO-100397,2024-04-07,2024-04-11,Standard,C0373,Jonathan Wilson,Consumer,Midwest,IL,Chicago,Technology,Phones,Conference Speakerphone,3,54.64,0.4,98.35,118.65,-20.3
+SO-100398,2024-06-10,2024-06-14,Standard,C0270,Aaron Robinson,Corporate,West,CO,Denver,Technology,Accessories,USB-C Hub,4,126.39,0.1,455,309.36,145.64
+SO-100399,2024-10-31,2024-11-02,Second Class,C0037,Sarah Carter,Consumer,South,TX,Dallas,Office Supplies,Art,Highlighters 6-Pack,2,22.69,0,45.38,30.34,15.04
+SO-100400,2023-04-29,2023-05-03,Standard,C0593,Jonathan Murphy,Corporate,West,CA,San Francisco,Technology,Machines,Inkjet All-in-One,2,328.85,0,657.7,367.48,290.22
+SO-100401,2024-01-27,2024-01-30,Second Class,C0067,Olivia Flores,Corporate,South,TX,San Antonio,Office Supplies,Art,Dry Erase Markers,4,13.77,0,55.08,31.44,23.64
+SO-100402,2023-04-15,2023-04-19,Standard,C0288,Sandra Jones,Consumer,South,FL,Tampa,Office Supplies,Binders,Sheet Protectors 100,4,3.15,0.1,11.34,8.72,2.62
+SO-100403,2023-12-14,2023-12-15,First Class,C0745,Richard Lee,Consumer,West,OR,Portland,Technology,Accessories,Webcam 1080p,9,139.68,0,1257.12,874.98,382.14
+SO-100404,2023-06-12,2023-06-12,Same Day,C0774,Patricia Williams,Corporate,Midwest,MI,Detroit,Furniture,Bookcases,5-Shelf Bookcase,4,102.42,0,409.68,306.12,103.56
+SO-100405,2023-12-12,2023-12-17,Standard,C0130,Jennifer Khan,Corporate,West,CA,San Diego,Furniture,Chairs,Ergonomic Task Chair,3,204.73,0,614.19,385.29,228.9
+SO-100406,2023-07-24,2023-07-29,Standard,C0153,Linda Morgan,Home Office,West,UT,Salt Lake City,Furniture,Furnishings,Wall Clock,6,38.67,0.3,162.41,128.64,33.77
+SO-100407,2024-12-05,2024-12-09,Standard,C0061,Nicholas Sanchez,Corporate,West,NV,Las Vegas,Office Supplies,Storage,Archive Boxes 10-Pack,3,69.61,0.2,167.06,124.92,42.14
+SO-100408,2024-05-09,2024-05-11,First Class,C0209,Sandra Perez,Home Office,South,TX,Houston,Office Supplies,Storage,Archive Boxes 10-Pack,5,69.61,0,348.05,208.2,139.85
+SO-100409,2023-06-26,2023-06-30,Second Class,C0476,Eric Martinez,Consumer,Midwest,OH,Cleveland,Office Supplies,Art,Gel Pens 12-Pack,9,8.3,0.15,63.5,39.51,23.99
+SO-100410,2023-12-04,2023-12-04,Same Day,C0706,Anthony Gonzalez,Home Office,West,CO,Denver,Technology,Copiers,Desktop Copier,5,2105.87,0,10529.35,7985.7,2543.65
+SO-100411,2024-07-29,2024-08-04,Standard,C0015,Mark Davis,Consumer,South,TX,San Antonio,Technology,Copiers,Desktop Copier,3,2105.87,0.2,5054.09,4791.42,262.67
+SO-100412,2023-06-22,2023-06-27,Standard,C0604,Carol Allen,Consumer,South,TN,Nashville,Furniture,Chairs,Leather Executive Chair,12,69.19,0,830.28,439.92,390.36
+SO-100413,2023-01-17,2023-01-23,Standard,C0251,Brian Mitchell,Home Office,South,FL,Miami,Furniture,Furnishings,Floor Mat,1,12.58,0,12.58,8.18,4.4
+SO-100414,2024-11-13,2024-11-19,Standard,C0239,Matthew Bell,Consumer,Midwest,NE,Omaha,Office Supplies,Paper,Copy Paper Ream,11,21.75,0.3,167.48,173.03,-5.55
+SO-100415,2023-07-06,2023-07-12,Standard,C0288,Sandra Jones,Consumer,South,TX,Houston,Technology,Phones,Smartphone 128GB,7,639.48,0,4476.36,3462.13,1014.23
+SO-100416,2023-08-13,2023-08-18,Standard,C0696,Joshua Thompson,Consumer,West,CA,Los Angeles,Office Supplies,Paper,Cardstock 100 Sheets,6,10.7,0,64.2,39.3,24.9
+SO-100417,2024-03-28,2024-04-03,Standard,C0089,Jennifer Johnson,Corporate,South,FL,Orlando,Technology,Phones,Desk Phone,3,589.43,0,1768.29,1043.31,724.98
+SO-100418,2024-03-17,2024-03-19,First Class,C0794,William Martinez,Consumer,West,CA,San Diego,Technology,Phones,Desk Phone,3,589.43,0.2,1414.63,1043.31,371.32
+SO-100419,2023-11-21,2023-11-23,Second Class,C0726,Amanda Sanchez,Corporate,West,OR,Portland,Office Supplies,Art,Dry Erase Markers,4,13.77,0,55.08,31.44,23.64
+SO-100420,2024-05-24,2024-05-28,Standard,C0073,Andrew Robinson,Consumer,West,CA,Los Angeles,Office Supplies,Art,Colored Pencils 24,11,3.01,0.15,28.14,22.22,5.92
+SO-100421,2024-08-05,2024-08-08,Second Class,C0363,Laura Thompson,Home Office,West,WA,Seattle,Furniture,Bookcases,Low Storage Bookcase,6,336.42,0.1,1816.67,1290.78,525.89
+SO-100422,2024-12-14,2024-12-19,Standard,C0439,Sofia Lopez,Corporate,Midwest,IL,Chicago,Office Supplies,Appliances,Space Heater,12,190.41,0.3,1599.44,1722.12,-122.68
+SO-100423,2023-10-28,2023-11-01,Standard,C0763,Aisha Ramirez,Consumer,West,CA,San Francisco,Office Supplies,Paper,Copy Paper Ream,5,21.75,0,108.75,78.65,30.1
+SO-100424,2024-03-23,2024-03-25,First Class,C0615,Sofia Cook,Home Office,South,VA,Richmond,Office Supplies,Storage,Plastic Storage Bin,9,34.42,0.1,278.8,239.49,39.31
+SO-100425,2024-12-15,2024-12-18,Second Class,C0417,Anthony Davis,Corporate,West,WA,Seattle,Technology,Machines,Document Scanner,3,676.78,0.15,1725.79,1136.16,589.63
+SO-100426,2023-04-21,2023-04-24,Second Class,C0043,Sofia White,Consumer,South,TX,Austin,Technology,Accessories,Wireless Mouse,3,61.58,0.15,157.03,122.79,34.24
+SO-100427,2024-11-28,2024-11-29,First Class,C0706,Anthony Gonzalez,Home Office,South,TN,Nashville,Technology,Phones,Smartphone 128GB,3,639.48,0.15,1630.67,1483.77,146.9
+SO-100428,2023-10-12,2023-10-16,Standard,C0395,Linda Harris,Consumer,West,NV,Las Vegas,Office Supplies,Paper,Copy Paper Ream,13,21.75,0,282.75,204.49,78.26
+SO-100429,2023-08-11,2023-08-16,Standard,C0550,Andrew Williams,Corporate,Midwest,OH,Columbus,Office Supplies,Binders,Sheet Protectors 100,4,3.15,0,12.6,8.72,3.88
+SO-100430,2023-01-25,2023-01-31,Standard,C0218,Laura Bell,Consumer,Northeast,CT,Hartford,Furniture,Furnishings,Desk Organizer,3,56.21,0.1,151.77,123.45,28.32
+SO-100431,2024-01-12,2024-01-17,Standard,C0096,Stephanie King,Corporate,South,TX,Houston,Technology,Phones,Desk Phone,2,589.43,0.2,943.09,695.54,247.55
+SO-100432,2024-12-12,2024-12-17,Standard,C0152,Aisha Miller,Corporate,South,FL,Tampa,Office Supplies,Appliances,Electric Kettle,4,187.08,0.1,673.49,471.64,201.85
+SO-100433,2023-08-14,2023-08-20,Standard,C0149,Jonathan Chen,Consumer,West,CA,Los Angeles,Office Supplies,Appliances,Space Heater,6,190.41,0.2,913.97,861.06,52.91
+SO-100434,2024-04-09,2024-04-14,Standard,C0142,Ryan Kim,Consumer,Midwest,OH,Columbus,Technology,Machines,Label Printer,3,989.61,0.15,2523.51,2180.07,343.44
+SO-100435,2023-06-12,2023-06-16,Standard,C0496,Jennifer Miller,Home Office,South,VA,Richmond,Office Supplies,Storage,File Cabinet 2-Drawer,13,12.16,0.1,142.27,106.21,36.06
+SO-100436,2023-10-16,2023-10-21,Standard,C0571,James Khan,Corporate,Northeast,MA,Boston,Office Supplies,Paper,Cardstock 100 Sheets,1,10.7,0,10.7,6.55,4.15
+SO-100437,2023-06-04,2023-06-06,Second Class,C0707,Eric Khan,Consumer,Northeast,RI,Providence,Office Supplies,Binders,Presentation Binder,4,28.2,0,112.8,62.52,50.28
+SO-100438,2023-01-25,2023-01-29,Standard,C0050,Thomas Smith,Consumer,South,TX,Dallas,Technology,Copiers,Desktop Copier,9,2105.87,0,18952.83,14374.26,4578.57
+SO-100439,2024-10-11,2024-10-15,Standard,C0223,Jacob Hill,Home Office,Northeast,RI,Providence,Technology,Accessories,USB-C Hub,3,126.39,0.15,322.29,232.02,90.27
+SO-100440,2023-04-09,2023-04-15,Standard,C0786,Michael White,Consumer,West,CA,Sacramento,Office Supplies,Storage,Archive Boxes 10-Pack,2,69.61,0.3,97.45,83.28,14.17
+SO-100441,2023-10-04,2023-10-08,Standard,C0046,Andrew Nguyen,Corporate,South,FL,Tampa,Office Supplies,Paper,Copy Paper Ream,3,21.75,0,65.25,47.19,18.06
+SO-100442,2024-02-18,2024-02-23,Standard,C0205,Donna Sanchez,Consumer,West,CA,Los Angeles,Technology,Accessories,Mechanical Keyboard,14,32.85,0,459.9,274.82,185.08
+SO-100443,2024-09-23,2024-09-28,Standard,C0633,Emily Young,Consumer,South,TN,Nashville,Office Supplies,Binders,3-Ring Binder 2 inch,2,7.66,0,15.32,8.22,7.1
+SO-100444,2024-01-31,2024-02-04,Standard,C0479,William Hall,Consumer,West,CA,Los Angeles,Office Supplies,Art,Highlighters 6-Pack,11,22.69,0.5,124.8,166.87,-42.07
+SO-100445,2024-08-06,2024-08-10,Standard,C0154,Aisha King,Consumer,West,CA,Los Angeles,Office Supplies,Envelopes,Large Kraft Envelopes,1,17.68,0.2,14.14,11.6,2.54
+SO-100446,2024-07-27,2024-08-01,Standard,C0301,Barbara King,Consumer,Northeast,NY,New York,Office Supplies,Envelopes,Padded Mailers 25,5,32.68,0,163.4,100.35,63.05
+SO-100447,2023-07-21,2023-07-21,Same Day,C0580,Donna Patel,Home Office,Northeast,PA,Philadelphia,Technology,Accessories,Wireless Mouse,2,61.58,0.5,61.58,81.86,-20.28
+SO-100448,2024-12-21,2024-12-25,Standard,C0078,Stephanie Miller,Consumer,West,CA,Los Angeles,Furniture,Chairs,Ergonomic Task Chair,1,204.73,0,204.73,128.43,76.3
+SO-100449,2024-07-07,2024-07-11,Standard,C0229,Charles White,Corporate,South,TX,San Antonio,Furniture,Tables,Folding Training Table,1,326.87,0,326.87,238.77,88.1
+SO-100450,2023-12-05,2023-12-09,Second Class,C0382,Lisa Nguyen,Corporate,South,FL,Tampa,Technology,Accessories,Mechanical Keyboard,4,32.85,0.15,111.69,78.52,33.17
+SO-100451,2024-03-28,2024-04-02,Standard,C0638,Anthony Shah,Consumer,Midwest,IL,Chicago,Technology,Phones,Conference Speakerphone,3,54.64,0,163.92,118.65,45.27
+SO-100452,2024-06-19,2024-06-19,Same Day,C0785,James Rivera,Consumer,Midwest,IL,Chicago,Technology,Accessories,Noise-Canceling Headset,1,31.86,0,31.86,21.6,10.26
+SO-100453,2023-08-12,2023-08-17,Standard,C0752,Nicholas Ramirez,Consumer,Northeast,NY,New York,Furniture,Chairs,Leather Executive Chair,9,69.19,0,622.71,329.94,292.77
+SO-100454,2024-01-16,2024-01-22,Standard,C0039,Priya White,Corporate,Northeast,MA,Boston,Office Supplies,Storage,Plastic Storage Bin,7,34.42,0.2,192.75,186.27,6.48
+SO-100455,2024-01-26,2024-01-31,Standard,C0070,Robert Miller,Consumer,West,CO,Denver,Furniture,Chairs,Leather Executive Chair,3,69.19,0.5,103.79,109.98,-6.19
+SO-100456,2023-09-25,2023-10-01,Standard,C0596,David Lee,Consumer,Northeast,NY,New York,Furniture,Chairs,Ergonomic Task Chair,1,204.73,0,204.73,128.43,76.3
+SO-100457,2023-05-11,2023-05-13,Second Class,C0634,Aaron Lee,Corporate,Midwest,MO,Kansas City,Office Supplies,Envelopes,Large Kraft Envelopes,3,17.68,0.4,31.82,34.8,-2.98
+SO-100458,2023-06-27,2023-07-01,Standard,C0190,Jacob Nelson,Consumer,South,GA,Atlanta,Furniture,Chairs,Leather Executive Chair,5,69.19,0,345.95,183.3,162.65
+SO-100459,2024-08-22,2024-08-27,Standard,C0172,Lisa Harris,Corporate,South,NC,Charlotte,Technology,Phones,Cordless Phone Set,6,825.69,0.3,3467.9,2843.28,624.62
+SO-100460,2024-11-11,2024-11-12,First Class,C0484,Emily Davis,Consumer,Midwest,IL,Chicago,Office Supplies,Appliances,Desk Fan,8,35.16,0,281.28,184.4,96.88
+SO-100461,2023-02-10,2023-02-16,Standard,C0307,Patricia Williams,Home Office,Northeast,NY,New York,Technology,Phones,Conference Speakerphone,4,54.64,0,218.56,158.2,60.36
+SO-100462,2023-04-08,2023-04-12,Standard,C0408,Luis Moore,Consumer,West,WA,Seattle,Office Supplies,Paper,Ruled Notepads 12-Pack,5,25.19,0.15,107.06,94.5,12.56
+SO-100463,2023-01-25,2023-01-29,Second Class,C0316,Barbara Hall,Consumer,South,GA,Atlanta,Office Supplies,Appliances,Paper Shredder,3,169.63,0,508.89,278.43,230.46
+SO-100464,2024-05-06,2024-05-12,Standard,C0337,Michael Anderson,Consumer,South,LA,New Orleans,Technology,Machines,Label Printer,8,989.61,0.1,7125.19,5813.52,1311.67
+SO-100465,2024-04-06,2024-04-09,Second Class,C0151,Eric Bell,Corporate,South,FL,Miami,Furniture,Chairs,Leather Executive Chair,5,69.19,0,345.95,183.3,162.65
+SO-100466,2023-08-15,2023-08-19,Standard,C0169,Daniel Lopez,Consumer,Northeast,RI,Providence,Technology,Phones,Conference Speakerphone,4,54.64,0.1,196.7,158.2,38.5
+SO-100467,2023-05-26,2023-05-27,First Class,C0483,Kimberly Lewis,Consumer,Northeast,RI,Providence,Furniture,Chairs,Stacking Guest Chair,10,201.37,0.2,1610.96,1201.5,409.46
+SO-100468,2023-05-27,2023-05-27,Same Day,C0043,Sofia White,Consumer,Northeast,NY,New York,Furniture,Bookcases,Corner Bookcase,5,188.81,0,944.05,713,231.05
+SO-100469,2023-01-11,2023-01-15,Standard,C0001,Steven Nelson,Consumer,Midwest,WI,Milwaukee,Office Supplies,Storage,File Cabinet 2-Drawer,3,12.16,0.1,32.83,24.51,8.32
+SO-100470,2023-03-22,2023-03-27,Standard,C0530,Anthony Bell,Corporate,West,UT,Salt Lake City,Office Supplies,Paper,Ruled Notepads 12-Pack,3,25.19,0.2,60.46,56.7,3.76
+SO-100471,2024-07-18,2024-07-24,Standard,C0789,Joshua Bell,Corporate,South,TX,Houston,Furniture,Chairs,Stacking Guest Chair,2,201.37,0.2,322.19,240.3,81.89
+SO-100472,2023-06-08,2023-06-09,First Class,C0088,Wei King,Corporate,West,OR,Portland,Furniture,Furnishings,Picture Frame Set,4,9.83,0,39.32,21.96,17.36
+SO-100473,2023-06-18,2023-06-24,Standard,C0028,Omar Johnson,Consumer,Northeast,NY,New York,Office Supplies,Appliances,Paper Shredder,4,169.63,0,678.52,371.24,307.28
+SO-100474,2024-02-18,2024-02-23,Standard,C0281,Andrew Ramirez,Consumer,South,LA,New Orleans,Furniture,Chairs,Stacking Guest Chair,5,201.37,0.1,906.17,600.75,305.42
+SO-100475,2023-07-23,2023-07-28,Standard,C0281,Andrew Ramirez,Consumer,West,NV,Las Vegas,Technology,Machines,Document Scanner,2,676.78,0,1353.56,757.44,596.12
+SO-100476,2023-01-17,2023-01-20,Second Class,C0426,Ashley Wilson,Home Office,Northeast,NY,New York,Furniture,Bookcases,Low Storage Bookcase,4,336.42,0,1345.68,860.52,485.16
+SO-100477,2023-08-17,2023-08-23,Standard,C0481,Donna Jackson,Corporate,West,CA,San Diego,Office Supplies,Appliances,Electric Kettle,7,187.08,0.15,1113.13,825.37,287.76
+SO-100478,2023-06-13,2023-06-16,Second Class,C0159,Jacob Wilson,Corporate,West,CA,Sacramento,Technology,Accessories,Wireless Mouse,2,61.58,0,123.16,81.86,41.3
+SO-100479,2024-08-11,2024-08-17,Standard,C0296,Robert Nelson,Consumer,West,AZ,Phoenix,Furniture,Furnishings,Desk Organizer,2,56.21,0,112.42,82.3,30.12
+SO-100480,2023-11-12,2023-11-16,Standard,C0687,Daniel Morgan,Consumer,Midwest,IL,Chicago,Office Supplies,Art,Colored Pencils 24,2,3.01,0,6.02,4.04,1.98
+SO-100481,2024-08-13,2024-08-17,Second Class,C0327,Jonathan Brown,Corporate,West,AZ,Phoenix,Office Supplies,Art,Colored Pencils 24,8,3.01,0,24.08,16.16,7.92
+SO-100482,2024-08-16,2024-08-22,Standard,C0633,Emily Young,Consumer,South,FL,Orlando,Technology,Machines,Inkjet All-in-One,1,328.85,0.2,263.08,183.74,79.34
+SO-100483,2023-08-14,2023-08-16,First Class,C0738,Lisa Walker,Consumer,South,TX,San Antonio,Technology,Accessories,Wireless Mouse,1,61.58,0,61.58,40.93,20.65
+SO-100484,2023-01-28,2023-02-03,Standard,C0585,Aisha Robinson,Corporate,South,VA,Richmond,Furniture,Chairs,Ergonomic Task Chair,3,204.73,0.3,429.93,385.29,44.64
+SO-100485,2023-07-18,2023-07-22,Standard,C0160,Laura Jackson,Home Office,South,FL,Orlando,Office Supplies,Art,Highlighters 6-Pack,7,22.69,0,158.83,106.19,52.64
+SO-100486,2024-09-07,2024-09-13,Standard,C0053,David Ramirez,Corporate,Northeast,PA,Pittsburgh,Technology,Phones,Conference Speakerphone,3,54.64,0,163.92,118.65,45.27
+SO-100487,2023-11-15,2023-11-19,Standard,C0511,Lisa Smith,Consumer,Midwest,IL,Chicago,Office Supplies,Paper,Cardstock 100 Sheets,4,10.7,0,42.8,26.2,16.6
+SO-100488,2024-03-21,2024-03-23,Second Class,C0213,Joshua King,Consumer,Midwest,OH,Columbus,Office Supplies,Envelopes,Large Kraft Envelopes,7,17.68,0.4,74.26,81.2,-6.94
+SO-100489,2024-08-01,2024-08-06,Standard,C0265,Omar Ramirez,Home Office,Northeast,NY,Buffalo,Office Supplies,Envelopes,Large Kraft Envelopes,2,17.68,0.2,28.29,23.2,5.09
+SO-100490,2024-02-18,2024-02-23,Standard,C0351,Diego Mitchell,Consumer,West,CO,Denver,Technology,Machines,Inkjet All-in-One,12,328.85,0.15,3354.27,2204.88,1149.39
+SO-100491,2024-09-03,2024-09-09,Standard,C0479,William Hall,Consumer,West,CO,Denver,Office Supplies,Binders,Presentation Binder,8,28.2,0.4,135.36,125.04,10.32
+SO-100492,2024-04-03,2024-04-07,Standard,C0759,Joseph Scott,Consumer,South,VA,Richmond,Office Supplies,Appliances,Paper Shredder,8,169.63,0,1357.04,742.48,614.56
+SO-100493,2023-09-22,2023-09-26,Standard,C0711,Jennifer Gonzalez,Corporate,Northeast,NY,New York,Technology,Accessories,Noise-Canceling Headset,6,31.86,0.15,162.49,129.6,32.89
+SO-100494,2024-02-12,2024-02-13,First Class,C0277,Ashley Scott,Corporate,West,CA,San Diego,Furniture,Furnishings,Wall Clock,10,38.67,0.15,328.7,214.4,114.3
+SO-100495,2023-06-07,2023-06-12,Standard,C0521,Aaron Hernandez,Consumer,Northeast,NY,Buffalo,Technology,Phones,Smartphone 128GB,3,639.48,0,1918.44,1483.77,434.67
+SO-100496,2024-02-12,2024-02-12,Same Day,C0280,Sofia Torres,Consumer,Midwest,IN,Indianapolis,Office Supplies,Art,Dry Erase Markers,6,13.77,0,82.62,47.16,35.46
+SO-100497,2023-05-01,2023-05-06,Standard,C0237,Andrew Nelson,Home Office,West,CA,San Diego,Technology,Phones,Smartphone 128GB,4,639.48,0,2557.92,1978.36,579.56
+SO-100498,2024-05-24,2024-05-26,First Class,C0642,Donna Cook,Corporate,South,TX,Austin,Technology,Accessories,Wireless Mouse,2,61.58,0.5,61.58,81.86,-20.28
+SO-100499,2023-07-08,2023-07-11,Second Class,C0224,Matthew Lewis,Consumer,Northeast,NY,New York,Furniture,Chairs,Drafting Stool,1,210.14,0,210.14,162.35,47.79
+SO-100500,2024-10-31,2024-11-03,Second Class,C0689,Sofia White,Consumer,Midwest,IL,Chicago,Technology,Accessories,Webcam 1080p,1,139.68,0.2,111.74,97.22,14.52
+SO-100501,2023-05-23,2023-05-28,Standard,C0605,Jacob Jackson,Consumer,South,TX,Houston,Furniture,Chairs,Leather Executive Chair,7,69.19,0.2,387.46,256.62,130.84
+SO-100502,2023-05-23,2023-05-28,Standard,C0235,Brian Rivera,Corporate,Northeast,NY,New York,Office Supplies,Envelopes,Large Kraft Envelopes,11,17.68,0,194.48,127.6,66.88
+SO-100503,2023-12-15,2023-12-21,Standard,C0770,William Martinez,Consumer,Midwest,MN,Minneapolis,Furniture,Chairs,Drafting Stool,8,210.14,0.2,1344.9,1298.8,46.1
+SO-100504,2023-11-15,2023-11-20,Standard,C0112,Mei Roberts,Consumer,Northeast,PA,Philadelphia,Technology,Phones,Desk Phone,4,589.43,0.1,2121.95,1391.08,730.87
+SO-100505,2023-10-06,2023-10-06,Same Day,C0521,Aaron Hernandez,Consumer,South,LA,New Orleans,Furniture,Chairs,Stacking Guest Chair,4,201.37,0,805.48,480.6,324.88
+SO-100506,2023-01-12,2023-01-18,Standard,C0241,Omar Moore,Consumer,West,CA,Sacramento,Furniture,Furnishings,Wall Clock,4,38.67,0,154.68,85.76,68.92
+SO-100507,2023-05-23,2023-05-29,Standard,C0233,Laura Allen,Consumer,Northeast,NY,New York,Furniture,Tables,Adjustable Standing Desk,12,425.97,0.1,4600.48,3432.12,1168.36
+SO-100508,2023-04-16,2023-04-19,Second Class,C0570,Patricia Nguyen,Consumer,South,TX,Austin,Furniture,Furnishings,Desk Organizer,4,56.21,0,224.84,164.6,60.24
+SO-100509,2023-08-27,2023-08-30,Second Class,C0351,Diego Mitchell,Consumer,Northeast,NY,Buffalo,Furniture,Chairs,Ergonomic Task Chair,10,204.73,0,2047.3,1284.3,763
+SO-100510,2024-04-13,2024-04-19,Standard,C0634,Aaron Lee,Corporate,Northeast,NY,New York,Furniture,Chairs,Drafting Stool,2,210.14,0,420.28,324.7,95.58
+SO-100511,2024-08-04,2024-08-06,Second Class,C0031,Amanda Anderson,Consumer,Midwest,WI,Milwaukee,Office Supplies,Binders,Binder Clips Box,6,8.45,0,50.7,33.06,17.64
+SO-100512,2024-12-19,2024-12-22,Second Class,C0193,Brian Hall,Corporate,West,CA,Los Angeles,Furniture,Bookcases,5-Shelf Bookcase,3,102.42,0,307.26,229.59,77.67
+SO-100513,2024-09-13,2024-09-19,Standard,C0427,Luis Rivera,Consumer,Northeast,NY,New York,Office Supplies,Appliances,Electric Kettle,3,187.08,0.4,336.74,353.73,-16.99
+SO-100514,2024-07-28,2024-07-31,Second Class,C0609,Joseph Lee,Consumer,West,CA,Los Angeles,Furniture,Bookcases,Corner Bookcase,1,188.81,0,188.81,142.6,46.21
+SO-100515,2023-05-17,2023-05-19,First Class,C0716,David Morgan,Consumer,Northeast,MA,Boston,Office Supplies,Envelopes,Large Kraft Envelopes,6,17.68,0,106.08,69.6,36.48
+SO-100516,2023-01-23,2023-01-25,First Class,C0493,Andrew Chen,Consumer,Midwest,OH,Cleveland,Furniture,Bookcases,Low Storage Bookcase,1,336.42,0.2,269.14,215.13,54.01
+SO-100517,2024-05-11,2024-05-13,Second Class,C0368,Priya Garcia,Corporate,West,CA,Sacramento,Furniture,Tables,Round Cafe Table,9,216.46,0,1948.14,1483.56,464.58
+SO-100518,2024-04-17,2024-04-19,Second Class,C0655,Rebecca Robinson,Corporate,South,FL,Miami,Office Supplies,Storage,File Cabinet 2-Drawer,4,12.16,0,48.64,32.68,15.96
+SO-100519,2023-04-18,2023-04-20,First Class,C0108,Barbara Bell,Consumer,Northeast,RI,Providence,Office Supplies,Paper,Copy Paper Ream,1,21.75,0.3,15.23,15.73,-0.5
+SO-100520,2024-09-10,2024-09-14,Standard,C0311,Lisa Murphy,Consumer,South,VA,Richmond,Furniture,Chairs,Mesh Office Chair,4,288.97,0,1155.88,891.24,264.64
+SO-100521,2023-07-23,2023-07-27,Second Class,C0572,Sofia Allen,Corporate,South,FL,Miami,Technology,Phones,Smartphone 128GB,11,639.48,0,7034.28,5440.49,1593.79
+SO-100522,2024-06-14,2024-06-19,Standard,C0634,Aaron Lee,Corporate,Northeast,RI,Providence,Office Supplies,Art,Colored Pencils 24,9,3.01,0,27.09,18.18,8.91
+SO-100523,2023-02-25,2023-03-01,Standard,C0602,Mary Anderson,Consumer,South,TN,Nashville,Technology,Machines,Document Scanner,9,676.78,0,6091.02,3408.48,2682.54
+SO-100524,2023-12-28,2024-01-02,Standard,C0591,Andrew Taylor,Consumer,Northeast,NY,Buffalo,Furniture,Furnishings,Floor Mat,2,12.58,0,25.16,16.36,8.8
+SO-100525,2023-03-25,2023-03-29,Standard,C0389,Sofia Nguyen,Corporate,West,CA,Los Angeles,Technology,Machines,Inkjet All-in-One,13,328.85,0,4275.05,2388.62,1886.43
+SO-100526,2024-12-07,2024-12-12,Standard,C0550,Andrew Williams,Corporate,West,CA,Sacramento,Office Supplies,Envelopes,Padded Mailers 25,12,32.68,0.1,352.94,240.84,112.1
+SO-100527,2023-08-25,2023-08-30,Standard,C0416,Eric Thompson,Consumer,South,TN,Nashville,Technology,Accessories,USB-C Hub,6,126.39,0,758.34,464.04,294.3
+SO-100528,2024-11-05,2024-11-06,First Class,C0388,Rebecca Williams,Consumer,Northeast,NY,Buffalo,Furniture,Furnishings,Floor Mat,4,12.58,0,50.32,32.72,17.6
+SO-100529,2023-03-20,2023-03-26,Standard,C0424,Nicholas Robinson,Corporate,West,CA,Sacramento,Furniture,Bookcases,Low Storage Bookcase,2,336.42,0.2,538.27,430.26,108.01
+SO-100530,2023-03-29,2023-04-04,Standard,C0471,Matthew Young,Consumer,West,CA,Los Angeles,Office Supplies,Art,Colored Pencils 24,3,3.01,0.1,8.13,6.06,2.07
+SO-100531,2024-09-23,2024-09-27,Standard,C0278,Nancy Lewis,Corporate,Northeast,NY,New York,Technology,Copiers,Workgroup Copier,6,2065.49,0,12392.94,8732.64,3660.3
+SO-100532,2023-08-02,2023-08-06,Second Class,C0768,William Campbell,Corporate,Northeast,NY,New York,Furniture,Furnishings,Desk Lamp,1,87.18,0,87.18,64.03,23.15
+SO-100533,2023-10-07,2023-10-11,Standard,C0357,Wei Robinson,Consumer,Midwest,MI,Detroit,Furniture,Furnishings,Wall Clock,1,38.67,0.2,30.94,21.44,9.5
+SO-100534,2023-10-11,2023-10-15,Second Class,C0608,Mei Hernandez,Home Office,South,TN,Nashville,Technology,Copiers,Desktop Copier,13,2105.87,0.2,21901.05,20762.82,1138.23
+SO-100535,2023-01-13,2023-01-17,Second Class,C0314,Emma Nguyen,Home Office,Midwest,OH,Columbus,Office Supplies,Paper,Copy Paper Ream,7,21.75,0.15,129.41,110.11,19.3
+SO-100536,2023-07-03,2023-07-03,Same Day,C0108,Barbara Bell,Consumer,West,UT,Salt Lake City,Technology,Machines,Label Printer,1,989.61,0,989.61,726.69,262.92
+SO-100537,2024-08-12,2024-08-13,First Class,C0353,Charles Murphy,Consumer,Midwest,OH,Columbus,Furniture,Chairs,Leather Executive Chair,2,69.19,0.2,110.7,73.32,37.38
+SO-100538,2024-11-23,2024-11-29,Standard,C0490,Emily Khan,Consumer,South,TX,Houston,Technology,Accessories,Mechanical Keyboard,4,32.85,0,131.4,78.52,52.88
+SO-100539,2023-11-27,2023-11-28,First Class,C0066,Omar Brown,Consumer,West,OR,Portland,Furniture,Furnishings,Desk Organizer,2,56.21,0.15,95.56,82.3,13.26
+SO-100540,2023-10-27,2023-11-01,Standard,C0385,Melissa Chen,Consumer,South,LA,New Orleans,Office Supplies,Binders,3-Ring Binder 2 inch,5,7.66,0.2,30.64,20.55,10.09
+SO-100541,2024-10-04,2024-10-09,Standard,C0414,Barbara Chen,Consumer,West,CA,Los Angeles,Furniture,Furnishings,Floor Mat,3,12.58,0,37.74,24.54,13.2
+SO-100542,2023-01-24,2023-01-27,Second Class,C0177,Barbara Rivera,Consumer,West,NV,Las Vegas,Furniture,Chairs,Stacking Guest Chair,9,201.37,0,1812.33,1081.35,730.98
+SO-100543,2023-10-23,2023-10-27,Standard,C0779,Rebecca Torres,Consumer,Midwest,OH,Columbus,Office Supplies,Paper,Cardstock 100 Sheets,8,10.7,0,85.6,52.4,33.2
+SO-100544,2024-04-29,2024-05-01,Second Class,C0532,Jacob Hill,Consumer,Northeast,MA,Boston,Office Supplies,Paper,Copy Paper Ream,9,21.75,0.3,137.02,141.57,-4.55
+SO-100545,2023-03-01,2023-03-07,Standard,C0737,Elizabeth Hall,Consumer,Northeast,NY,New York,Office Supplies,Appliances,Space Heater,11,190.41,0.3,1466.16,1578.61,-112.45
+SO-100546,2024-05-24,2024-05-28,Standard,C0230,Anthony Rodriguez,Home Office,West,CA,San Francisco,Furniture,Furnishings,Desk Organizer,11,56.21,0.1,556.48,452.65,103.83
+SO-100547,2023-06-10,2023-06-14,Standard,C0448,Aaron Kim,Consumer,South,FL,Miami,Technology,Copiers,Desktop Copier,8,2105.87,0.2,13477.57,12777.12,700.45
+SO-100548,2024-06-24,2024-06-26,Second Class,C0249,Susan Martin,Corporate,West,NV,Las Vegas,Office Supplies,Art,Dry Erase Markers,5,13.77,0,68.85,39.3,29.55
+SO-100549,2024-06-27,2024-07-02,Standard,C0211,James Young,Consumer,South,TX,Houston,Office Supplies,Paper,Ruled Notepads 12-Pack,2,25.19,0,50.38,37.8,12.58
+SO-100550,2023-03-02,2023-03-07,Standard,C0055,Robert Patel,Home Office,South,KY,Louisville,Technology,Machines,Inkjet All-in-One,1,328.85,0,328.85,183.74,145.11
+SO-100551,2024-12-28,2025-01-01,Standard,C0745,Richard Lee,Consumer,South,TN,Nashville,Furniture,Chairs,Ergonomic Task Chair,3,204.73,0.3,429.93,385.29,44.64
+SO-100552,2024-06-21,2024-06-23,Second Class,C0057,Patricia Rodriguez,Consumer,Midwest,IN,Indianapolis,Technology,Accessories,Mechanical Keyboard,5,32.85,0,164.25,98.15,66.1
+SO-100553,2023-09-13,2023-09-14,First Class,C0124,Aaron Rogers,Corporate,Northeast,NY,New York,Technology,Accessories,Mechanical Keyboard,2,32.85,0.5,32.85,39.26,-6.41
+SO-100554,2023-03-20,2023-03-21,First Class,C0162,Nancy Nguyen,Consumer,Midwest,MN,Minneapolis,Furniture,Chairs,Ergonomic Task Chair,5,204.73,0,1023.65,642.15,381.5
+SO-100555,2023-11-27,2023-12-02,Standard,C0383,Karen Walker,Corporate,Northeast,PA,Philadelphia,Office Supplies,Envelopes,Large Kraft Envelopes,2,17.68,0,35.36,23.2,12.16
+SO-100556,2023-02-24,2023-03-01,Standard,C0277,Ashley Scott,Corporate,West,CA,Sacramento,Technology,Phones,Conference Speakerphone,5,54.64,0,273.2,197.75,75.45
+SO-100557,2024-05-09,2024-05-11,Second Class,C0011,Barbara White,Corporate,South,TX,Dallas,Technology,Machines,Laser Printer,8,473.83,0,3790.64,2777.44,1013.2
+SO-100558,2023-07-05,2023-07-05,Same Day,C0777,Jonathan Williams,Consumer,South,KY,Louisville,Office Supplies,Storage,File Cabinet 2-Drawer,2,12.16,0.2,19.46,16.34,3.12
+SO-100559,2024-04-03,2024-04-07,Standard,C0272,Aisha Garcia,Home Office,West,NV,Las Vegas,Furniture,Chairs,Leather Executive Chair,7,69.19,0,484.33,256.62,227.71
+SO-100560,2024-05-28,2024-06-02,Standard,C0269,Priya Williams,Consumer,West,CA,Sacramento,Office Supplies,Binders,3-Ring Binder 2 inch,2,7.66,0.2,12.26,8.22,4.04
+SO-100561,2023-05-03,2023-05-04,First Class,C0284,Laura Mitchell,Corporate,West,CA,Los Angeles,Technology,Machines,Label Printer,3,989.61,0.1,2671.95,2180.07,491.88
+SO-100562,2023-12-12,2023-12-18,Standard,C0163,James White,Consumer,Midwest,OH,Cleveland,Office Supplies,Paper,Sticky Notes Bulk,8,7.26,0.4,34.85,38.16,-3.31
+SO-100563,2023-01-08,2023-01-08,Same Day,C0403,Kevin Patel,Corporate,Northeast,MA,Boston,Furniture,Chairs,Stacking Guest Chair,5,201.37,0,1006.85,600.75,406.1
+SO-100564,2024-03-15,2024-03-21,Standard,C0707,Eric Khan,Consumer,South,LA,New Orleans,Furniture,Chairs,Stacking Guest Chair,4,201.37,0.2,644.38,480.6,163.78
+SO-100565,2024-09-21,2024-09-23,First Class,C0606,Richard Clark,Corporate,South,TX,Dallas,Office Supplies,Appliances,Paper Shredder,7,169.63,0.4,712.45,649.67,62.78
+SO-100566,2024-07-03,2024-07-04,First Class,C0752,Nicholas Ramirez,Consumer,West,NV,Las Vegas,Furniture,Furnishings,Desk Organizer,5,56.21,0,281.05,205.75,75.3
+SO-100567,2024-09-28,2024-10-02,Standard,C0717,Carol Rodriguez,Consumer,West,WA,Seattle,Office Supplies,Art,Gel Pens 12-Pack,2,8.3,0,16.6,8.78,7.82
+SO-100568,2024-11-24,2024-11-30,Standard,C0336,Stephanie Cook,Consumer,Midwest,NE,Omaha,Office Supplies,Paper,Ruled Notepads 12-Pack,8,25.19,0,201.52,151.2,50.32
+SO-100569,2024-03-05,2024-03-06,First Class,C0719,Mark Thomas,Corporate,South,GA,Atlanta,Furniture,Chairs,Leather Executive Chair,3,69.19,0,207.57,109.98,97.59
+SO-100570,2023-07-05,2023-07-09,Standard,C0724,Mei Hall,Consumer,West,WA,Seattle,Furniture,Tables,Adjustable Standing Desk,2,425.97,0,851.94,572.02,279.92
+SO-100571,2024-10-06,2024-10-12,Standard,C0082,Sarah Harris,Corporate,South,NC,Charlotte,Technology,Phones,Desk Phone,5,589.43,0,2947.15,1738.85,1208.3
+SO-100572,2023-03-29,2023-04-02,Standard,C0529,Donna Thomas,Corporate,Midwest,MN,Minneapolis,Technology,Accessories,External SSD 1TB,2,25.67,0.5,25.67,31.8,-6.13
+SO-100573,2023-03-26,2023-03-30,Second Class,C0074,Nicholas Jackson,Corporate,West,OR,Portland,Technology,Accessories,Wireless Mouse,2,61.58,0.2,98.53,81.86,16.67
+SO-100574,2023-08-05,2023-08-11,Standard,C0266,Patricia Murphy,Consumer,Northeast,NY,New York,Office Supplies,Binders,Presentation Binder,2,28.2,0,56.4,31.26,25.14
+SO-100575,2024-10-04,2024-10-09,Standard,C0248,Emily Cook,Consumer,South,TX,Houston,Office Supplies,Art,Colored Pencils 24,4,3.01,0,12.04,8.08,3.96
+SO-100576,2024-09-23,2024-09-24,First Class,C0154,Aisha King,Consumer,Northeast,CT,Hartford,Technology,Accessories,Mechanical Keyboard,10,32.85,0,328.5,196.3,132.2
+SO-100577,2024-11-02,2024-11-06,Second Class,C0702,Mei Wright,Consumer,Northeast,CT,Hartford,Technology,Machines,Label Printer,1,989.61,0.2,791.69,726.69,65
+SO-100578,2023-10-18,2023-10-24,Standard,C0783,Jacob Mitchell,Home Office,West,CA,San Francisco,Furniture,Furnishings,Desk Organizer,4,56.21,0.1,202.36,164.6,37.76
+SO-100579,2023-10-12,2023-10-12,Same Day,C0427,Luis Rivera,Consumer,Northeast,NY,New York,Furniture,Chairs,Ergonomic Task Chair,3,204.73,0,614.19,385.29,228.9
+SO-100580,2023-08-26,2023-08-30,Second Class,C0264,Barbara Patel,Corporate,South,GA,Atlanta,Furniture,Tables,Adjustable Standing Desk,2,425.97,0,851.94,572.02,279.92
+SO-100581,2023-11-10,2023-11-12,Second Class,C0143,Thomas Clark,Consumer,South,TX,Houston,Technology,Machines,Inkjet All-in-One,2,328.85,0,657.7,367.48,290.22
+SO-100582,2023-08-25,2023-08-29,Standard,C0362,Sarah Torres,Corporate,South,TX,Houston,Office Supplies,Envelopes,Security Envelopes 500,3,24.01,0.2,57.62,41.97,15.65
+SO-100583,2024-10-15,2024-10-21,Standard,C0639,Carol Martin,Consumer,Midwest,MO,Kansas City,Technology,Machines,Document Scanner,2,676.78,0.4,812.14,757.44,54.7
+SO-100584,2024-09-08,2024-09-11,Second Class,C0244,Ryan Smith,Home Office,West,NV,Las Vegas,Office Supplies,Storage,Rolling Cart,5,111.41,0.1,501.35,318.15,183.2
+SO-100585,2024-03-16,2024-03-22,Standard,C0411,Michael Shah,Corporate,South,TN,Nashville,Furniture,Bookcases,Corner Bookcase,8,188.81,0.5,755.24,1140.8,-385.56
+SO-100586,2024-12-23,2024-12-25,First Class,C0096,Stephanie King,Corporate,Northeast,MA,Boston,Technology,Machines,Inkjet All-in-One,9,328.85,0.15,2515.7,1653.66,862.04
+SO-100587,2024-08-17,2024-08-17,Same Day,C0510,Mei Cook,Home Office,South,TX,San Antonio,Technology,Copiers,Desktop Copier,2,2105.87,0,4211.74,3194.28,1017.46
+SO-100588,2024-11-29,2024-11-30,First Class,C0741,Luis Thomas,Home Office,Midwest,MO,Kansas City,Furniture,Furnishings,Desk Lamp,2,87.18,0.1,156.92,128.06,28.86
+SO-100589,2023-12-14,2023-12-20,Standard,C0133,Olivia Patel,Consumer,Midwest,MO,Kansas City,Office Supplies,Storage,File Cabinet 2-Drawer,5,12.16,0,60.8,40.85,19.95
+SO-100590,2024-01-14,2024-01-19,Standard,C0665,Olivia Gonzalez,Consumer,South,TN,Nashville,Office Supplies,Art,Highlighters 6-Pack,6,22.69,0.2,108.91,91.02,17.89
+SO-100591,2024-07-08,2024-07-13,Standard,C0714,Linda Rivera,Consumer,Northeast,NY,New York,Furniture,Tables,Folding Training Table,2,326.87,0.2,522.99,477.54,45.45
+SO-100592,2024-07-10,2024-07-12,First Class,C0311,Lisa Murphy,Consumer,West,CA,Los Angeles,Technology,Copiers,Workgroup Copier,3,2065.49,0,6196.47,4366.32,1830.15
+SO-100593,2023-03-20,2023-03-26,Standard,C0537,Kimberly Martinez,Corporate,Midwest,IL,Chicago,Office Supplies,Binders,3-Ring Binder 2 inch,2,7.66,0,15.32,8.22,7.1
+SO-100594,2023-11-11,2023-11-17,Standard,C0655,Rebecca Robinson,Corporate,West,CA,Los Angeles,Technology,Phones,Conference Speakerphone,4,54.64,0,218.56,158.2,60.36
+SO-100595,2024-04-04,2024-04-10,Standard,C0417,Anthony Davis,Corporate,West,CO,Denver,Office Supplies,Paper,Sticky Notes Bulk,2,7.26,0,14.52,9.54,4.98
+SO-100596,2023-11-25,2023-11-29,Standard,C0800,Rebecca Lewis,Consumer,South,TN,Nashville,Furniture,Tables,Folding Training Table,2,326.87,0.3,457.62,477.54,-19.92
+SO-100597,2024-11-03,2024-11-06,Second Class,C0138,Michael Rogers,Corporate,West,CA,Los Angeles,Office Supplies,Appliances,Desk Fan,5,35.16,0.1,158.22,115.25,42.97
+SO-100598,2023-08-20,2023-08-25,Standard,C0230,Anthony Rodriguez,Home Office,South,FL,Miami,Furniture,Chairs,Drafting Stool,5,210.14,0,1050.7,811.75,238.95
+SO-100599,2024-06-29,2024-07-03,Standard,C0566,Steven Johnson,Home Office,South,LA,New Orleans,Office Supplies,Appliances,Desk Fan,1,35.16,0.2,28.13,23.05,5.08
+SO-100600,2023-05-09,2023-05-14,Standard,C0099,Joshua Bell,Consumer,West,CA,San Diego,Technology,Machines,Label Printer,5,989.61,0,4948.05,3633.45,1314.6
+SO-100601,2023-02-27,2023-03-01,Second Class,C0551,Emily Khan,Corporate,Northeast,RI,Providence,Technology,Machines,Inkjet All-in-One,5,328.85,0,1644.25,918.7,725.55
+SO-100602,2023-12-08,2023-12-14,Standard,C0001,Steven Nelson,Consumer,West,CA,Los Angeles,Office Supplies,Storage,Rolling Cart,5,111.41,0,557.05,318.15,238.9
+SO-100603,2023-03-05,2023-03-10,Standard,C0397,Mark Cook,Corporate,South,FL,Tampa,Furniture,Furnishings,Wall Clock,12,38.67,0,464.04,257.28,206.76
+SO-100604,2024-09-15,2024-09-20,Standard,C0738,Lisa Walker,Consumer,Northeast,NY,Buffalo,Office Supplies,Binders,Sheet Protectors 100,7,3.15,0,22.05,15.26,6.79
+SO-100605,2024-05-02,2024-05-06,Standard,C0512,Aaron Harris,Consumer,West,CA,Sacramento,Furniture,Tables,Rectangular Meeting Table,3,208.01,0.3,436.82,477.99,-41.17
+SO-100606,2023-04-14,2023-04-20,Standard,C0386,Susan Hill,Consumer,Midwest,WI,Milwaukee,Technology,Accessories,Wireless Mouse,1,61.58,0,61.58,40.93,20.65
+SO-100607,2024-06-14,2024-06-17,Second Class,C0298,Mark Williams,Corporate,Northeast,MA,Boston,Furniture,Furnishings,Desk Organizer,3,56.21,0.4,101.18,123.45,-22.27
+SO-100608,2024-06-08,2024-06-12,Standard,C0510,Mei Cook,Home Office,West,UT,Salt Lake City,Technology,Accessories,USB-C Hub,3,126.39,0,379.17,232.02,147.15
+SO-100609,2023-02-06,2023-02-12,Standard,C0009,Lisa Sanchez,Consumer,West,NV,Las Vegas,Furniture,Furnishings,Desk Lamp,3,87.18,0.2,209.23,192.09,17.14
+SO-100610,2023-02-01,2023-02-02,First Class,C0249,Susan Martin,Corporate,Northeast,CT,Hartford,Office Supplies,Binders,Binder Clips Box,2,8.45,0.1,15.21,11.02,4.19
+SO-100611,2024-07-17,2024-07-19,First Class,C0407,Sofia Smith,Consumer,South,NC,Charlotte,Furniture,Furnishings,Desk Lamp,3,87.18,0.15,222.31,192.09,30.22
+SO-100612,2024-11-13,2024-11-16,Second Class,C0211,James Young,Consumer,West,CO,Denver,Office Supplies,Binders,3-Ring Binder 2 inch,3,7.66,0,22.98,12.33,10.65
+SO-100613,2024-01-20,2024-01-21,First Class,C0197,Sandra Taylor,Consumer,South,FL,Miami,Office Supplies,Art,Gel Pens 12-Pack,4,8.3,0.2,26.56,17.56,9
+SO-100614,2024-01-30,2024-01-30,Same Day,C0223,Jacob Hill,Home Office,Midwest,MI,Detroit,Office Supplies,Binders,Binder Clips Box,6,8.45,0.2,40.56,33.06,7.5
+SO-100615,2024-12-10,2024-12-12,First Class,C0599,Barbara Gonzalez,Corporate,South,FL,Miami,Office Supplies,Binders,Binder Clips Box,9,8.45,0,76.05,49.59,26.46
+SO-100616,2023-02-17,2023-02-21,Second Class,C0451,Aisha Green,Consumer,West,CA,Los Angeles,Office Supplies,Art,Dry Erase Markers,3,13.77,0,41.31,23.58,17.73
+SO-100617,2023-08-01,2023-08-05,Second Class,C0528,Nicholas Robinson,Consumer,South,FL,Miami,Technology,Accessories,Noise-Canceling Headset,4,31.86,0,127.44,86.4,41.04
+SO-100618,2023-04-03,2023-04-09,Standard,C0743,Rebecca Kim,Consumer,West,CA,San Diego,Furniture,Tables,Round Cafe Table,5,216.46,0,1082.3,824.2,258.1
+SO-100619,2023-07-06,2023-07-10,Second Class,C0466,Priya Khan,Corporate,Northeast,PA,Pittsburgh,Furniture,Chairs,Ergonomic Task Chair,1,204.73,0,204.73,128.43,76.3
+SO-100620,2024-03-04,2024-03-06,Second Class,C0088,Wei King,Corporate,Midwest,OH,Columbus,Furniture,Chairs,Drafting Stool,2,210.14,0.2,336.22,324.7,11.52
+SO-100621,2023-02-19,2023-02-24,Standard,C0572,Sofia Allen,Corporate,Midwest,WI,Milwaukee,Furniture,Tables,Rectangular Meeting Table,7,208.01,0.15,1237.66,1115.31,122.35
+SO-100622,2024-12-10,2024-12-12,First Class,C0547,Ashley Murphy,Consumer,West,OR,Portland,Furniture,Bookcases,Low Storage Bookcase,5,336.42,0.2,1345.68,1075.65,270.03
+SO-100623,2023-04-10,2023-04-11,First Class,C0512,Aaron Harris,Consumer,Midwest,MI,Detroit,Technology,Machines,Laser Printer,7,473.83,0,3316.81,2430.26,886.55
+SO-100624,2023-12-05,2023-12-10,Standard,C0008,Jennifer White,Consumer,Northeast,NY,New York,Furniture,Chairs,Drafting Stool,5,210.14,0.1,945.63,811.75,133.88
+SO-100625,2023-07-26,2023-07-31,Standard,C0745,Richard Lee,Consumer,Northeast,NY,New York,Office Supplies,Envelopes,Security Envelopes 500,2,24.01,0.1,43.22,27.98,15.24
+SO-100626,2024-03-28,2024-03-30,Second Class,C0707,Eric Khan,Consumer,Midwest,NE,Omaha,Technology,Copiers,Desktop Copier,14,2105.87,0,29482.18,22359.96,7122.22
+SO-100627,2024-10-23,2024-10-29,Standard,C0533,Ryan Anderson,Consumer,Northeast,NY,Buffalo,Office Supplies,Binders,3-Ring Binder 2 inch,10,7.66,0,76.6,41.1,35.5
+SO-100628,2023-01-18,2023-01-23,Standard,C0121,Lisa Sanchez,Consumer,West,UT,Salt Lake City,Furniture,Chairs,Drafting Stool,3,210.14,0.5,315.21,487.05,-171.84
+SO-100629,2023-12-03,2023-12-07,Standard,C0437,Linda Taylor,Consumer,West,CA,Los Angeles,Office Supplies,Art,Colored Pencils 24,10,3.01,0.2,24.08,20.2,3.88
+SO-100630,2023-01-25,2023-01-27,Second Class,C0739,Elizabeth Thomas,Corporate,Midwest,OH,Cleveland,Furniture,Bookcases,5-Shelf Bookcase,3,102.42,0.1,276.53,229.59,46.94
+SO-100631,2024-04-06,2024-04-11,Standard,C0478,Amanda Rodriguez,Consumer,West,CA,San Diego,Technology,Copiers,Workgroup Copier,8,2065.49,0.4,9914.35,11643.52,-1729.17
+SO-100632,2023-10-20,2023-10-22,First Class,C0727,Joseph Walker,Home Office,Northeast,NY,New York,Office Supplies,Binders,Sheet Protectors 100,4,3.15,0,12.6,8.72,3.88
+SO-100633,2024-08-24,2024-08-29,Standard,C0107,Jennifer Khan,Consumer,South,TX,Austin,Office Supplies,Art,Colored Pencils 24,3,3.01,0,9.03,6.06,2.97
+SO-100634,2024-03-14,2024-03-16,Second Class,C0045,Joseph Hall,Consumer,West,CA,Los Angeles,Technology,Phones,Smartphone 128GB,2,639.48,0.2,1023.17,989.18,33.99
+SO-100635,2024-03-11,2024-03-16,Standard,C0481,Donna Jackson,Corporate,South,TN,Nashville,Technology,Accessories,Wireless Mouse,6,61.58,0,369.48,245.58,123.9
+SO-100636,2024-04-12,2024-04-18,Standard,C0798,Matthew Martinez,Consumer,Northeast,RI,Providence,Office Supplies,Envelopes,Padded Mailers 25,11,32.68,0,359.48,220.77,138.71
+SO-100637,2023-02-17,2023-02-19,Second Class,C0470,Aisha Green,Consumer,Northeast,NY,Buffalo,Office Supplies,Storage,Rolling Cart,2,111.41,0.1,200.54,127.26,73.28
+SO-100638,2024-04-03,2024-04-08,Standard,C0240,Nancy Campbell,Consumer,South,KY,Louisville,Office Supplies,Binders,3-Ring Binder 2 inch,4,7.66,0.4,18.38,16.44,1.94
+SO-100639,2024-03-27,2024-03-29,Second Class,C0009,Lisa Sanchez,Consumer,Northeast,NY,New York,Office Supplies,Paper,Copy Paper Ream,4,21.75,0,87,62.92,24.08
+SO-100640,2023-12-07,2023-12-13,Standard,C0616,Joshua Torres,Consumer,South,TX,Houston,Technology,Phones,Smartphone 128GB,3,639.48,0.15,1630.67,1483.77,146.9
+SO-100641,2023-12-30,2024-01-02,Second Class,C0388,Rebecca Williams,Consumer,Midwest,MN,Minneapolis,Furniture,Chairs,Leather Executive Chair,4,69.19,0,276.76,146.64,130.12
+SO-100642,2024-03-01,2024-03-02,First Class,C0334,Kimberly Murphy,Corporate,West,CA,Sacramento,Office Supplies,Paper,Ruled Notepads 12-Pack,11,25.19,0,277.09,207.9,69.19
+SO-100643,2023-05-20,2023-05-22,Second Class,C0348,Sandra Ramirez,Corporate,South,FL,Tampa,Furniture,Chairs,Stacking Guest Chair,5,201.37,0.2,805.48,600.75,204.73
+SO-100644,2024-01-23,2024-01-25,First Class,C0421,Steven Campbell,Consumer,South,TX,San Antonio,Office Supplies,Appliances,Desk Fan,2,35.16,0,70.32,46.1,24.22
+SO-100645,2023-06-29,2023-07-03,Standard,C0120,Brian Campbell,Consumer,Midwest,MN,Minneapolis,Office Supplies,Binders,3-Ring Binder 2 inch,6,7.66,0,45.96,24.66,21.3
+SO-100646,2023-02-07,2023-02-12,Standard,C0365,Steven Davis,Consumer,West,UT,Salt Lake City,Furniture,Tables,Round Cafe Table,10,216.46,0.3,1515.22,1648.4,-133.18
+SO-100647,2024-12-12,2024-12-17,Standard,C0646,Olivia Flores,Consumer,Northeast,PA,Philadelphia,Office Supplies,Binders,Sheet Protectors 100,4,3.15,0.4,7.56,8.72,-1.16
+SO-100648,2023-12-21,2023-12-23,Second Class,C0657,Kimberly Hernandez,Home Office,West,UT,Salt Lake City,Office Supplies,Storage,Rolling Cart,4,111.41,0.3,311.95,254.52,57.43
+SO-100649,2024-04-04,2024-04-08,Second Class,C0086,Stephanie Lewis,Consumer,Midwest,IL,Chicago,Office Supplies,Binders,Sheet Protectors 100,5,3.15,0.1,14.18,10.9,3.28
+SO-100650,2024-10-21,2024-10-27,Standard,C0441,David Jones,Consumer,West,UT,Salt Lake City,Office Supplies,Art,Dry Erase Markers,1,13.77,0.1,12.39,7.86,4.53
+SO-100651,2024-07-03,2024-07-09,Standard,C0302,Mei Baker,Consumer,Midwest,WI,Milwaukee,Office Supplies,Paper,Cardstock 100 Sheets,6,10.7,0.2,51.36,39.3,12.06
+SO-100652,2024-06-28,2024-07-02,Standard,C0279,Elizabeth Mitchell,Home Office,Midwest,IL,Chicago,Technology,Machines,Inkjet All-in-One,4,328.85,0,1315.4,734.96,580.44
+SO-100653,2023-02-18,2023-02-21,Second Class,C0762,Emily Thompson,Home Office,South,TX,Dallas,Office Supplies,Paper,Sticky Notes Bulk,3,7.26,0.15,18.51,14.31,4.2
+SO-100654,2023-11-16,2023-11-20,Second Class,C0761,Ashley Kim,Corporate,Midwest,IN,Indianapolis,Furniture,Tables,Round Cafe Table,5,216.46,0,1082.3,824.2,258.1
+SO-100655,2024-10-07,2024-10-07,Same Day,C0663,Patricia Scott,Corporate,Northeast,NY,New York,Technology,Phones,Cordless Phone Set,13,825.69,0.5,5366.99,6160.44,-793.45
+SO-100656,2023-06-13,2023-06-16,Second Class,C0081,Luis Gonzalez,Corporate,South,LA,New Orleans,Furniture,Chairs,Mesh Office Chair,5,288.97,0,1444.85,1114.05,330.8
+SO-100657,2024-03-31,2024-04-04,Second Class,C0413,Mark Williams,Consumer,Northeast,RI,Providence,Furniture,Furnishings,Desk Lamp,4,87.18,0.15,296.41,256.12,40.29
+SO-100658,2024-07-06,2024-07-06,Same Day,C0568,Linda Wright,Consumer,West,CA,San Diego,Furniture,Tables,Round Cafe Table,10,216.46,0.1,1948.14,1648.4,299.74
+SO-100659,2024-11-15,2024-11-19,Standard,C0558,Mark Jackson,Corporate,Northeast,NY,New York,Office Supplies,Paper,Ruled Notepads 12-Pack,2,25.19,0,50.38,37.8,12.58
+SO-100660,2023-08-29,2023-08-31,First Class,C0374,Wei Walker,Consumer,South,FL,Miami,Technology,Phones,Conference Speakerphone,9,54.64,0.2,393.41,355.95,37.46
+SO-100661,2024-09-12,2024-09-16,Standard,C0147,Barbara Roberts,Consumer,South,TX,Austin,Furniture,Bookcases,5-Shelf Bookcase,8,102.42,0.2,655.49,612.24,43.25
+SO-100662,2024-01-03,2024-01-09,Standard,C0137,Nancy Torres,Corporate,Midwest,MO,Kansas City,Technology,Machines,Document Scanner,13,676.78,0.1,7918.33,4923.36,2994.97
+SO-100663,2024-09-24,2024-09-30,Standard,C0323,Kimberly Smith,Consumer,South,VA,Richmond,Office Supplies,Paper,Cardstock 100 Sheets,1,10.7,0,10.7,6.55,4.15
+SO-100664,2023-09-18,2023-09-22,Standard,C0595,Stephanie Mitchell,Consumer,Northeast,NY,New York,Technology,Accessories,Mechanical Keyboard,1,32.85,0,32.85,19.63,13.22
+SO-100665,2024-12-14,2024-12-18,Standard,C0189,Priya Lewis,Consumer,Midwest,IL,Chicago,Technology,Accessories,USB-C Hub,3,126.39,0.15,322.29,232.02,90.27
+SO-100666,2024-08-10,2024-08-14,Second Class,C0257,Ryan White,Corporate,South,NC,Charlotte,Technology,Accessories,Webcam 1080p,1,139.68,0,139.68,97.22,42.46
+SO-100667,2023-11-12,2023-11-17,Standard,C0097,Aaron Hall,Home Office,Midwest,MN,Minneapolis,Technology,Phones,Desk Phone,8,589.43,0,4715.44,2782.16,1933.28
+SO-100668,2023-01-16,2023-01-22,Standard,C0245,Rebecca Rogers,Consumer,South,TN,Nashville,Office Supplies,Art,Gel Pens 12-Pack,7,8.3,0,58.1,30.73,27.37
+SO-100669,2024-02-19,2024-02-23,Standard,C0201,Steven Young,Corporate,West,WA,Seattle,Furniture,Bookcases,Corner Bookcase,8,188.81,0,1510.48,1140.8,369.68
+SO-100670,2023-04-14,2023-04-15,First Class,C0657,Kimberly Hernandez,Home Office,Midwest,MO,Kansas City,Technology,Accessories,Wireless Mouse,4,61.58,0,246.32,163.72,82.6
+SO-100671,2024-09-13,2024-09-15,First Class,C0290,Jacob Rivera,Consumer,Midwest,IL,Chicago,Office Supplies,Binders,Presentation Binder,1,28.2,0.2,22.56,15.63,6.93
+SO-100672,2023-02-21,2023-02-26,Standard,C0646,Olivia Flores,Consumer,Northeast,CT,Hartford,Technology,Copiers,Desktop Copier,12,2105.87,0,25270.44,19165.68,6104.76
+SO-100673,2024-10-05,2024-10-07,Second Class,C0449,Ashley Bell,Consumer,Northeast,CT,Hartford,Office Supplies,Storage,Plastic Storage Bin,4,34.42,0,137.68,106.44,31.24
+SO-100674,2024-07-22,2024-07-28,Standard,C0469,Melissa White,Consumer,Northeast,RI,Providence,Office Supplies,Paper,Copy Paper Ream,3,21.75,0,65.25,47.19,18.06
+SO-100675,2023-03-10,2023-03-12,Second Class,C0250,Michelle Cook,Corporate,Midwest,IN,Indianapolis,Furniture,Furnishings,Wall Clock,4,38.67,0,154.68,85.76,68.92
+SO-100676,2024-07-18,2024-07-22,Second Class,C0640,Robert Garcia,Consumer,South,FL,Orlando,Office Supplies,Binders,Presentation Binder,3,28.2,0,84.6,46.89,37.71
+SO-100677,2023-11-16,2023-11-21,Standard,C0528,Nicholas Robinson,Consumer,Northeast,NY,New York,Office Supplies,Art,Highlighters 6-Pack,2,22.69,0,45.38,30.34,15.04
+SO-100678,2024-07-31,2024-08-05,Standard,C0600,Nicholas Mitchell,Corporate,South,GA,Atlanta,Office Supplies,Appliances,Paper Shredder,12,169.63,0,2035.56,1113.72,921.84
+SO-100679,2024-01-05,2024-01-08,Second Class,C0149,Jonathan Chen,Consumer,South,FL,Miami,Technology,Phones,Smartphone 128GB,2,639.48,0,1278.96,989.18,289.78
+SO-100680,2023-07-25,2023-07-29,Standard,C0283,Carol Young,Consumer,West,CA,Los Angeles,Furniture,Chairs,Ergonomic Task Chair,7,204.73,0,1433.11,899.01,534.1
+SO-100681,2023-04-30,2023-04-30,Same Day,C0065,Luis Adams,Consumer,West,WA,Seattle,Office Supplies,Storage,File Cabinet 2-Drawer,14,12.16,0.15,144.7,114.38,30.32
+SO-100682,2024-04-27,2024-05-02,Standard,C0002,James Patel,Consumer,Midwest,OH,Columbus,Office Supplies,Storage,File Cabinet 2-Drawer,8,12.16,0.1,87.55,65.36,22.19
+SO-100683,2023-05-04,2023-05-08,Standard,C0252,Sandra Robinson,Consumer,South,TX,Houston,Office Supplies,Binders,Sheet Protectors 100,9,3.15,0,28.35,19.62,8.73
+SO-100684,2024-05-12,2024-05-18,Standard,C0172,Lisa Harris,Corporate,Northeast,NY,Buffalo,Technology,Accessories,USB-C Hub,12,126.39,0.1,1365.01,928.08,436.93
+SO-100685,2023-09-13,2023-09-15,Second Class,C0714,Linda Rivera,Consumer,West,OR,Portland,Office Supplies,Paper,Cardstock 100 Sheets,6,10.7,0.1,57.78,39.3,18.48
+SO-100686,2024-12-31,2025-01-04,Second Class,C0662,Nancy Martin,Corporate,West,CA,San Diego,Technology,Machines,Label Printer,8,989.61,0,7916.88,5813.52,2103.36
+SO-100687,2023-09-19,2023-09-23,Standard,C0638,Anthony Shah,Consumer,South,TX,Houston,Technology,Copiers,Workgroup Copier,8,2065.49,0.2,13219.14,11643.52,1575.62
+SO-100688,2023-09-11,2023-09-12,First Class,C0624,Sandra Patel,Consumer,South,FL,Tampa,Furniture,Furnishings,Wall Clock,7,38.67,0.2,216.55,150.08,66.47
+SO-100689,2023-02-14,2023-02-19,Standard,C0080,Aisha Thompson,Consumer,Northeast,NY,New York,Technology,Phones,Smartphone 128GB,9,639.48,0.1,5179.79,4451.31,728.48
+SO-100690,2024-03-29,2024-03-31,First Class,C0491,Olivia Chen,Consumer,Midwest,WI,Milwaukee,Technology,Machines,Document Scanner,1,676.78,0.2,541.42,378.72,162.7
+SO-100691,2023-12-25,2023-12-31,Standard,C0637,Jessica Taylor,Consumer,South,TX,Houston,Furniture,Furnishings,Wall Clock,2,38.67,0,77.34,42.88,34.46
+SO-100692,2023-08-27,2023-09-02,Standard,C0675,Amanda Cook,Consumer,Midwest,IN,Indianapolis,Furniture,Bookcases,Corner Bookcase,3,188.81,0,566.43,427.8,138.63
+SO-100693,2024-11-15,2024-11-18,Second Class,C0754,Aaron Smith,Corporate,Northeast,NY,New York,Furniture,Furnishings,Desk Lamp,1,87.18,0,87.18,64.03,23.15
+SO-100694,2023-01-29,2023-02-03,Standard,C0432,Kimberly Allen,Corporate,South,TX,Houston,Technology,Accessories,USB-C Hub,4,126.39,0.4,303.34,309.36,-6.02
+SO-100695,2024-03-29,2024-04-03,Standard,C0751,Anthony Gonzalez,Consumer,South,TX,Houston,Technology,Accessories,Webcam 1080p,3,139.68,0.1,377.14,291.66,85.48
+SO-100696,2024-09-22,2024-09-27,Standard,C0496,Jennifer Miller,Home Office,Midwest,WI,Milwaukee,Furniture,Chairs,Ergonomic Task Chair,10,204.73,0,2047.3,1284.3,763
+SO-100697,2024-04-09,2024-04-15,Standard,C0356,Sandra Sanchez,Home Office,Midwest,MO,Kansas City,Office Supplies,Storage,Plastic Storage Bin,12,34.42,0.1,371.74,319.32,52.42
+SO-100698,2023-08-13,2023-08-19,Standard,C0544,Laura Lewis,Corporate,South,VA,Richmond,Furniture,Bookcases,5-Shelf Bookcase,1,102.42,0.1,92.18,76.53,15.65
+SO-100699,2023-04-12,2023-04-18,Standard,C0449,Ashley Bell,Consumer,Midwest,OH,Cleveland,Furniture,Chairs,Ergonomic Task Chair,6,204.73,0,1228.38,770.58,457.8
+SO-100700,2024-01-19,2024-01-25,Standard,C0467,Omar Lee,Corporate,South,TX,Dallas,Office Supplies,Binders,Presentation Binder,4,28.2,0,112.8,62.52,50.28
+SO-100701,2023-06-14,2023-06-18,Standard,C0605,Jacob Jackson,Consumer,Northeast,NJ,Newark,Technology,Phones,Cordless Phone Set,7,825.69,0,5779.83,3317.16,2462.67
+SO-100702,2024-09-23,2024-09-24,First Class,C0111,Jacob Rogers,Home Office,Midwest,MN,Minneapolis,Office Supplies,Art,Highlighters 6-Pack,2,22.69,0.15,38.57,30.34,8.23
+SO-100703,2024-06-07,2024-06-11,Standard,C0568,Linda Wright,Consumer,Midwest,IL,Chicago,Furniture,Tables,Adjustable Standing Desk,3,425.97,0,1277.91,858.03,419.88
+SO-100704,2023-09-09,2023-09-13,Standard,C0385,Melissa Chen,Consumer,South,KY,Louisville,Furniture,Furnishings,Floor Mat,2,12.58,0.2,20.13,16.36,3.77
+SO-100705,2024-04-25,2024-04-28,Second Class,C0333,Eric Mitchell,Corporate,Northeast,NY,New York,Office Supplies,Paper,Ruled Notepads 12-Pack,2,25.19,0,50.38,37.8,12.58
+SO-100706,2024-11-30,2024-12-02,Second Class,C0728,Carol Roberts,Consumer,South,TX,Dallas,Technology,Accessories,USB-C Hub,6,126.39,0.15,644.59,464.04,180.55
+SO-100707,2023-03-22,2023-03-24,First Class,C0037,Sarah Carter,Consumer,Midwest,IL,Chicago,Furniture,Chairs,Mesh Office Chair,3,288.97,0.2,693.53,668.43,25.1
+SO-100708,2024-04-15,2024-04-21,Standard,C0723,Brian Carter,Consumer,West,AZ,Phoenix,Office Supplies,Envelopes,Large Kraft Envelopes,9,17.68,0.1,143.21,104.4,38.81
+SO-100709,2024-06-08,2024-06-14,Standard,C0426,Ashley Wilson,Home Office,West,CO,Denver,Office Supplies,Binders,Presentation Binder,3,28.2,0.15,71.91,46.89,25.02
+SO-100710,2024-12-16,2024-12-20,Standard,C0506,Karen Patel,Consumer,Midwest,WI,Milwaukee,Technology,Machines,Label Printer,3,989.61,0.2,2375.06,2180.07,194.99
+SO-100711,2023-09-18,2023-09-23,Standard,C0449,Ashley Bell,Consumer,Midwest,MO,Kansas City,Furniture,Bookcases,5-Shelf Bookcase,4,102.42,0.2,327.74,306.12,21.62
+SO-100712,2023-12-29,2024-01-03,Standard,C0440,Rebecca Nguyen,Home Office,South,TX,San Antonio,Technology,Phones,Cordless Phone Set,2,825.69,0,1651.38,947.76,703.62
+SO-100713,2023-06-27,2023-07-02,Standard,C0076,Mei Torres,Home Office,South,LA,New Orleans,Office Supplies,Paper,Ruled Notepads 12-Pack,8,25.19,0,201.52,151.2,50.32
+SO-100714,2023-03-08,2023-03-10,Second Class,C0071,Matthew Scott,Consumer,West,CA,Los Angeles,Technology,Phones,Smartphone 128GB,2,639.48,0.15,1087.12,989.18,97.94
+SO-100715,2023-01-08,2023-01-11,Second Class,C0269,Priya Williams,Consumer,South,TX,Houston,Furniture,Furnishings,Floor Mat,11,12.58,0.1,124.54,89.98,34.56
+SO-100716,2024-03-28,2024-03-30,Second Class,C0267,Olivia Robinson,Consumer,Northeast,MA,Boston,Office Supplies,Storage,File Cabinet 2-Drawer,1,12.16,0.15,10.34,8.17,2.17
+SO-100717,2024-04-20,2024-04-26,Standard,C0220,Omar Lewis,Consumer,Midwest,MN,Minneapolis,Office Supplies,Appliances,Electric Kettle,6,187.08,0.2,897.98,707.46,190.52
+SO-100718,2024-09-26,2024-10-02,Standard,C0316,Barbara Hall,Consumer,West,CA,San Francisco,Furniture,Bookcases,5-Shelf Bookcase,4,102.42,0.2,327.74,306.12,21.62
+SO-100719,2024-01-18,2024-01-20,First Class,C0519,Aaron Harris,Consumer,West,OR,Portland,Technology,Accessories,Noise-Canceling Headset,3,31.86,0,95.58,64.8,30.78
+SO-100720,2023-02-21,2023-02-27,Standard,C0703,Luis Carter,Consumer,West,CA,Sacramento,Office Supplies,Paper,Sticky Notes Bulk,3,7.26,0.2,17.42,14.31,3.11
+SO-100721,2024-12-15,2024-12-18,Second Class,C0613,Ryan Mitchell,Corporate,South,TX,Houston,Furniture,Furnishings,Wall Clock,2,38.67,0,77.34,42.88,34.46
+SO-100722,2023-12-10,2023-12-14,Standard,C0091,Kevin Clark,Consumer,Midwest,MI,Detroit,Office Supplies,Binders,Binder Clips Box,1,8.45,0.1,7.61,5.51,2.1
+SO-100723,2024-12-03,2024-12-07,Standard,C0734,Samuel Moore,Home Office,South,TX,Austin,Office Supplies,Paper,Copy Paper Ream,3,21.75,0.5,32.63,47.19,-14.56
+SO-100724,2023-07-10,2023-07-16,Standard,C0444,Barbara Brown,Consumer,Northeast,NY,Buffalo,Office Supplies,Appliances,Desk Fan,2,35.16,0,70.32,46.1,24.22
+SO-100725,2024-08-25,2024-08-31,Standard,C0138,Michael Rogers,Corporate,West,CA,San Francisco,Office Supplies,Appliances,Paper Shredder,4,169.63,0,678.52,371.24,307.28
+SO-100726,2024-03-11,2024-03-13,Second Class,C0134,Carol Wright,Consumer,Midwest,IL,Chicago,Office Supplies,Storage,File Cabinet 2-Drawer,1,12.16,0,12.16,8.17,3.99
+SO-100727,2024-06-29,2024-07-05,Standard,C0154,Aisha King,Consumer,West,UT,Salt Lake City,Technology,Accessories,External SSD 1TB,8,25.67,0.2,164.29,127.2,37.09
+SO-100728,2024-04-14,2024-04-20,Standard,C0273,Anthony Murphy,Consumer,West,CA,Sacramento,Office Supplies,Storage,File Cabinet 2-Drawer,8,12.16,0,97.28,65.36,31.92
+SO-100729,2023-01-22,2023-01-28,Standard,C0497,Rebecca Sanchez,Consumer,South,FL,Miami,Office Supplies,Art,Colored Pencils 24,7,3.01,0.2,16.86,14.14,2.72
+SO-100730,2024-04-22,2024-04-27,Standard,C0728,Carol Roberts,Consumer,West,UT,Salt Lake City,Office Supplies,Binders,3-Ring Binder 2 inch,2,7.66,0,15.32,8.22,7.1
+SO-100731,2023-03-03,2023-03-05,First Class,C0800,Rebecca Lewis,Consumer,South,TX,Austin,Office Supplies,Art,Dry Erase Markers,2,13.77,0.1,24.79,15.72,9.07
+SO-100732,2024-04-04,2024-04-10,Standard,C0171,Jonathan Martinez,Consumer,Northeast,RI,Providence,Technology,Accessories,External SSD 1TB,3,25.67,0,77.01,47.7,29.31
+SO-100733,2024-04-08,2024-04-13,Standard,C0615,Sofia Cook,Home Office,South,KY,Louisville,Office Supplies,Storage,Rolling Cart,5,111.41,0.2,445.64,318.15,127.49
+SO-100734,2023-09-30,2023-10-05,Standard,C0653,Joshua Thompson,Consumer,South,VA,Richmond,Technology,Copiers,Desktop Copier,1,2105.87,0,2105.87,1597.14,508.73
+SO-100735,2023-02-23,2023-02-26,Second Class,C0448,Aaron Kim,Consumer,Midwest,MO,Kansas City,Technology,Accessories,Mechanical Keyboard,5,32.85,0.5,82.13,98.15,-16.02
+SO-100736,2023-03-07,2023-03-13,Standard,C0009,Lisa Sanchez,Consumer,South,FL,Orlando,Furniture,Chairs,Mesh Office Chair,7,288.97,0.4,1213.67,1559.67,-346
+SO-100737,2024-01-01,2024-01-04,Second Class,C0297,Kevin Rodriguez,Consumer,West,CA,San Francisco,Furniture,Bookcases,5-Shelf Bookcase,3,102.42,0,307.26,229.59,77.67
+SO-100738,2024-04-20,2024-04-26,Standard,C0349,Elizabeth Carter,Home Office,South,FL,Tampa,Office Supplies,Art,Gel Pens 12-Pack,1,8.3,0,8.3,4.39,3.91
+SO-100739,2024-03-10,2024-03-12,First Class,C0757,Mary Torres,Consumer,Midwest,NE,Omaha,Office Supplies,Art,Dry Erase Markers,2,13.77,0.15,23.41,15.72,7.69
+SO-100740,2023-08-13,2023-08-14,First Class,C0223,Jacob Hill,Home Office,South,FL,Orlando,Technology,Phones,Smartphone 128GB,1,639.48,0.15,543.56,494.59,48.97
+SO-100741,2023-05-16,2023-05-22,Standard,C0659,Diego Kim,Consumer,Northeast,NY,New York,Furniture,Furnishings,Desk Lamp,2,87.18,0,174.36,128.06,46.3
+SO-100742,2024-11-22,2024-11-23,First Class,C0277,Ashley Scott,Corporate,South,FL,Orlando,Furniture,Furnishings,Desk Organizer,1,56.21,0.2,44.97,41.15,3.82
+SO-100743,2023-01-27,2023-01-28,First Class,C0777,Jonathan Williams,Consumer,West,OR,Portland,Office Supplies,Binders,Presentation Binder,1,28.2,0,28.2,15.63,12.57
+SO-100744,2024-07-24,2024-07-29,Standard,C0242,Nancy Jackson,Corporate,West,CA,Los Angeles,Furniture,Furnishings,Floor Mat,2,12.58,0,25.16,16.36,8.8
+SO-100745,2023-12-26,2023-12-30,Standard,C0507,Andrew Young,Consumer,West,WA,Seattle,Office Supplies,Paper,Cardstock 100 Sheets,2,10.7,0,21.4,13.1,8.3
+SO-100746,2024-12-05,2024-12-10,Standard,C0127,Jacob Smith,Consumer,South,TX,San Antonio,Office Supplies,Appliances,Space Heater,7,190.41,0,1332.87,1004.57,328.3
+SO-100747,2024-03-27,2024-04-02,Standard,C0235,Brian Rivera,Corporate,West,CO,Denver,Technology,Phones,Cordless Phone Set,8,825.69,0.3,4623.86,3791.04,832.82
+SO-100748,2024-05-01,2024-05-06,Standard,C0531,Jennifer Allen,Home Office,West,CA,San Diego,Office Supplies,Binders,Presentation Binder,10,28.2,0.15,239.7,156.3,83.4
+SO-100749,2023-07-11,2023-07-17,Standard,C0419,Nancy Morgan,Home Office,Northeast,PA,Pittsburgh,Office Supplies,Binders,Binder Clips Box,9,8.45,0,76.05,49.59,26.46
+SO-100750,2023-05-28,2023-05-30,First Class,C0036,Ryan Shah,Consumer,West,OR,Portland,Office Supplies,Art,Highlighters 6-Pack,2,22.69,0.3,31.77,30.34,1.43
+SO-100751,2023-08-15,2023-08-19,Second Class,C0677,Matthew Hill,Corporate,South,FL,Orlando,Office Supplies,Binders,Binder Clips Box,12,8.45,0,101.4,66.12,35.28
+SO-100752,2023-06-29,2023-07-04,Standard,C0577,Laura Chen,Consumer,Northeast,CT,Hartford,Furniture,Furnishings,Wall Clock,5,38.67,0,193.35,107.2,86.15
+SO-100753,2023-11-04,2023-11-10,Standard,C0020,Jessica Robinson,Home Office,Northeast,CT,Hartford,Furniture,Chairs,Stacking Guest Chair,5,201.37,0,1006.85,600.75,406.1
+SO-100754,2024-06-27,2024-06-28,First Class,C0789,Joshua Bell,Corporate,Northeast,NJ,Newark,Office Supplies,Appliances,Paper Shredder,4,169.63,0.1,610.67,371.24,239.43
+SO-100755,2024-08-27,2024-08-27,Same Day,C0356,Sandra Sanchez,Home Office,Midwest,MO,Kansas City,Technology,Phones,Cordless Phone Set,3,825.69,0.3,1733.95,1421.64,312.31
+SO-100756,2023-09-29,2023-10-04,Standard,C0655,Rebecca Robinson,Corporate,Midwest,IL,Chicago,Office Supplies,Paper,Sticky Notes Bulk,10,7.26,0,72.6,47.7,24.9
+SO-100757,2024-09-04,2024-09-08,Second Class,C0495,Amanda Murphy,Corporate,Northeast,RI,Providence,Furniture,Furnishings,Wall Clock,12,38.67,0.4,278.42,257.28,21.14
+SO-100758,2023-10-14,2023-10-16,Second Class,C0121,Lisa Sanchez,Consumer,Midwest,IL,Chicago,Furniture,Furnishings,Floor Mat,9,12.58,0.15,96.24,73.62,22.62
+SO-100759,2023-04-23,2023-04-29,Standard,C0155,Aaron Adams,Consumer,West,CA,San Francisco,Technology,Phones,Conference Speakerphone,3,54.64,0,163.92,118.65,45.27
+SO-100760,2024-11-15,2024-11-17,First Class,C0649,Amanda Shah,Corporate,South,FL,Orlando,Office Supplies,Appliances,Paper Shredder,4,169.63,0.1,610.67,371.24,239.43
+SO-100761,2024-01-25,2024-01-31,Standard,C0091,Kevin Clark,Consumer,West,CA,Sacramento,Furniture,Chairs,Drafting Stool,7,210.14,0.2,1176.78,1136.45,40.33
+SO-100762,2023-10-23,2023-10-27,Standard,C0783,Jacob Mitchell,Home Office,West,CA,San Francisco,Office Supplies,Appliances,Space Heater,2,190.41,0.5,190.41,287.02,-96.61
+SO-100763,2023-03-17,2023-03-18,First Class,C0758,Thomas Wilson,Consumer,Midwest,MN,Minneapolis,Office Supplies,Binders,Presentation Binder,13,28.2,0.1,329.94,203.19,126.75
+SO-100764,2024-05-13,2024-05-17,Standard,C0003,Stephanie Davis,Consumer,West,CA,San Diego,Technology,Accessories,Mechanical Keyboard,3,32.85,0.1,88.7,58.89,29.81
+SO-100765,2023-11-29,2023-12-01,First Class,C0458,Sandra Martin,Consumer,Northeast,MA,Boston,Furniture,Tables,Adjustable Standing Desk,4,425.97,0.3,1192.72,1144.04,48.68
+SO-100766,2023-05-17,2023-05-20,Second Class,C0639,Carol Martin,Consumer,West,CA,San Diego,Furniture,Tables,Round Cafe Table,1,216.46,0.1,194.81,164.84,29.97
+SO-100767,2024-05-04,2024-05-04,Same Day,C0176,Patricia Lee,Consumer,Northeast,NY,New York,Furniture,Bookcases,5-Shelf Bookcase,2,102.42,0,204.84,153.06,51.78
+SO-100768,2024-01-25,2024-01-31,Standard,C0019,Jessica Taylor,Corporate,Midwest,IN,Indianapolis,Furniture,Furnishings,Desk Lamp,5,87.18,0.1,392.31,320.15,72.16
+SO-100769,2024-02-20,2024-02-22,First Class,C0598,James Johnson,Consumer,Midwest,MO,Kansas City,Furniture,Bookcases,5-Shelf Bookcase,12,102.42,0.4,737.42,918.36,-180.94
+SO-100770,2024-03-04,2024-03-06,First Class,C0675,Amanda Cook,Consumer,West,AZ,Phoenix,Furniture,Furnishings,Floor Mat,5,12.58,0.2,50.32,40.9,9.42
+SO-100771,2023-04-26,2023-05-02,Standard,C0071,Matthew Scott,Consumer,Northeast,NY,New York,Technology,Accessories,USB-C Hub,1,126.39,0.1,113.75,77.34,36.41
+SO-100772,2023-05-18,2023-05-22,Standard,C0577,Laura Chen,Consumer,South,VA,Richmond,Technology,Phones,Desk Phone,1,589.43,0.1,530.49,347.77,182.72
+SO-100773,2023-10-16,2023-10-20,Standard,C0168,Mary Scott,Consumer,West,CA,Los Angeles,Furniture,Chairs,Mesh Office Chair,1,288.97,0.2,231.18,222.81,8.37
+SO-100774,2023-04-17,2023-04-21,Standard,C0699,Joseph Torres,Home Office,Midwest,IL,Chicago,Technology,Accessories,Wireless Mouse,2,61.58,0.3,86.21,81.86,4.35
+SO-100775,2023-06-15,2023-06-20,Standard,C0636,Emma Carter,Home Office,Northeast,NY,New York,Office Supplies,Art,Gel Pens 12-Pack,1,8.3,0.1,7.47,4.39,3.08
+SO-100776,2024-06-05,2024-06-06,First Class,C0081,Luis Gonzalez,Corporate,West,CA,San Diego,Office Supplies,Storage,Plastic Storage Bin,6,34.42,0.1,185.87,159.66,26.21
+SO-100777,2024-06-16,2024-06-21,Standard,C0789,Joshua Bell,Corporate,Northeast,CT,Hartford,Furniture,Chairs,Mesh Office Chair,4,288.97,0,1155.88,891.24,264.64
+SO-100778,2024-05-04,2024-05-05,First Class,C0710,Samuel Carter,Consumer,West,AZ,Phoenix,Furniture,Bookcases,Corner Bookcase,13,188.81,0.15,2086.35,1853.8,232.55
+SO-100779,2023-02-13,2023-02-19,Standard,C0775,Ryan Brown,Corporate,West,OR,Portland,Office Supplies,Storage,Plastic Storage Bin,14,34.42,0,481.88,372.54,109.34
+SO-100780,2024-05-27,2024-05-31,Second Class,C0017,William Sanchez,Consumer,West,CA,Los Angeles,Office Supplies,Art,Colored Pencils 24,3,3.01,0,9.03,6.06,2.97
+SO-100781,2023-09-08,2023-09-10,First Class,C0380,Joshua Kim,Consumer,South,FL,Miami,Office Supplies,Appliances,Space Heater,9,190.41,0.4,1028.21,1291.59,-263.38
+SO-100782,2024-05-29,2024-05-30,First Class,C0106,Eric Brown,Consumer,Midwest,IL,Chicago,Office Supplies,Envelopes,Large Kraft Envelopes,2,17.68,0.5,17.68,23.2,-5.52
+SO-100783,2024-09-27,2024-09-29,First Class,C0483,Kimberly Lewis,Consumer,South,TX,San Antonio,Furniture,Bookcases,Low Storage Bookcase,3,336.42,0,1009.26,645.39,363.87
+SO-100784,2023-10-31,2023-11-05,Standard,C0206,Steven Rodriguez,Consumer,West,CA,Los Angeles,Technology,Machines,Document Scanner,4,676.78,0.3,1894.98,1514.88,380.1
+SO-100785,2023-12-06,2023-12-10,Standard,C0237,Andrew Nelson,Home Office,South,TX,Houston,Technology,Phones,Conference Speakerphone,5,54.64,0,273.2,197.75,75.45
+SO-100786,2023-10-21,2023-10-25,Standard,C0687,Daniel Morgan,Consumer,Northeast,MA,Boston,Office Supplies,Envelopes,Large Kraft Envelopes,3,17.68,0,53.04,34.8,18.24
+SO-100787,2023-10-13,2023-10-19,Standard,C0496,Jennifer Miller,Home Office,South,TX,Austin,Furniture,Furnishings,Floor Mat,4,12.58,0.15,42.77,32.72,10.05
+SO-100788,2024-05-17,2024-05-20,Second Class,C0146,Thomas Torres,Home Office,South,FL,Tampa,Office Supplies,Art,Dry Erase Markers,3,13.77,0,41.31,23.58,17.73
+SO-100789,2024-03-05,2024-03-07,First Class,C0447,Michelle Wilson,Home Office,West,CA,San Francisco,Technology,Phones,Desk Phone,4,589.43,0,2357.72,1391.08,966.64
+SO-100790,2023-07-20,2023-07-22,Second Class,C0124,Aaron Rogers,Corporate,West,CA,Sacramento,Office Supplies,Binders,Binder Clips Box,1,8.45,0.2,6.76,5.51,1.25
+SO-100791,2023-06-15,2023-06-17,Second Class,C0463,Mary Mitchell,Consumer,Northeast,NY,New York,Office Supplies,Art,Dry Erase Markers,5,13.77,0,68.85,39.3,29.55
+SO-100792,2024-07-13,2024-07-19,Standard,C0454,John Young,Home Office,Northeast,PA,Philadelphia,Furniture,Bookcases,Low Storage Bookcase,2,336.42,0,672.84,430.26,242.58
+SO-100793,2023-04-04,2023-04-07,Second Class,C0157,Barbara Harris,Consumer,Midwest,MN,Minneapolis,Office Supplies,Paper,Ruled Notepads 12-Pack,1,25.19,0.2,20.15,18.9,1.25
+SO-100794,2024-05-03,2024-05-08,Standard,C0034,Jessica Gonzalez,Home Office,West,WA,Seattle,Technology,Phones,Desk Phone,6,589.43,0.3,2475.61,2086.62,388.99
+SO-100795,2024-12-01,2024-12-02,First Class,C0072,Eric Wilson,Consumer,West,OR,Portland,Furniture,Bookcases,5-Shelf Bookcase,8,102.42,0,819.36,612.24,207.12
+SO-100796,2024-04-21,2024-04-25,Standard,C0354,Nicholas Shah,Corporate,Northeast,NJ,Newark,Furniture,Tables,Adjustable Standing Desk,4,425.97,0.1,1533.49,1144.04,389.45
+SO-100797,2023-04-10,2023-04-14,Standard,C0158,Sandra Garcia,Corporate,Northeast,CT,Hartford,Office Supplies,Envelopes,Security Envelopes 500,9,24.01,0,216.09,125.91,90.18
+SO-100798,2023-03-31,2023-04-06,Standard,C0346,Kevin Wilson,Consumer,Midwest,OH,Cleveland,Furniture,Bookcases,Corner Bookcase,8,188.81,0,1510.48,1140.8,369.68
+SO-100799,2024-09-03,2024-09-04,First Class,C0370,Susan Hill,Home Office,South,KY,Louisville,Office Supplies,Appliances,Paper Shredder,2,169.63,0,339.26,185.62,153.64
+SO-100800,2023-02-03,2023-02-07,Standard,C0014,Carol Harris,Consumer,Midwest,MO,Kansas City,Technology,Accessories,Webcam 1080p,1,139.68,0.2,111.74,97.22,14.52
+SO-100801,2024-03-20,2024-03-24,Standard,C0275,Jacob Young,Consumer,West,NV,Las Vegas,Office Supplies,Paper,Ruled Notepads 12-Pack,1,25.19,0.2,20.15,18.9,1.25
+SO-100802,2024-05-24,2024-05-29,Standard,C0763,Aisha Ramirez,Consumer,Northeast,PA,Philadelphia,Office Supplies,Envelopes,Security Envelopes 500,1,24.01,0,24.01,13.99,10.02
+SO-100803,2024-02-07,2024-02-13,Standard,C0613,Ryan Mitchell,Corporate,West,CA,Los Angeles,Furniture,Tables,Adjustable Standing Desk,10,425.97,0,4259.7,2860.1,1399.6
+SO-100804,2024-09-22,2024-09-26,Second Class,C0317,Kimberly Davis,Consumer,Midwest,MO,Kansas City,Office Supplies,Binders,Sheet Protectors 100,7,3.15,0,22.05,15.26,6.79
+SO-100805,2024-09-01,2024-09-06,Standard,C0613,Ryan Mitchell,Corporate,South,TN,Nashville,Technology,Accessories,Webcam 1080p,3,139.68,0.15,356.18,291.66,64.52
+SO-100806,2023-12-16,2023-12-22,Standard,C0280,Sofia Torres,Consumer,Northeast,PA,Pittsburgh,Furniture,Tables,Rectangular Meeting Table,8,208.01,0,1664.08,1274.64,389.44
+SO-100807,2023-12-01,2023-12-03,Second Class,C0746,Kimberly Johnson,Corporate,Midwest,MI,Detroit,Furniture,Chairs,Leather Executive Chair,3,69.19,0,207.57,109.98,97.59
+SO-100808,2024-09-13,2024-09-19,Standard,C0315,Thomas Patel,Consumer,Northeast,NY,New York,Office Supplies,Appliances,Paper Shredder,9,169.63,0.1,1374,835.29,538.71
+SO-100809,2023-02-09,2023-02-13,Standard,C0166,Elizabeth Scott,Corporate,Midwest,MO,Kansas City,Office Supplies,Paper,Ruled Notepads 12-Pack,6,25.19,0.1,136.03,113.4,22.63
+SO-100810,2024-01-26,2024-01-31,Standard,C0341,Patricia Rivera,Corporate,Midwest,OH,Cleveland,Office Supplies,Binders,3-Ring Binder 2 inch,3,7.66,0.1,20.68,12.33,8.35
+SO-100811,2024-10-17,2024-10-18,First Class,C0783,Jacob Mitchell,Home Office,Northeast,NY,New York,Furniture,Furnishings,Picture Frame Set,2,9.83,0.2,15.73,10.98,4.75
+SO-100812,2023-10-26,2023-10-30,Standard,C0741,Luis Thomas,Home Office,Northeast,NY,New York,Office Supplies,Paper,Ruled Notepads 12-Pack,11,25.19,0.1,249.38,207.9,41.48
+SO-100813,2023-11-21,2023-11-27,Standard,C0141,Andrew Morgan,Consumer,Northeast,NY,New York,Furniture,Bookcases,Low Storage Bookcase,3,336.42,0.5,504.63,645.39,-140.76
+SO-100814,2023-03-01,2023-03-05,Standard,C0103,Jennifer Rodriguez,Corporate,South,TX,San Antonio,Furniture,Tables,Round Cafe Table,5,216.46,0,1082.3,824.2,258.1
+SO-100815,2023-01-14,2023-01-20,Standard,C0133,Olivia Patel,Consumer,Northeast,PA,Philadelphia,Office Supplies,Storage,Plastic Storage Bin,3,34.42,0.2,82.61,79.83,2.78
+SO-100816,2023-07-31,2023-08-06,Standard,C0381,Stephanie Robinson,Consumer,South,KY,Louisville,Office Supplies,Binders,Sheet Protectors 100,7,3.15,0,22.05,15.26,6.79
+SO-100817,2023-04-09,2023-04-14,Standard,C0403,Kevin Patel,Corporate,West,NV,Las Vegas,Furniture,Chairs,Mesh Office Chair,10,288.97,0.5,1444.85,2228.1,-783.25
+SO-100818,2024-01-11,2024-01-17,Standard,C0722,Mary Baker,Consumer,West,CO,Denver,Office Supplies,Art,Gel Pens 12-Pack,9,8.3,0,74.7,39.51,35.19
+SO-100819,2023-05-10,2023-05-14,Second Class,C0757,Mary Torres,Consumer,Midwest,OH,Cleveland,Technology,Copiers,Desktop Copier,11,2105.87,0.2,18531.66,17568.54,963.12
+SO-100820,2024-09-10,2024-09-14,Standard,C0218,Laura Bell,Consumer,South,NC,Charlotte,Technology,Phones,Desk Phone,6,589.43,0,3536.58,2086.62,1449.96
+SO-100821,2023-02-10,2023-02-16,Standard,C0433,Jonathan Ramirez,Home Office,Northeast,PA,Philadelphia,Furniture,Bookcases,Corner Bookcase,8,188.81,0.2,1208.38,1140.8,67.58
+SO-100822,2023-07-20,2023-07-22,First Class,C0713,Linda Thomas,Home Office,Northeast,PA,Philadelphia,Office Supplies,Paper,Ruled Notepads 12-Pack,1,25.19,0,25.19,18.9,6.29
+SO-100823,2024-11-17,2024-11-18,First Class,C0476,Eric Martinez,Consumer,Midwest,NE,Omaha,Office Supplies,Appliances,Space Heater,14,190.41,0.1,2399.17,2009.14,390.03
+SO-100824,2023-09-23,2023-09-25,First Class,C0418,Stephanie Roberts,Corporate,South,TX,Austin,Technology,Machines,Document Scanner,4,676.78,0,2707.12,1514.88,1192.24
+SO-100825,2023-01-10,2023-01-14,Standard,C0332,Jessica Scott,Consumer,South,FL,Tampa,Office Supplies,Binders,Binder Clips Box,13,8.45,0.1,98.87,71.63,27.24
+SO-100826,2023-11-19,2023-11-25,Standard,C0773,Omar Hill,Consumer,Midwest,MI,Detroit,Office Supplies,Art,Highlighters 6-Pack,7,22.69,0,158.83,106.19,52.64
+SO-100827,2023-01-24,2023-01-29,Standard,C0541,Aisha Flores,Consumer,Northeast,RI,Providence,Furniture,Bookcases,Low Storage Bookcase,9,336.42,0.3,2119.45,1936.17,183.28
+SO-100828,2024-12-06,2024-12-09,Second Class,C0577,Laura Chen,Consumer,South,LA,New Orleans,Furniture,Tables,Rectangular Meeting Table,3,208.01,0,624.03,477.99,146.04
+SO-100829,2023-06-18,2023-06-24,Standard,C0415,Nicholas Murphy,Consumer,Midwest,IL,Chicago,Office Supplies,Paper,Copy Paper Ream,9,21.75,0,195.75,141.57,54.18
+SO-100830,2024-08-01,2024-08-06,Standard,C0699,Joseph Torres,Home Office,South,TX,Houston,Furniture,Chairs,Stacking Guest Chair,14,201.37,0.1,2537.26,1682.1,855.16
+SO-100831,2023-04-02,2023-04-04,First Class,C0199,Wei Harris,Consumer,Northeast,NY,Buffalo,Technology,Accessories,Wireless Mouse,8,61.58,0.2,394.11,327.44,66.67
+SO-100832,2023-09-10,2023-09-15,Standard,C0273,Anthony Murphy,Consumer,Northeast,NY,Buffalo,Furniture,Tables,Round Cafe Table,13,216.46,0,2813.98,2142.92,671.06
+SO-100833,2024-02-03,2024-02-09,Standard,C0474,Robert Rivera,Corporate,South,TX,Dallas,Technology,Copiers,Workgroup Copier,5,2065.49,0,10327.45,7277.2,3050.25
+SO-100834,2023-11-15,2023-11-21,Standard,C0534,Olivia Chen,Consumer,West,OR,Portland,Technology,Phones,Smartphone 128GB,7,639.48,0,4476.36,3462.13,1014.23
+SO-100835,2023-05-18,2023-05-22,Standard,C0326,Jonathan Young,Corporate,Northeast,MA,Boston,Technology,Phones,Cordless Phone Set,4,825.69,0,3302.76,1895.52,1407.24
+SO-100836,2024-08-19,2024-08-20,First Class,C0042,Lisa Bell,Consumer,Midwest,MO,Kansas City,Office Supplies,Storage,Plastic Storage Bin,1,34.42,0,34.42,26.61,7.81
+SO-100837,2023-07-30,2023-08-05,Standard,C0083,Joseph King,Home Office,West,CO,Denver,Furniture,Tables,Round Cafe Table,1,216.46,0,216.46,164.84,51.62
+SO-100838,2024-10-09,2024-10-15,Standard,C0218,Laura Bell,Consumer,Midwest,OH,Cleveland,Office Supplies,Paper,Ruled Notepads 12-Pack,2,25.19,0,50.38,37.8,12.58
+SO-100839,2024-03-20,2024-03-21,First Class,C0616,Joshua Torres,Consumer,West,CA,Sacramento,Office Supplies,Art,Dry Erase Markers,3,13.77,0.1,37.18,23.58,13.6
+SO-100840,2024-03-21,2024-03-27,Standard,C0753,Joseph Nelson,Corporate,South,NC,Charlotte,Furniture,Tables,Folding Training Table,1,326.87,0.2,261.5,238.77,22.73
+SO-100841,2024-03-10,2024-03-15,Standard,C0323,Kimberly Smith,Consumer,South,FL,Miami,Technology,Phones,Desk Phone,1,589.43,0,589.43,347.77,241.66
+SO-100842,2024-08-14,2024-08-18,Standard,C0255,Carol Nguyen,Consumer,Midwest,MN,Minneapolis,Technology,Machines,Document Scanner,7,676.78,0.1,4263.71,2651.04,1612.67
+SO-100843,2023-05-31,2023-06-06,Standard,C0118,Jessica Khan,Home Office,Midwest,MI,Detroit,Office Supplies,Paper,Copy Paper Ream,6,21.75,0,130.5,94.38,36.12
+SO-100844,2023-08-04,2023-08-04,Same Day,C0179,Andrew Lee,Corporate,West,WA,Seattle,Technology,Phones,Cordless Phone Set,3,825.69,0.1,2229.36,1421.64,807.72
+SO-100845,2024-05-17,2024-05-18,First Class,C0454,John Young,Home Office,Northeast,PA,Pittsburgh,Technology,Accessories,Webcam 1080p,4,139.68,0,558.72,388.88,169.84
+SO-100846,2024-02-05,2024-02-09,Second Class,C0634,Aaron Lee,Corporate,West,CO,Denver,Office Supplies,Storage,Archive Boxes 10-Pack,4,69.61,0.15,236.67,166.56,70.11
+SO-100847,2023-09-14,2023-09-17,Second Class,C0513,Ryan Clark,Consumer,Midwest,WI,Milwaukee,Office Supplies,Storage,Archive Boxes 10-Pack,2,69.61,0.2,111.38,83.28,28.1
+SO-100848,2023-03-29,2023-04-03,Standard,C0445,Emily Allen,Corporate,Midwest,OH,Cleveland,Office Supplies,Envelopes,Large Kraft Envelopes,5,17.68,0,88.4,58,30.4
+SO-100849,2024-01-30,2024-02-03,Second Class,C0674,Diego Flores,Consumer,Northeast,NJ,Newark,Office Supplies,Appliances,Desk Fan,2,35.16,0.1,63.29,46.1,17.19
+SO-100850,2023-07-17,2023-07-19,Second Class,C0279,Elizabeth Mitchell,Home Office,Midwest,OH,Columbus,Technology,Machines,Label Printer,4,989.61,0.2,3166.75,2906.76,259.99
+SO-100851,2024-01-01,2024-01-05,Standard,C0033,William Green,Corporate,West,CA,Los Angeles,Furniture,Furnishings,Floor Mat,10,12.58,0.2,100.64,81.8,18.84
+SO-100852,2024-03-30,2024-03-30,Same Day,C0399,Olivia Adams,Consumer,Midwest,IL,Chicago,Furniture,Furnishings,Desk Lamp,14,87.18,0.1,1098.47,896.42,202.05
+SO-100853,2024-03-27,2024-04-01,Standard,C0261,Mark Adams,Consumer,Northeast,NY,Buffalo,Office Supplies,Art,Gel Pens 12-Pack,6,8.3,0,49.8,26.34,23.46
+SO-100854,2024-03-27,2024-03-31,Standard,C0116,Ryan Anderson,Corporate,West,NV,Las Vegas,Office Supplies,Art,Highlighters 6-Pack,8,22.69,0,181.52,121.36,60.16
+SO-100855,2023-11-21,2023-11-27,Standard,C0495,Amanda Murphy,Corporate,South,NC,Charlotte,Furniture,Tables,Adjustable Standing Desk,3,425.97,0.4,766.75,858.03,-91.28
+SO-100856,2024-08-20,2024-08-24,Second Class,C0511,Lisa Smith,Consumer,West,CA,San Francisco,Technology,Machines,Laser Printer,2,473.83,0.2,758.13,694.36,63.77
+SO-100857,2023-01-15,2023-01-21,Standard,C0628,Aisha Khan,Corporate,Northeast,PA,Pittsburgh,Office Supplies,Art,Colored Pencils 24,5,3.01,0,15.05,10.1,4.95
+SO-100858,2024-04-08,2024-04-12,Standard,C0441,David Jones,Consumer,West,OR,Portland,Technology,Accessories,Mechanical Keyboard,3,32.85,0.4,59.13,58.89,0.24
+SO-100859,2024-09-29,2024-10-05,Standard,C0259,Richard Hill,Consumer,Midwest,MI,Detroit,Technology,Machines,Document Scanner,2,676.78,0,1353.56,757.44,596.12
+SO-100860,2023-11-01,2023-11-07,Standard,C0237,Andrew Nelson,Home Office,Northeast,NY,New York,Office Supplies,Storage,Rolling Cart,3,111.41,0,334.23,190.89,143.34
+SO-100861,2023-02-17,2023-02-22,Standard,C0449,Ashley Bell,Consumer,Northeast,NJ,Newark,Office Supplies,Paper,Ruled Notepads 12-Pack,8,25.19,0,201.52,151.2,50.32
+SO-100862,2023-05-09,2023-05-09,Same Day,C0753,Joseph Nelson,Corporate,Midwest,OH,Columbus,Office Supplies,Binders,Sheet Protectors 100,4,3.15,0,12.6,8.72,3.88
+SO-100863,2024-07-13,2024-07-13,Same Day,C0291,Melissa Moore,Corporate,Northeast,NY,New York,Office Supplies,Art,Gel Pens 12-Pack,6,8.3,0,49.8,26.34,23.46
+SO-100864,2023-05-31,2023-05-31,Same Day,C0513,Ryan Clark,Consumer,South,TX,Dallas,Office Supplies,Paper,Ruled Notepads 12-Pack,3,25.19,0.15,64.23,56.7,7.53
+SO-100865,2023-11-13,2023-11-18,Standard,C0171,Jonathan Martinez,Consumer,Midwest,OH,Columbus,Office Supplies,Storage,Archive Boxes 10-Pack,14,69.61,0,974.54,582.96,391.58
+SO-100866,2024-12-13,2024-12-18,Standard,C0181,Thomas Lewis,Home Office,Midwest,MI,Detroit,Furniture,Furnishings,Floor Mat,3,12.58,0.2,30.19,24.54,5.65
+SO-100867,2023-08-05,2023-08-10,Standard,C0536,Diego Smith,Corporate,Northeast,PA,Pittsburgh,Furniture,Bookcases,5-Shelf Bookcase,1,102.42,0.4,61.45,76.53,-15.08
+SO-100868,2024-04-01,2024-04-07,Standard,C0067,Olivia Flores,Corporate,Midwest,IN,Indianapolis,Office Supplies,Storage,Rolling Cart,1,111.41,0,111.41,63.63,47.78
+SO-100869,2024-12-10,2024-12-14,Standard,C0394,Susan Hernandez,Consumer,Northeast,NY,New York,Furniture,Furnishings,Floor Mat,8,12.58,0,100.64,65.44,35.2
+SO-100870,2024-08-06,2024-08-08,First Class,C0380,Joshua Kim,Consumer,Midwest,IL,Chicago,Office Supplies,Appliances,Desk Fan,10,35.16,0.15,298.86,230.5,68.36
+SO-100871,2024-05-08,2024-05-13,Standard,C0219,Aaron Hernandez,Consumer,Midwest,IL,Chicago,Technology,Accessories,Wireless Mouse,3,61.58,0,184.74,122.79,61.95
+SO-100872,2023-07-11,2023-07-12,First Class,C0760,Donna Gonzalez,Corporate,South,TX,San Antonio,Furniture,Furnishings,Picture Frame Set,2,9.83,0.15,16.71,10.98,5.73
+SO-100873,2023-02-23,2023-02-27,Standard,C0415,Nicholas Murphy,Consumer,Northeast,NJ,Newark,Furniture,Tables,Rectangular Meeting Table,2,208.01,0.2,332.82,318.66,14.16
+SO-100874,2023-07-16,2023-07-22,Standard,C0528,Nicholas Robinson,Consumer,West,UT,Salt Lake City,Technology,Copiers,Desktop Copier,2,2105.87,0,4211.74,3194.28,1017.46
+SO-100875,2024-05-28,2024-06-03,Standard,C0009,Lisa Sanchez,Consumer,West,CA,Los Angeles,Technology,Accessories,USB-C Hub,1,126.39,0.1,113.75,77.34,36.41
+SO-100876,2023-03-28,2023-04-02,Standard,C0386,Susan Hill,Consumer,South,VA,Richmond,Technology,Phones,Cordless Phone Set,1,825.69,0.4,495.41,473.88,21.53
+SO-100877,2023-03-12,2023-03-17,Standard,C0517,Amanda Scott,Home Office,West,CA,Los Angeles,Furniture,Furnishings,Desk Lamp,5,87.18,0.2,348.72,320.15,28.57
+SO-100878,2024-11-16,2024-11-18,Second Class,C0461,William Martin,Home Office,South,FL,Tampa,Technology,Accessories,USB-C Hub,1,126.39,0.2,101.11,77.34,23.77
+SO-100879,2024-04-18,2024-04-24,Standard,C0786,Michael White,Consumer,Midwest,IN,Indianapolis,Furniture,Chairs,Stacking Guest Chair,7,201.37,0,1409.59,841.05,568.54
+SO-100880,2024-03-16,2024-03-22,Standard,C0398,Brian Thompson,Home Office,South,LA,New Orleans,Office Supplies,Storage,Plastic Storage Bin,5,34.42,0,172.1,133.05,39.05
+SO-100881,2024-03-04,2024-03-05,First Class,C0220,Omar Lewis,Consumer,West,CA,San Diego,Technology,Phones,Desk Phone,1,589.43,0,589.43,347.77,241.66
+SO-100882,2023-05-30,2023-06-01,First Class,C0150,Brian Anderson,Consumer,South,NC,Charlotte,Office Supplies,Paper,Sticky Notes Bulk,4,7.26,0.2,23.23,19.08,4.15
+SO-100883,2024-06-08,2024-06-13,Standard,C0258,Charles Taylor,Home Office,West,CA,Los Angeles,Office Supplies,Paper,Cardstock 100 Sheets,11,10.7,0.2,94.16,72.05,22.11
+SO-100884,2024-08-06,2024-08-10,Standard,C0258,Charles Taylor,Home Office,Midwest,IN,Indianapolis,Furniture,Chairs,Leather Executive Chair,2,69.19,0,138.38,73.32,65.06
+SO-100885,2024-09-10,2024-09-15,Standard,C0559,Robert Khan,Home Office,South,FL,Orlando,Office Supplies,Binders,3-Ring Binder 2 inch,2,7.66,0,15.32,8.22,7.1
+SO-100886,2023-09-15,2023-09-20,Standard,C0590,Steven Lee,Consumer,Northeast,NY,New York,Technology,Phones,Desk Phone,6,589.43,0.15,3006.09,2086.62,919.47
+SO-100887,2023-06-04,2023-06-08,Standard,C0755,Carol Morgan,Home Office,South,FL,Tampa,Office Supplies,Storage,Rolling Cart,3,111.41,0.15,284.1,190.89,93.21
+SO-100888,2023-04-19,2023-04-19,Same Day,C0142,Ryan Kim,Consumer,West,CO,Denver,Office Supplies,Storage,Rolling Cart,1,111.41,0,111.41,63.63,47.78
+SO-100889,2024-09-10,2024-09-14,Standard,C0540,Wei Gonzalez,Consumer,West,CA,Los Angeles,Office Supplies,Art,Colored Pencils 24,1,3.01,0.1,2.71,2.02,0.69
+SO-100890,2023-05-26,2023-06-01,Standard,C0089,Jennifer Johnson,Corporate,South,GA,Atlanta,Furniture,Furnishings,Picture Frame Set,4,9.83,0,39.32,21.96,17.36
+SO-100891,2023-02-07,2023-02-10,Second Class,C0159,Jacob Wilson,Corporate,Northeast,NY,New York,Technology,Accessories,USB-C Hub,4,126.39,0.3,353.89,309.36,44.53
+SO-100892,2023-04-25,2023-05-01,Standard,C0102,Charles Jones,Corporate,West,UT,Salt Lake City,Furniture,Bookcases,5-Shelf Bookcase,5,102.42,0,512.1,382.65,129.45
+SO-100893,2023-11-06,2023-11-08,Second Class,C0426,Ashley Wilson,Home Office,Northeast,NY,Buffalo,Office Supplies,Envelopes,Security Envelopes 500,8,24.01,0.1,172.87,111.92,60.95
+SO-100894,2023-08-29,2023-09-03,Standard,C0385,Melissa Chen,Consumer,West,CA,San Francisco,Technology,Phones,Conference Speakerphone,2,54.64,0,109.28,79.1,30.18
+SO-100895,2023-03-02,2023-03-06,Standard,C0640,Robert Garcia,Consumer,South,KY,Louisville,Technology,Accessories,Wireless Mouse,4,61.58,0,246.32,163.72,82.6
+SO-100896,2023-04-10,2023-04-12,First Class,C0258,Charles Taylor,Home Office,South,FL,Miami,Furniture,Chairs,Stacking Guest Chair,2,201.37,0,402.74,240.3,162.44
+SO-100897,2023-11-11,2023-11-12,First Class,C0626,Jennifer Torres,Consumer,Northeast,NY,New York,Technology,Phones,Smartphone 128GB,4,639.48,0,2557.92,1978.36,579.56
+SO-100898,2024-05-11,2024-05-14,Second Class,C0049,Robert Gonzalez,Consumer,West,CA,Los Angeles,Office Supplies,Appliances,Desk Fan,7,35.16,0,246.12,161.35,84.77
+SO-100899,2023-09-02,2023-09-06,Standard,C0083,Joseph King,Home Office,Midwest,IL,Chicago,Furniture,Tables,Adjustable Standing Desk,1,425.97,0,425.97,286.01,139.96
+SO-100900,2024-02-08,2024-02-12,Standard,C0624,Sandra Patel,Consumer,West,AZ,Phoenix,Technology,Machines,Label Printer,1,989.61,0.1,890.65,726.69,163.96
+SO-100901,2023-11-28,2023-12-02,Standard,C0667,Amanda Robinson,Consumer,Northeast,NY,New York,Furniture,Tables,Rectangular Meeting Table,2,208.01,0,416.02,318.66,97.36
+SO-100902,2024-07-07,2024-07-13,Standard,C0096,Stephanie King,Corporate,Midwest,IN,Indianapolis,Furniture,Tables,Folding Training Table,3,326.87,0,980.61,716.31,264.3
+SO-100903,2023-06-16,2023-06-20,Second Class,C0412,Steven Hernandez,Home Office,Midwest,MO,Kansas City,Furniture,Chairs,Leather Executive Chair,5,69.19,0,345.95,183.3,162.65
+SO-100904,2024-10-16,2024-10-20,Standard,C0719,Mark Thomas,Corporate,South,TX,Dallas,Furniture,Bookcases,5-Shelf Bookcase,14,102.42,0,1433.88,1071.42,362.46
+SO-100905,2023-01-18,2023-01-21,Second Class,C0650,Eric Wilson,Home Office,South,TX,Dallas,Furniture,Furnishings,Desk Lamp,3,87.18,0,261.54,192.09,69.45
+SO-100906,2024-11-28,2024-12-03,Standard,C0407,Sofia Smith,Consumer,West,CA,Los Angeles,Furniture,Tables,Folding Training Table,13,326.87,0.5,2124.66,3104.01,-979.35
+SO-100907,2023-04-24,2023-04-28,Standard,C0402,Amanda Bell,Consumer,Midwest,IL,Chicago,Office Supplies,Paper,Ruled Notepads 12-Pack,3,25.19,0.3,52.9,56.7,-3.8
+SO-100908,2023-09-25,2023-09-29,Standard,C0045,Joseph Hall,Consumer,South,VA,Richmond,Furniture,Furnishings,Desk Organizer,3,56.21,0.1,151.77,123.45,28.32
+SO-100909,2023-06-13,2023-06-15,First Class,C0715,Elizabeth Rogers,Consumer,Midwest,WI,Milwaukee,Office Supplies,Storage,Plastic Storage Bin,2,34.42,0,68.84,53.22,15.62
+SO-100910,2024-05-12,2024-05-14,First Class,C0662,Nancy Martin,Corporate,South,TX,Houston,Furniture,Chairs,Ergonomic Task Chair,5,204.73,0,1023.65,642.15,381.5
+SO-100911,2023-07-07,2023-07-13,Standard,C0651,Jessica Shah,Consumer,West,CA,Los Angeles,Office Supplies,Paper,Copy Paper Ream,3,21.75,0.1,58.73,47.19,11.54
+SO-100912,2023-12-05,2023-12-07,First Class,C0168,Mary Scott,Consumer,Northeast,PA,Pittsburgh,Office Supplies,Appliances,Desk Fan,4,35.16,0.2,112.51,92.2,20.31
+SO-100913,2024-02-29,2024-03-05,Standard,C0336,Stephanie Cook,Consumer,South,LA,New Orleans,Furniture,Furnishings,Wall Clock,1,38.67,0,38.67,21.44,17.23
+SO-100914,2023-12-13,2023-12-15,First Class,C0559,Robert Khan,Home Office,West,WA,Seattle,Technology,Accessories,Mechanical Keyboard,2,32.85,0,65.7,39.26,26.44
+SO-100915,2024-07-22,2024-07-24,Second Class,C0745,Richard Lee,Consumer,Midwest,OH,Columbus,Technology,Copiers,Workgroup Copier,5,2065.49,0,10327.45,7277.2,3050.25
+SO-100916,2023-09-20,2023-09-25,Standard,C0465,Priya Morgan,Consumer,Northeast,MA,Boston,Furniture,Chairs,Leather Executive Chair,5,69.19,0.4,207.57,183.3,24.27
+SO-100917,2024-04-25,2024-04-25,Same Day,C0391,Andrew Jackson,Home Office,Northeast,PA,Pittsburgh,Office Supplies,Binders,3-Ring Binder 2 inch,2,7.66,0,15.32,8.22,7.1
+SO-100918,2024-07-13,2024-07-15,Second Class,C0472,Michael Martin,Consumer,South,TX,San Antonio,Furniture,Bookcases,5-Shelf Bookcase,10,102.42,0,1024.2,765.3,258.9
+SO-100919,2024-11-24,2024-11-26,First Class,C0483,Kimberly Lewis,Consumer,Midwest,OH,Cleveland,Office Supplies,Storage,Rolling Cart,3,111.41,0.4,200.54,190.89,9.65
+SO-100920,2023-10-10,2023-10-15,Standard,C0547,Ashley Murphy,Consumer,Midwest,MO,Kansas City,Furniture,Tables,Adjustable Standing Desk,6,425.97,0.1,2300.24,1716.06,584.18
+SO-100921,2023-10-26,2023-10-28,First Class,C0529,Donna Thomas,Corporate,Midwest,WI,Milwaukee,Office Supplies,Appliances,Paper Shredder,4,169.63,0,678.52,371.24,307.28
+SO-100922,2023-09-07,2023-09-12,Standard,C0030,Michael Hill,Consumer,South,TX,Houston,Furniture,Bookcases,5-Shelf Bookcase,2,102.42,0,204.84,153.06,51.78
+SO-100923,2023-09-01,2023-09-06,Standard,C0695,Daniel Robinson,Consumer,Northeast,NY,New York,Office Supplies,Binders,Sheet Protectors 100,2,3.15,0.1,5.67,4.36,1.31
+SO-100924,2024-10-17,2024-10-19,First Class,C0762,Emily Thompson,Home Office,Northeast,NY,Buffalo,Office Supplies,Envelopes,Security Envelopes 500,7,24.01,0,168.07,97.93,70.14
+SO-100925,2023-01-15,2023-01-20,Standard,C0230,Anthony Rodriguez,Home Office,South,TX,Dallas,Office Supplies,Envelopes,Security Envelopes 500,4,24.01,0.2,76.83,55.96,20.87
+SO-100926,2024-04-17,2024-04-22,Standard,C0138,Michael Rogers,Corporate,West,CO,Denver,Furniture,Bookcases,5-Shelf Bookcase,13,102.42,0.4,798.88,994.89,-196.01
+SO-100927,2024-12-03,2024-12-06,Second Class,C0185,Samuel Taylor,Consumer,Midwest,OH,Cleveland,Furniture,Furnishings,Desk Organizer,10,56.21,0,562.1,411.5,150.6
+SO-100928,2023-05-21,2023-05-26,Standard,C0508,Carol Jones,Corporate,South,NC,Charlotte,Office Supplies,Storage,File Cabinet 2-Drawer,3,12.16,0.15,31.01,24.51,6.5
+SO-100929,2023-08-23,2023-08-27,Standard,C0012,Robert Flores,Corporate,Northeast,PA,Philadelphia,Furniture,Furnishings,Desk Lamp,2,87.18,0.2,139.49,128.06,11.43
+SO-100930,2023-02-04,2023-02-06,First Class,C0253,Matthew Cook,Consumer,West,CA,San Francisco,Office Supplies,Paper,Sticky Notes Bulk,3,7.26,0,21.78,14.31,7.47
+SO-100931,2024-02-22,2024-02-25,Second Class,C0031,Amanda Anderson,Consumer,Midwest,IL,Chicago,Technology,Accessories,Webcam 1080p,4,139.68,0.4,335.23,388.88,-53.65
+SO-100932,2023-10-09,2023-10-13,Standard,C0540,Wei Gonzalez,Consumer,South,TX,Houston,Office Supplies,Art,Gel Pens 12-Pack,2,8.3,0.2,13.28,8.78,4.5
+SO-100933,2024-12-25,2024-12-30,Standard,C0412,Steven Hernandez,Home Office,West,CO,Denver,Office Supplies,Envelopes,Padded Mailers 25,1,32.68,0,32.68,20.07,12.61
+SO-100934,2024-08-13,2024-08-19,Standard,C0324,Mei Wilson,Consumer,Midwest,IL,Chicago,Furniture,Chairs,Stacking Guest Chair,2,201.37,0.5,201.37,240.3,-38.93
+SO-100935,2024-12-09,2024-12-15,Standard,C0424,Nicholas Robinson,Corporate,Northeast,NY,Buffalo,Technology,Phones,Smartphone 128GB,1,639.48,0,639.48,494.59,144.89
+SO-100936,2023-09-21,2023-09-24,Second Class,C0330,Diego Khan,Consumer,South,TX,San Antonio,Office Supplies,Appliances,Space Heater,5,190.41,0.1,856.85,717.55,139.3
+SO-100937,2024-11-04,2024-11-10,Standard,C0120,Brian Campbell,Consumer,South,NC,Charlotte,Technology,Accessories,External SSD 1TB,1,25.67,0.2,20.54,15.9,4.64
+SO-100938,2023-10-10,2023-10-15,Standard,C0650,Eric Wilson,Home Office,West,CA,San Diego,Office Supplies,Storage,Plastic Storage Bin,9,34.42,0,309.78,239.49,70.29
+SO-100939,2024-08-24,2024-08-29,Standard,C0017,William Sanchez,Consumer,South,TX,San Antonio,Office Supplies,Binders,Binder Clips Box,6,8.45,0.2,40.56,33.06,7.5
+SO-100940,2023-10-20,2023-10-26,Standard,C0189,Priya Lewis,Consumer,Midwest,MN,Minneapolis,Technology,Accessories,Wireless Mouse,5,61.58,0.1,277.11,204.65,72.46
+SO-100941,2023-06-16,2023-06-21,Standard,C0234,Luis Garcia,Consumer,Midwest,OH,Columbus,Furniture,Furnishings,Desk Lamp,9,87.18,0,784.62,576.27,208.35
+SO-100942,2024-11-27,2024-12-02,Standard,C0284,Laura Mitchell,Corporate,South,FL,Orlando,Office Supplies,Storage,File Cabinet 2-Drawer,13,12.16,0,158.08,106.21,51.87
+SO-100943,2023-02-21,2023-02-26,Standard,C0316,Barbara Hall,Consumer,West,CA,Sacramento,Furniture,Chairs,Mesh Office Chair,1,288.97,0.3,202.28,222.81,-20.53
+SO-100944,2024-06-11,2024-06-13,Second Class,C0359,Rebecca Morgan,Consumer,West,CA,Los Angeles,Furniture,Tables,Folding Training Table,6,326.87,0.2,1568.98,1432.62,136.36
+SO-100945,2023-07-15,2023-07-20,Standard,C0057,Patricia Rodriguez,Consumer,Midwest,OH,Columbus,Furniture,Tables,Folding Training Table,1,326.87,0,326.87,238.77,88.1
+SO-100946,2023-05-31,2023-06-05,Standard,C0058,Sofia Cook,Consumer,West,CA,Sacramento,Furniture,Furnishings,Wall Clock,11,38.67,0.15,361.56,235.84,125.72
+SO-100947,2023-03-03,2023-03-04,First Class,C0411,Michael Shah,Corporate,West,CA,San Francisco,Furniture,Bookcases,Corner Bookcase,4,188.81,0.3,528.67,570.4,-41.73
+SO-100948,2024-09-16,2024-09-21,Standard,C0018,Sandra Chen,Corporate,Midwest,MN,Minneapolis,Technology,Copiers,Workgroup Copier,8,2065.49,0,16523.92,11643.52,4880.4
+SO-100949,2023-08-15,2023-08-20,Standard,C0542,Jennifer Murphy,Consumer,West,CA,Los Angeles,Office Supplies,Appliances,Space Heater,1,190.41,0,190.41,143.51,46.9
+SO-100950,2024-04-27,2024-05-03,Standard,C0164,Sarah Davis,Consumer,South,LA,New Orleans,Furniture,Tables,Rectangular Meeting Table,6,208.01,0,1248.06,955.98,292.08
+SO-100951,2023-04-16,2023-04-20,Standard,C0697,Mei Smith,Corporate,South,TX,San Antonio,Office Supplies,Binders,Presentation Binder,4,28.2,0,112.8,62.52,50.28
+SO-100952,2024-07-11,2024-07-16,Standard,C0264,Barbara Patel,Corporate,West,AZ,Phoenix,Technology,Accessories,Webcam 1080p,1,139.68,0,139.68,97.22,42.46
+SO-100953,2024-10-06,2024-10-11,Standard,C0523,William Lopez,Corporate,West,CA,San Diego,Furniture,Furnishings,Wall Clock,11,38.67,0.15,361.56,235.84,125.72
+SO-100954,2023-12-17,2023-12-21,Standard,C0647,Emily Bell,Consumer,Northeast,NY,New York,Office Supplies,Appliances,Desk Fan,3,35.16,0,105.48,69.15,36.33
+SO-100955,2024-08-11,2024-08-17,Standard,C0178,Mark Murphy,Consumer,South,VA,Richmond,Technology,Accessories,Mechanical Keyboard,5,32.85,0.3,114.98,98.15,16.83
+SO-100956,2024-11-02,2024-11-06,Second Class,C0677,Matthew Hill,Corporate,West,AZ,Phoenix,Technology,Accessories,External SSD 1TB,1,25.67,0,25.67,15.9,9.77
+SO-100957,2024-01-10,2024-01-14,Standard,C0362,Sarah Torres,Corporate,South,TX,Austin,Furniture,Tables,Adjustable Standing Desk,4,425.97,0.1,1533.49,1144.04,389.45
+SO-100958,2023-10-18,2023-10-22,Standard,C0011,Barbara White,Corporate,Midwest,OH,Cleveland,Technology,Accessories,External SSD 1TB,12,25.67,0,308.04,190.8,117.24
+SO-100959,2024-03-21,2024-03-27,Standard,C0094,Brian Roberts,Consumer,South,TX,San Antonio,Furniture,Chairs,Ergonomic Task Chair,3,204.73,0.5,307.09,385.29,-78.2
+SO-100960,2024-10-27,2024-10-31,Standard,C0183,Jessica Hall,Consumer,Northeast,RI,Providence,Technology,Machines,Document Scanner,8,676.78,0,5414.24,3029.76,2384.48
+SO-100961,2024-07-10,2024-07-14,Second Class,C0697,Mei Smith,Corporate,Northeast,NY,New York,Office Supplies,Envelopes,Security Envelopes 500,8,24.01,0.5,96.04,111.92,-15.88
+SO-100962,2024-01-18,2024-01-22,Standard,C0707,Eric Khan,Consumer,Midwest,IL,Chicago,Office Supplies,Appliances,Desk Fan,14,35.16,0.15,418.4,322.7,95.7
+SO-100963,2024-01-29,2024-02-03,Standard,C0093,Lisa Wright,Consumer,Northeast,NY,New York,Furniture,Bookcases,Low Storage Bookcase,1,336.42,0.2,269.14,215.13,54.01
+SO-100964,2024-04-09,2024-04-11,Second Class,C0499,Samuel Adams,Consumer,Midwest,MI,Detroit,Furniture,Tables,Adjustable Standing Desk,2,425.97,0,851.94,572.02,279.92
+SO-100965,2024-10-11,2024-10-17,Standard,C0685,Charles Hall,Home Office,Midwest,IL,Chicago,Furniture,Bookcases,Low Storage Bookcase,2,336.42,0.2,538.27,430.26,108.01
+SO-100966,2024-07-28,2024-07-30,Second Class,C0737,Elizabeth Hall,Consumer,West,OR,Portland,Technology,Copiers,Desktop Copier,2,2105.87,0.2,3369.39,3194.28,175.11
+SO-100967,2024-09-14,2024-09-19,Standard,C0264,Barbara Patel,Corporate,Northeast,RI,Providence,Office Supplies,Paper,Copy Paper Ream,2,21.75,0,43.5,31.46,12.04
+SO-100968,2024-07-04,2024-07-07,Second Class,C0354,Nicholas Shah,Corporate,South,LA,New Orleans,Office Supplies,Envelopes,Padded Mailers 25,8,32.68,0.2,209.15,160.56,48.59
+SO-100969,2024-11-16,2024-11-16,Same Day,C0270,Aaron Robinson,Corporate,West,CA,Sacramento,Office Supplies,Binders,Sheet Protectors 100,4,3.15,0,12.6,8.72,3.88
+SO-100970,2024-12-13,2024-12-15,First Class,C0511,Lisa Smith,Consumer,South,KY,Louisville,Furniture,Chairs,Leather Executive Chair,1,69.19,0,69.19,36.66,32.53
+SO-100971,2023-05-23,2023-05-27,Standard,C0250,Michelle Cook,Corporate,Midwest,IL,Chicago,Office Supplies,Binders,Sheet Protectors 100,3,3.15,0,9.45,6.54,2.91
+SO-100972,2024-02-18,2024-02-22,Second Class,C0332,Jessica Scott,Consumer,South,TX,Austin,Technology,Accessories,Mechanical Keyboard,13,32.85,0,427.05,255.19,171.86
+SO-100973,2023-04-29,2023-05-04,Standard,C0313,Daniel Baker,Corporate,West,CO,Denver,Technology,Copiers,Desktop Copier,5,2105.87,0,10529.35,7985.7,2543.65
+SO-100974,2024-07-15,2024-07-17,First Class,C0287,Olivia Morgan,Consumer,Midwest,NE,Omaha,Furniture,Chairs,Mesh Office Chair,3,288.97,0,866.91,668.43,198.48
+SO-100975,2023-05-13,2023-05-15,First Class,C0200,Emma Rogers,Corporate,West,NV,Las Vegas,Office Supplies,Binders,Binder Clips Box,1,8.45,0.1,7.61,5.51,2.1
+SO-100976,2023-03-02,2023-03-06,Standard,C0592,Elizabeth Rogers,Corporate,South,FL,Miami,Furniture,Chairs,Leather Executive Chair,5,69.19,0,345.95,183.3,162.65
+SO-100977,2024-07-15,2024-07-19,Standard,C0135,Olivia Murphy,Consumer,Northeast,PA,Philadelphia,Technology,Phones,Conference Speakerphone,11,54.64,0,601.04,435.05,165.99
+SO-100978,2023-11-09,2023-11-11,Second Class,C0524,William Mitchell,Home Office,West,CO,Denver,Office Supplies,Art,Dry Erase Markers,1,13.77,0,13.77,7.86,5.91
+SO-100979,2023-04-26,2023-04-29,Second Class,C0588,Omar Roberts,Consumer,Northeast,NY,New York,Furniture,Bookcases,Low Storage Bookcase,11,336.42,0,3700.62,2366.43,1334.19
+SO-100980,2024-04-27,2024-04-27,Same Day,C0677,Matthew Hill,Corporate,South,TX,Austin,Office Supplies,Paper,Sticky Notes Bulk,3,7.26,0.3,15.25,14.31,0.94
+SO-100981,2024-08-16,2024-08-22,Standard,C0590,Steven Lee,Consumer,South,TX,Dallas,Furniture,Tables,Round Cafe Table,8,216.46,0.1,1558.51,1318.72,239.79
+SO-100982,2024-01-31,2024-02-06,Standard,C0303,Patricia Gonzalez,Consumer,Midwest,WI,Milwaukee,Furniture,Chairs,Stacking Guest Chair,1,201.37,0.2,161.1,120.15,40.95
+SO-100983,2024-03-21,2024-03-25,Standard,C0228,Charles Rogers,Corporate,West,CA,Sacramento,Office Supplies,Art,Colored Pencils 24,10,3.01,0.1,27.09,20.2,6.89
+SO-100984,2023-12-05,2023-12-07,Second Class,C0156,Amanda Rodriguez,Consumer,Midwest,IL,Chicago,Furniture,Furnishings,Floor Mat,1,12.58,0,12.58,8.18,4.4
+SO-100985,2023-07-20,2023-07-23,Second Class,C0374,Wei Walker,Consumer,West,CA,Los Angeles,Office Supplies,Appliances,Electric Kettle,5,187.08,0,935.4,589.55,345.85
+SO-100986,2024-01-24,2024-01-26,First Class,C0410,Laura Williams,Corporate,South,TX,Houston,Office Supplies,Envelopes,Padded Mailers 25,9,32.68,0,294.12,180.63,113.49
+SO-100987,2023-08-22,2023-08-27,Standard,C0027,Omar Kim,Home Office,South,TX,Austin,Technology,Phones,Smartphone 128GB,1,639.48,0,639.48,494.59,144.89
+SO-100988,2023-11-06,2023-11-10,Standard,C0137,Nancy Torres,Corporate,Midwest,OH,Columbus,Furniture,Bookcases,5-Shelf Bookcase,2,102.42,0.5,102.42,153.06,-50.64
+SO-100989,2023-04-22,2023-04-26,Second Class,C0570,Patricia Nguyen,Consumer,Midwest,MN,Minneapolis,Furniture,Chairs,Drafting Stool,4,210.14,0,840.56,649.4,191.16
+SO-100990,2023-08-14,2023-08-16,First Class,C0040,Jennifer Clark,Corporate,Midwest,IL,Chicago,Office Supplies,Envelopes,Large Kraft Envelopes,4,17.68,0.2,56.58,46.4,10.18
+SO-100991,2024-04-20,2024-04-22,Second Class,C0564,Ashley Flores,Corporate,Midwest,IN,Indianapolis,Furniture,Furnishings,Desk Organizer,2,56.21,0,112.42,82.3,30.12
+SO-100992,2024-12-04,2024-12-09,Standard,C0779,Rebecca Torres,Consumer,Midwest,IL,Chicago,Office Supplies,Art,Dry Erase Markers,5,13.77,0.2,55.08,39.3,15.78
+SO-100993,2024-12-01,2024-12-06,Standard,C0571,James Khan,Corporate,South,TX,San Antonio,Office Supplies,Storage,File Cabinet 2-Drawer,1,12.16,0,12.16,8.17,3.99
+SO-100994,2023-11-17,2023-11-23,Standard,C0287,Olivia Morgan,Consumer,West,CA,Sacramento,Office Supplies,Appliances,Space Heater,7,190.41,0.1,1199.58,1004.57,195.01
+SO-100995,2023-08-04,2023-08-05,First Class,C0012,Robert Flores,Corporate,Midwest,MO,Kansas City,Office Supplies,Envelopes,Security Envelopes 500,7,24.01,0,168.07,97.93,70.14
+SO-100996,2023-09-15,2023-09-19,Standard,C0636,Emma Carter,Home Office,Northeast,NY,New York,Office Supplies,Appliances,Paper Shredder,10,169.63,0,1696.3,928.1,768.2
+SO-100997,2024-05-07,2024-05-11,Standard,C0595,Stephanie Mitchell,Consumer,South,TX,San Antonio,Office Supplies,Art,Dry Erase Markers,5,13.77,0,68.85,39.3,29.55
+SO-100998,2023-07-26,2023-07-28,First Class,C0500,Matthew Mitchell,Consumer,Northeast,NY,New York,Office Supplies,Envelopes,Padded Mailers 25,6,32.68,0,196.08,120.42,75.66
+SO-100999,2023-08-16,2023-08-22,Standard,C0470,Aisha Green,Consumer,West,WA,Seattle,Furniture,Chairs,Leather Executive Chair,6,69.19,0,415.14,219.96,195.18
+SO-101000,2023-06-10,2023-06-14,Standard,C0045,Joseph Hall,Consumer,Midwest,IL,Chicago,Technology,Phones,Conference Speakerphone,2,54.64,0.1,98.35,79.1,19.25
